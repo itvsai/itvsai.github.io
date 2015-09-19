@@ -1,0 +1,2303 @@
+/* Fixed you must use */ 
+/*<div class="row"> */
+/* then */
+/*<div class="col-   ">*/
+	
+	.row.col-fixed-1{width: 80px;}/* 8.333 from PC sccrean % */
+	.row.col-fixed-2{width: 160px;}/* 16.66666667 % */
+	.row.col-fixed-3{width: 240px;}/*  25 % */
+	.row.col-fixed-4{width: 320px;}/*  33.3333333 % */
+	.row.col-fixed-5{width: 400px;}/*  41.6666667 % */
+	.row.col-fixed-6{width: 480px;}/*  50 % */
+	.row.col-fixed-7{width: 560px;}/*  58.3333333 % */
+	.row.col-fixed-8{width: 640px;}/*  66.6666667 % */
+	.row.col-fixed-9{width: 720px;}/*  75 % */
+	.row.col-fixed-10{width: 800px;}/*  83.3333333 % */
+	.row.col-fixed-11{width: 880px;}/* 91.6666667 % */
+	.row.col-fixed-12{width: 960px;}/* 100 % */
+
+/* PC out of range */
+	.container {
+		margin:0 auto;
+		padding: 0;
+		width: 1170px
+	}
+    
+    /* Row to make separat continer cause jumb unnessery commponent up*/
+	/* Esssssssssential because of col %%%%%%% */
+	.row {
+	width: 1170px;
+
+
+	}
+
+	/*When website at PC it will be with this width 60 & 20 */
+	.col-variable-1{width:8.333333%;}
+	.col-variable-2{width:16.66666667%;}
+	.col-variable-3{width:25%;}
+	.col-variable-4{width:33.3333333%;}
+	.col-variable-5{width:41.6666667%;}
+	.col-variable-6{width:50%;}
+	.col-variable-7{width:58.3333333%;}
+	.col-variable-8{width:66.6666667%;}
+	.col-variable-9{width:75%;}
+	.col-variable-10{width:83.3333333%;}
+	.col-variable-11{width:91.6666667%;}
+	.col-variable-12{width:100%;}
+
+/* NOTE combine row with col- [e.g .row.col-variable-2 ]is anather way but diffecult
+ because you use both different divs under each other*/
+
+	.col-PC-1{width:8.333333%;}
+	.col-PC-2{width:16.66666667%;}
+	.col-PC-3{width:25%;}
+	.col-PC-4{width:33.3333333%;}
+	.col-PC-5{width:41.6666667%;}
+	.col-PC-6{width:50%;}
+	.col-PC-7{width:58.3333333%;}
+	.col-PC-8{width:66.6666667%;}
+	.col-PC-9{width:75%;}
+	.col-PC-10{width:83.3333333%;}
+	.col-PC-11{width:91.6666667%;}
+	.col-PC-12{width:100%;}
+
+
+
+
+/* PC range from 1200 768 @me3dia*/
+/* 1 - PC large 1200*/
+ /*@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)
+*/
+@media (max-width: 1200px ){
+	.container {
+		margin:0 auto;
+		padding: 0;		
+		width: 1170px
+	}
+    
+    /* Row to make separat continer cause jumb unnessery commponent up*/
+	/* Esssssssssential because of col %%%%%%% */
+	.row {
+	width: 1170px;
+
+
+	}
+
+	/*When website at PC it will be with this width 60 & 20 */
+	.col-variable-1{width:8.333333%;}
+	.col-variable-2{width:16.66666667%;}
+	.col-variable-3{width:25%;}
+	.col-variable-4{width:33.3333333%;}
+	.col-variable-5{width:41.6666667%;}
+	.col-variable-6{width:50%;}
+	.col-variable-7{width:58.3333333%;}
+	.col-variable-8{width:66.6666667%;}
+	.col-variable-9{width:75%;}
+	.col-variable-10{width:83.3333333%;}
+	.col-variable-11{width:91.6666667%;}
+	.col-variable-12{width:100%;}
+
+/* NOTE combine row with col- [e.g .row.col-variable-2 ]is anather way but diffecult
+ because you use both different divs under each other*/
+
+	.col-PC-1{width:8.333333%;}
+	.col-PC-2{width:16.66666667%;}
+	.col-PC-3{width:25%;}
+	.col-PC-4{width:33.3333333%;}
+	.col-PC-5{width:41.6666667%;}
+	.col-PC-6{width:50%;}
+	.col-PC-7{width:58.3333333%;}
+	.col-PC-8{width:66.6666667%;}
+	.col-PC-9{width:75%;}
+	.col-PC-10{width:83.3333333%;}
+	.col-PC-11{width:91.6666667%;}
+	.col-PC-12{width:100%;}
+
+
+}
+
+/* 2 - PC large 1200*/
+ /*@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)
+*/
+@media (max-width: 1196px ){
+	.container {
+		margin:0 auto;
+		padding: 0;		
+		width: 1166px
+	}
+    
+    /* Row to make separat continer cause jumb unnessery commponent up*/
+	/* Esssssssssential because of col %%%%%%% */
+	.row {
+	width: 1166px;
+
+
+	}
+
+	/*When website at PC it will be with this width 60 & 20 */
+	.col-variable-1{width:8.333333%;}
+	.col-variable-2{width:16.66666667%;}
+	.col-variable-3{width:25%;}
+	.col-variable-4{width:33.3333333%;}
+	.col-variable-5{width:41.6666667%;}
+	.col-variable-6{width:50%;}
+	.col-variable-7{width:58.3333333%;}
+	.col-variable-8{width:66.6666667%;}
+	.col-variable-9{width:75%;}
+	.col-variable-10{width:83.3333333%;}
+	.col-variable-11{width:91.6666667%;}
+	.col-variable-12{width:100%;}
+
+/* NOTE combine row with col- [e.g .row.col-variable-2 ]is anather way but diffecult
+ because you use both different divs under each other*/
+
+	.col-PC-1{width:8.333333%;}
+	.col-PC-2{width:16.66666667%;}
+	.col-PC-3{width:25%;}
+	.col-PC-4{width:33.3333333%;}
+	.col-PC-5{width:41.6666667%;}
+	.col-PC-6{width:50%;}
+	.col-PC-7{width:58.3333333%;}
+	.col-PC-8{width:66.6666667%;}
+	.col-PC-9{width:75%;}
+	.col-PC-10{width:83.3333333%;}
+	.col-PC-11{width:91.6666667%;}
+	.col-PC-12{width:100%;}
+
+
+}
+
+/* 3 - PC large 1200*/
+ /*@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)
+*/
+@media (max-width: 1192px ){
+	.container {
+		margin:0 auto;
+		padding: 0;		
+		width: 1162px
+	}
+    
+    /* Row to make separat continer cause jumb unnessery commponent up*/
+	/* Esssssssssential because of col %%%%%%% */
+	.row {
+	width: 1162px;
+
+
+	}
+
+	/*When website at PC it will be with this width 60 & 20 */
+	.col-variable-1{width:8.333333%;}
+	.col-variable-2{width:16.66666667%;}
+	.col-variable-3{width:25%;}
+	.col-variable-4{width:33.3333333%;}
+	.col-variable-5{width:41.6666667%;}
+	.col-variable-6{width:50%;}
+	.col-variable-7{width:58.3333333%;}
+	.col-variable-8{width:66.6666667%;}
+	.col-variable-9{width:75%;}
+	.col-variable-10{width:83.3333333%;}
+	.col-variable-11{width:91.6666667%;}
+	.col-variable-12{width:100%;}
+
+/* NOTE combine row with col- [e.g .row.col-variable-2 ]is anather way but diffecult
+ because you use both different divs under each other*/
+
+	.col-PC-1{width:8.333333%;}
+	.col-PC-2{width:16.66666667%;}
+	.col-PC-3{width:25%;}
+	.col-PC-4{width:33.3333333%;}
+	.col-PC-5{width:41.6666667%;}
+	.col-PC-6{width:50%;}
+	.col-PC-7{width:58.3333333%;}
+	.col-PC-8{width:66.6666667%;}
+	.col-PC-9{width:75%;}
+	.col-PC-10{width:83.3333333%;}
+	.col-PC-11{width:91.6666667%;}
+	.col-PC-12{width:100%;}
+
+
+}
+
+/* 4 - PC large 1200*/
+ /*@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)
+*/
+@media (max-width: 1188px ){
+	.container {
+		margin:0 auto;
+		padding: 0;		
+		width: 1158px
+	}
+    
+    /* Row to make separat continer cause jumb unnessery commponent up*/
+	/* Esssssssssential because of col %%%%%%% */
+	.row {
+	width: 1158px;
+
+
+	}
+
+	/*When website at PC it will be with this width 60 & 20 */
+	.col-variable-1{width:8.333333%;}
+	.col-variable-2{width:16.66666667%;}
+	.col-variable-3{width:25%;}
+	.col-variable-4{width:33.3333333%;}
+	.col-variable-5{width:41.6666667%;}
+	.col-variable-6{width:50%;}
+	.col-variable-7{width:58.3333333%;}
+	.col-variable-8{width:66.6666667%;}
+	.col-variable-9{width:75%;}
+	.col-variable-10{width:83.3333333%;}
+	.col-variable-11{width:91.6666667%;}
+	.col-variable-12{width:100%;}
+
+/* NOTE combine row with col- [e.g .row.col-variable-2 ]is anather way but diffecult
+ because you use both different divs under each other*/
+
+	.col-PC-1{width:8.333333%;}
+	.col-PC-2{width:16.66666667%;}
+	.col-PC-3{width:25%;}
+	.col-PC-4{width:33.3333333%;}
+	.col-PC-5{width:41.6666667%;}
+	.col-PC-6{width:50%;}
+	.col-PC-7{width:58.3333333%;}
+	.col-PC-8{width:66.6666667%;}
+	.col-PC-9{width:75%;}
+	.col-PC-10{width:83.3333333%;}
+	.col-PC-11{width:91.6666667%;}
+	.col-PC-12{width:100%;}
+
+
+}
+
+/* 5 - PC large 1200*/
+ /*@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)
+*/
+@media (max-width: 1184px ){
+	.container {
+		margin:0 auto;
+		padding: 0;		
+		width: 1154px
+	}
+    
+    /* Row to make separat continer cause jumb unnessery commponent up*/
+	/* Esssssssssential because of col %%%%%%% */
+	.row {
+	width: 1154px;
+
+
+	}
+
+	/*When website at PC it will be with this width 60 & 20 */
+	.col-variable-1{width:8.333333%;}
+	.col-variable-2{width:16.66666667%;}
+	.col-variable-3{width:25%;}
+	.col-variable-4{width:33.3333333%;}
+	.col-variable-5{width:41.6666667%;}
+	.col-variable-6{width:50%;}
+	.col-variable-7{width:58.3333333%;}
+	.col-variable-8{width:66.6666667%;}
+	.col-variable-9{width:75%;}
+	.col-variable-10{width:83.3333333%;}
+	.col-variable-11{width:91.6666667%;}
+	.col-variable-12{width:100%;}
+
+/* NOTE combine row with col- [e.g .row.col-variable-2 ]is anather way but diffecult
+ because you use both different divs under each other*/
+
+	.col-PC-1{width:8.333333%;}
+	.col-PC-2{width:16.66666667%;}
+	.col-PC-3{width:25%;}
+	.col-PC-4{width:33.3333333%;}
+	.col-PC-5{width:41.6666667%;}
+	.col-PC-6{width:50%;}
+	.col-PC-7{width:58.3333333%;}
+	.col-PC-8{width:66.6666667%;}
+	.col-PC-9{width:75%;}
+	.col-PC-10{width:83.3333333%;}
+	.col-PC-11{width:91.6666667%;}
+	.col-PC-12{width:100%;}
+
+
+}
+
+/* 6 - PC large 1200*/
+ /*@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)
+*/
+@media (max-width: 1180px ){
+	.container {
+		margin:0 auto;
+		padding: 0;		
+		width: 1150px
+	}
+    
+    /* Row to make separat continer cause jumb unnessery commponent up*/
+	/* Esssssssssential because of col %%%%%%% */
+	.row {
+	width: 1150px;
+
+
+	}
+
+	/*When website at PC it will be with this width 60 & 20 */
+	.col-variable-1{width:8.333333%;}
+	.col-variable-2{width:16.66666667%;}
+	.col-variable-3{width:25%;}
+	.col-variable-4{width:33.3333333%;}
+	.col-variable-5{width:41.6666667%;}
+	.col-variable-6{width:50%;}
+	.col-variable-7{width:58.3333333%;}
+	.col-variable-8{width:66.6666667%;}
+	.col-variable-9{width:75%;}
+	.col-variable-10{width:83.3333333%;}
+	.col-variable-11{width:91.6666667%;}
+	.col-variable-12{width:100%;}
+
+/* NOTE combine row with col- [e.g .row.col-variable-2 ]is anather way but diffecult
+ because you use both different divs under each other*/
+
+	.col-PC-1{width:8.333333%;}
+	.col-PC-2{width:16.66666667%;}
+	.col-PC-3{width:25%;}
+	.col-PC-4{width:33.3333333%;}
+	.col-PC-5{width:41.6666667%;}
+	.col-PC-6{width:50%;}
+	.col-PC-7{width:58.3333333%;}
+	.col-PC-8{width:66.6666667%;}
+	.col-PC-9{width:75%;}
+	.col-PC-10{width:83.3333333%;}
+	.col-PC-11{width:91.6666667%;}
+	.col-PC-12{width:100%;}
+
+
+}
+
+/* 7 - PC large 1200*/
+ /*@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)
+*/
+@media (max-width: 1176px ){
+	.container {
+		margin:0 auto;
+		padding: 0;		
+		width: 1146px
+	}
+    
+    /* Row to make separat continer cause jumb unnessery commponent up*/
+	/* Esssssssssential because of col %%%%%%% */
+	.row {
+	width: 1164px;
+
+
+	}
+
+	/*When website at PC it will be with this width 60 & 20 */
+	.col-variable-1{width:8.333333%;}
+	.col-variable-2{width:16.66666667%;}
+	.col-variable-3{width:25%;}
+	.col-variable-4{width:33.3333333%;}
+	.col-variable-5{width:41.6666667%;}
+	.col-variable-6{width:50%;}
+	.col-variable-7{width:58.3333333%;}
+	.col-variable-8{width:66.6666667%;}
+	.col-variable-9{width:75%;}
+	.col-variable-10{width:83.3333333%;}
+	.col-variable-11{width:91.6666667%;}
+	.col-variable-12{width:100%;}
+
+/* NOTE combine row with col- [e.g .row.col-variable-2 ]is anather way but diffecult
+ because you use both different divs under each other*/
+
+	.col-PC-1{width:8.333333%;}
+	.col-PC-2{width:16.66666667%;}
+	.col-PC-3{width:25%;}
+	.col-PC-4{width:33.3333333%;}
+	.col-PC-5{width:41.6666667%;}
+	.col-PC-6{width:50%;}
+	.col-PC-7{width:58.3333333%;}
+	.col-PC-8{width:66.6666667%;}
+	.col-PC-9{width:75%;}
+	.col-PC-10{width:83.3333333%;}
+	.col-PC-11{width:91.6666667%;}
+	.col-PC-12{width:100%;}
+
+
+}
+
+/* 1 - PC large 1200*/
+ /*@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)
+*/
+@media (max-width: 1140px ){
+	.container {
+		margin:0 auto;
+		padding: 0;		
+		width: 960px
+	}
+    
+    /* Row to make separat continer cause jumb unnessery commponent up*/
+	/* Esssssssssential because of col %%%%%%% */
+	.row {
+	width: 960px;
+
+
+	}
+
+	/*When website at PC it will be with this width 60 & 20 */
+	.col-variable-1{width:8.333333%;}
+	.col-variable-2{width:16.66666667%;}
+	.col-variable-3{width:25%;}
+	.col-variable-4{width:33.3333333%;}
+	.col-variable-5{width:41.6666667%;}
+	.col-variable-6{width:50%;}
+	.col-variable-7{width:58.3333333%;}
+	.col-variable-8{width:66.6666667%;}
+	.col-variable-9{width:75%;}
+	.col-variable-10{width:83.3333333%;}
+	.col-variable-11{width:91.6666667%;}
+	.col-variable-12{width:100%;}
+
+/* NOTE combine row with col- [e.g .row.col-variable-2 ]is anather way but diffecult
+ because you use both different divs under each other*/
+
+	.col-PC-1{width:8.333333%;}
+	.col-PC-2{width:16.66666667%;}
+	.col-PC-3{width:25%;}
+	.col-PC-4{width:33.3333333%;}
+	.col-PC-5{width:41.6666667%;}
+	.col-PC-6{width:50%;}
+	.col-PC-7{width:58.3333333%;}
+	.col-PC-8{width:66.6666667%;}
+	.col-PC-9{width:75%;}
+	.col-PC-10{width:83.3333333%;}
+	.col-PC-11{width:91.6666667%;}
+	.col-PC-12{width:100%;}
+
+
+}
+
+/* 1 - PC large 1200*/
+ /*@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)
+*/
+@media (max-width: 11px ){
+	.container {
+		margin:0 auto;
+		padding: 0;		
+		width: 960px
+	}
+    
+    /* Row to make separat continer cause jumb unnessery commponent up*/
+	/* Esssssssssential because of col %%%%%%% */
+	.row {
+	width: 960px;
+
+
+	}
+
+	/*When website at PC it will be with this width 60 & 20 */
+	.col-variable-1{width:8.333333%;}
+	.col-variable-2{width:16.66666667%;}
+	.col-variable-3{width:25%;}
+	.col-variable-4{width:33.3333333%;}
+	.col-variable-5{width:41.6666667%;}
+	.col-variable-6{width:50%;}
+	.col-variable-7{width:58.3333333%;}
+	.col-variable-8{width:66.6666667%;}
+	.col-variable-9{width:75%;}
+	.col-variable-10{width:83.3333333%;}
+	.col-variable-11{width:91.6666667%;}
+	.col-variable-12{width:100%;}
+
+/* NOTE combine row with col- [e.g .row.col-variable-2 ]is anather way but diffecult
+ because you use both different divs under each other*/
+
+	.col-PC-1{width:8.333333%;}
+	.col-PC-2{width:16.66666667%;}
+	.col-PC-3{width:25%;}
+	.col-PC-4{width:33.3333333%;}
+	.col-PC-5{width:41.6666667%;}
+	.col-PC-6{width:50%;}
+	.col-PC-7{width:58.3333333%;}
+	.col-PC-8{width:66.6666667%;}
+	.col-PC-9{width:75%;}
+	.col-PC-10{width:83.3333333%;}
+	.col-PC-11{width:91.6666667%;}
+	.col-PC-12{width:100%;}
+
+
+}
+
+/* 1 - PC large 1200*/
+ /*@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)
+*/
+@media (max-width: 11px ){
+	.container {
+		margin:0 auto;
+		padding: 0;		
+		width: 960px
+	}
+    
+    /* Row to make separat continer cause jumb unnessery commponent up*/
+	/* Esssssssssential because of col %%%%%%% */
+	.row {
+	width: 960px;
+
+
+	}
+
+	/*When website at PC it will be with this width 60 & 20 */
+	.col-variable-1{width:8.333333%;}
+	.col-variable-2{width:16.66666667%;}
+	.col-variable-3{width:25%;}
+	.col-variable-4{width:33.3333333%;}
+	.col-variable-5{width:41.6666667%;}
+	.col-variable-6{width:50%;}
+	.col-variable-7{width:58.3333333%;}
+	.col-variable-8{width:66.6666667%;}
+	.col-variable-9{width:75%;}
+	.col-variable-10{width:83.3333333%;}
+	.col-variable-11{width:91.6666667%;}
+	.col-variable-12{width:100%;}
+
+/* NOTE combine row with col- [e.g .row.col-variable-2 ]is anather way but diffecult
+ because you use both different divs under each other*/
+
+	.col-PC-1{width:8.333333%;}
+	.col-PC-2{width:16.66666667%;}
+	.col-PC-3{width:25%;}
+	.col-PC-4{width:33.3333333%;}
+	.col-PC-5{width:41.6666667%;}
+	.col-PC-6{width:50%;}
+	.col-PC-7{width:58.3333333%;}
+	.col-PC-8{width:66.6666667%;}
+	.col-PC-9{width:75%;}
+	.col-PC-10{width:83.3333333%;}
+	.col-PC-11{width:91.6666667%;}
+	.col-PC-12{width:100%;}
+
+
+}
+
+/* 1 - PC large 1200*/
+ /*@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)
+*/
+@media (max-width: 11px ){
+	.container {
+		margin:0 auto;
+		padding: 0;		
+		width: 960px
+	}
+    
+    /* Row to make separat continer cause jumb unnessery commponent up*/
+	/* Esssssssssential because of col %%%%%%% */
+	.row {
+	width: 960px;
+
+
+	}
+
+	/*When website at PC it will be with this width 60 & 20 */
+	.col-variable-1{width:8.333333%;}
+	.col-variable-2{width:16.66666667%;}
+	.col-variable-3{width:25%;}
+	.col-variable-4{width:33.3333333%;}
+	.col-variable-5{width:41.6666667%;}
+	.col-variable-6{width:50%;}
+	.col-variable-7{width:58.3333333%;}
+	.col-variable-8{width:66.6666667%;}
+	.col-variable-9{width:75%;}
+	.col-variable-10{width:83.3333333%;}
+	.col-variable-11{width:91.6666667%;}
+	.col-variable-12{width:100%;}
+
+/* NOTE combine row with col- [e.g .row.col-variable-2 ]is anather way but diffecult
+ because you use both different divs under each other*/
+
+	.col-PC-1{width:8.333333%;}
+	.col-PC-2{width:16.66666667%;}
+	.col-PC-3{width:25%;}
+	.col-PC-4{width:33.3333333%;}
+	.col-PC-5{width:41.6666667%;}
+	.col-PC-6{width:50%;}
+	.col-PC-7{width:58.3333333%;}
+	.col-PC-8{width:66.6666667%;}
+	.col-PC-9{width:75%;}
+	.col-PC-10{width:83.3333333%;}
+	.col-PC-11{width:91.6666667%;}
+	.col-PC-12{width:100%;}
+
+
+}
+
+/* 1 - PC large 1200*/
+ /*@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)
+*/
+@media (max-width: 11px ){
+	.container {
+		margin:0 auto;
+		padding: 0;		
+		width: 960px
+	}
+    
+    /* Row to make separat continer cause jumb unnessery commponent up*/
+	/* Esssssssssential because of col %%%%%%% */
+	.row {
+	width: 960px;
+
+
+	}
+
+	/*When website at PC it will be with this width 60 & 20 */
+	.col-variable-1{width:8.333333%;}
+	.col-variable-2{width:16.66666667%;}
+	.col-variable-3{width:25%;}
+	.col-variable-4{width:33.3333333%;}
+	.col-variable-5{width:41.6666667%;}
+	.col-variable-6{width:50%;}
+	.col-variable-7{width:58.3333333%;}
+	.col-variable-8{width:66.6666667%;}
+	.col-variable-9{width:75%;}
+	.col-variable-10{width:83.3333333%;}
+	.col-variable-11{width:91.6666667%;}
+	.col-variable-12{width:100%;}
+
+/* NOTE combine row with col- [e.g .row.col-variable-2 ]is anather way but diffecult
+ because you use both different divs under each other*/
+
+	.col-PC-1{width:8.333333%;}
+	.col-PC-2{width:16.66666667%;}
+	.col-PC-3{width:25%;}
+	.col-PC-4{width:33.3333333%;}
+	.col-PC-5{width:41.6666667%;}
+	.col-PC-6{width:50%;}
+	.col-PC-7{width:58.3333333%;}
+	.col-PC-8{width:66.6666667%;}
+	.col-PC-9{width:75%;}
+	.col-PC-10{width:83.3333333%;}
+	.col-PC-11{width:91.6666667%;}
+	.col-PC-12{width:100%;}
+
+
+}
+
+/* 1 - PC large 1200*/
+ /*@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)
+*/
+@media (max-width: 11px ){
+	.container {
+		margin:0 auto;
+		padding: 0;		
+		width: 960px
+	}
+    
+    /* Row to make separat continer cause jumb unnessery commponent up*/
+	/* Esssssssssential because of col %%%%%%% */
+	.row {
+	width: 960px;
+
+
+	}
+
+	/*When website at PC it will be with this width 60 & 20 */
+	.col-variable-1{width:8.333333%;}
+	.col-variable-2{width:16.66666667%;}
+	.col-variable-3{width:25%;}
+	.col-variable-4{width:33.3333333%;}
+	.col-variable-5{width:41.6666667%;}
+	.col-variable-6{width:50%;}
+	.col-variable-7{width:58.3333333%;}
+	.col-variable-8{width:66.6666667%;}
+	.col-variable-9{width:75%;}
+	.col-variable-10{width:83.3333333%;}
+	.col-variable-11{width:91.6666667%;}
+	.col-variable-12{width:100%;}
+
+/* NOTE combine row with col- [e.g .row.col-variable-2 ]is anather way but diffecult
+ because you use both different divs under each other*/
+
+	.col-PC-1{width:8.333333%;}
+	.col-PC-2{width:16.66666667%;}
+	.col-PC-3{width:25%;}
+	.col-PC-4{width:33.3333333%;}
+	.col-PC-5{width:41.6666667%;}
+	.col-PC-6{width:50%;}
+	.col-PC-7{width:58.3333333%;}
+	.col-PC-8{width:66.6666667%;}
+	.col-PC-9{width:75%;}
+	.col-PC-10{width:83.3333333%;}
+	.col-PC-11{width:91.6666667%;}
+	.col-PC-12{width:100%;}
+
+
+}
+
+/* 1 - PC large 1200*/
+ /*@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)
+*/
+@media (max-width: 11px ){
+	.container {
+		margin:0 auto;
+		padding: 0;		
+		width: 960px
+	}
+    
+    /* Row to make separat continer cause jumb unnessery commponent up*/
+	/* Esssssssssential because of col %%%%%%% */
+	.row {
+	width: 960px;
+
+
+	}
+
+	/*When website at PC it will be with this width 60 & 20 */
+	.col-variable-1{width:8.333333%;}
+	.col-variable-2{width:16.66666667%;}
+	.col-variable-3{width:25%;}
+	.col-variable-4{width:33.3333333%;}
+	.col-variable-5{width:41.6666667%;}
+	.col-variable-6{width:50%;}
+	.col-variable-7{width:58.3333333%;}
+	.col-variable-8{width:66.6666667%;}
+	.col-variable-9{width:75%;}
+	.col-variable-10{width:83.3333333%;}
+	.col-variable-11{width:91.6666667%;}
+	.col-variable-12{width:100%;}
+
+/* NOTE combine row with col- [e.g .row.col-variable-2 ]is anather way but diffecult
+ because you use both different divs under each other*/
+
+	.col-PC-1{width:8.333333%;}
+	.col-PC-2{width:16.66666667%;}
+	.col-PC-3{width:25%;}
+	.col-PC-4{width:33.3333333%;}
+	.col-PC-5{width:41.6666667%;}
+	.col-PC-6{width:50%;}
+	.col-PC-7{width:58.3333333%;}
+	.col-PC-8{width:66.6666667%;}
+	.col-PC-9{width:75%;}
+	.col-PC-10{width:83.3333333%;}
+	.col-PC-11{width:91.6666667%;}
+	.col-PC-12{width:100%;}
+
+
+}
+
+/* 1 - PC large 1200*/
+ /*@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)
+*/
+@media (max-width: 11px ){
+	.container {
+		margin:0 auto;
+		padding: 0;		
+		width: 960px
+	}
+    
+    /* Row to make separat continer cause jumb unnessery commponent up*/
+	/* Esssssssssential because of col %%%%%%% */
+	.row {
+	width: 960px;
+
+
+	}
+
+	/*When website at PC it will be with this width 60 & 20 */
+	.col-variable-1{width:8.333333%;}
+	.col-variable-2{width:16.66666667%;}
+	.col-variable-3{width:25%;}
+	.col-variable-4{width:33.3333333%;}
+	.col-variable-5{width:41.6666667%;}
+	.col-variable-6{width:50%;}
+	.col-variable-7{width:58.3333333%;}
+	.col-variable-8{width:66.6666667%;}
+	.col-variable-9{width:75%;}
+	.col-variable-10{width:83.3333333%;}
+	.col-variable-11{width:91.6666667%;}
+	.col-variable-12{width:100%;}
+
+/* NOTE combine row with col- [e.g .row.col-variable-2 ]is anather way but diffecult
+ because you use both different divs under each other*/
+
+	.col-PC-1{width:8.333333%;}
+	.col-PC-2{width:16.66666667%;}
+	.col-PC-3{width:25%;}
+	.col-PC-4{width:33.3333333%;}
+	.col-PC-5{width:41.6666667%;}
+	.col-PC-6{width:50%;}
+	.col-PC-7{width:58.3333333%;}
+	.col-PC-8{width:66.6666667%;}
+	.col-PC-9{width:75%;}
+	.col-PC-10{width:83.3333333%;}
+	.col-PC-11{width:91.6666667%;}
+	.col-PC-12{width:100%;}
+
+
+}
+
+/* 1 - PC large 1200*/
+ /*@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)
+*/
+@media (max-width: 11px ){
+	.container {
+		margin:0 auto;
+		padding: 0;		
+		width: 960px
+	}
+    
+    /* Row to make separat continer cause jumb unnessery commponent up*/
+	/* Esssssssssential because of col %%%%%%% */
+	.row {
+	width: 960px;
+
+
+	}
+
+	/*When website at PC it will be with this width 60 & 20 */
+	.col-variable-1{width:8.333333%;}
+	.col-variable-2{width:16.66666667%;}
+	.col-variable-3{width:25%;}
+	.col-variable-4{width:33.3333333%;}
+	.col-variable-5{width:41.6666667%;}
+	.col-variable-6{width:50%;}
+	.col-variable-7{width:58.3333333%;}
+	.col-variable-8{width:66.6666667%;}
+	.col-variable-9{width:75%;}
+	.col-variable-10{width:83.3333333%;}
+	.col-variable-11{width:91.6666667%;}
+	.col-variable-12{width:100%;}
+
+/* NOTE combine row with col- [e.g .row.col-variable-2 ]is anather way but diffecult
+ because you use both different divs under each other*/
+
+	.col-PC-1{width:8.333333%;}
+	.col-PC-2{width:16.66666667%;}
+	.col-PC-3{width:25%;}
+	.col-PC-4{width:33.3333333%;}
+	.col-PC-5{width:41.6666667%;}
+	.col-PC-6{width:50%;}
+	.col-PC-7{width:58.3333333%;}
+	.col-PC-8{width:66.6666667%;}
+	.col-PC-9{width:75%;}
+	.col-PC-10{width:83.3333333%;}
+	.col-PC-11{width:91.6666667%;}
+	.col-PC-12{width:100%;}
+
+
+}
+
+/* 1 - PC large 1200*/
+ /*@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)
+*/
+@media (max-width: 11px ){
+	.container {
+		margin:0 auto;
+		padding: 0;		
+		width: 960px
+	}
+    
+    /* Row to make separat continer cause jumb unnessery commponent up*/
+	/* Esssssssssential because of col %%%%%%% */
+	.row {
+	width: 960px;
+
+
+	}
+
+	/*When website at PC it will be with this width 60 & 20 */
+	.col-variable-1{width:8.333333%;}
+	.col-variable-2{width:16.66666667%;}
+	.col-variable-3{width:25%;}
+	.col-variable-4{width:33.3333333%;}
+	.col-variable-5{width:41.6666667%;}
+	.col-variable-6{width:50%;}
+	.col-variable-7{width:58.3333333%;}
+	.col-variable-8{width:66.6666667%;}
+	.col-variable-9{width:75%;}
+	.col-variable-10{width:83.3333333%;}
+	.col-variable-11{width:91.6666667%;}
+	.col-variable-12{width:100%;}
+
+/* NOTE combine row with col- [e.g .row.col-variable-2 ]is anather way but diffecult
+ because you use both different divs under each other*/
+
+	.col-PC-1{width:8.333333%;}
+	.col-PC-2{width:16.66666667%;}
+	.col-PC-3{width:25%;}
+	.col-PC-4{width:33.3333333%;}
+	.col-PC-5{width:41.6666667%;}
+	.col-PC-6{width:50%;}
+	.col-PC-7{width:58.3333333%;}
+	.col-PC-8{width:66.6666667%;}
+	.col-PC-9{width:75%;}
+	.col-PC-10{width:83.3333333%;}
+	.col-PC-11{width:91.6666667%;}
+	.col-PC-12{width:100%;}
+
+
+}
+
+/* 1 - PC large 1200*/
+ /*@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)
+*/
+@media (max-width: 11px ){
+	.container {
+		margin:0 auto;
+		padding: 0;		
+		width: 960px
+	}
+    
+    /* Row to make separat continer cause jumb unnessery commponent up*/
+	/* Esssssssssential because of col %%%%%%% */
+	.row {
+	width: 960px;
+
+
+	}
+
+	/*When website at PC it will be with this width 60 & 20 */
+	.col-variable-1{width:8.333333%;}
+	.col-variable-2{width:16.66666667%;}
+	.col-variable-3{width:25%;}
+	.col-variable-4{width:33.3333333%;}
+	.col-variable-5{width:41.6666667%;}
+	.col-variable-6{width:50%;}
+	.col-variable-7{width:58.3333333%;}
+	.col-variable-8{width:66.6666667%;}
+	.col-variable-9{width:75%;}
+	.col-variable-10{width:83.3333333%;}
+	.col-variable-11{width:91.6666667%;}
+	.col-variable-12{width:100%;}
+
+/* NOTE combine row with col- [e.g .row.col-variable-2 ]is anather way but diffecult
+ because you use both different divs under each other*/
+
+	.col-PC-1{width:8.333333%;}
+	.col-PC-2{width:16.66666667%;}
+	.col-PC-3{width:25%;}
+	.col-PC-4{width:33.3333333%;}
+	.col-PC-5{width:41.6666667%;}
+	.col-PC-6{width:50%;}
+	.col-PC-7{width:58.3333333%;}
+	.col-PC-8{width:66.6666667%;}
+	.col-PC-9{width:75%;}
+	.col-PC-10{width:83.3333333%;}
+	.col-PC-11{width:91.6666667%;}
+	.col-PC-12{width:100%;}
+
+
+}
+
+/* 1 - PC large 1200*/
+ /*@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)
+*/
+@media (max-width: 11px ){
+	.container {
+		margin:0 auto;
+		padding: 0;		
+		width: 960px
+	}
+    
+    /* Row to make separat continer cause jumb unnessery commponent up*/
+	/* Esssssssssential because of col %%%%%%% */
+	.row {
+	width: 960px;
+
+
+	}
+
+	/*When website at PC it will be with this width 60 & 20 */
+	.col-variable-1{width:8.333333%;}
+	.col-variable-2{width:16.66666667%;}
+	.col-variable-3{width:25%;}
+	.col-variable-4{width:33.3333333%;}
+	.col-variable-5{width:41.6666667%;}
+	.col-variable-6{width:50%;}
+	.col-variable-7{width:58.3333333%;}
+	.col-variable-8{width:66.6666667%;}
+	.col-variable-9{width:75%;}
+	.col-variable-10{width:83.3333333%;}
+	.col-variable-11{width:91.6666667%;}
+	.col-variable-12{width:100%;}
+
+/* NOTE combine row with col- [e.g .row.col-variable-2 ]is anather way but diffecult
+ because you use both different divs under each other*/
+
+	.col-PC-1{width:8.333333%;}
+	.col-PC-2{width:16.66666667%;}
+	.col-PC-3{width:25%;}
+	.col-PC-4{width:33.3333333%;}
+	.col-PC-5{width:41.6666667%;}
+	.col-PC-6{width:50%;}
+	.col-PC-7{width:58.3333333%;}
+	.col-PC-8{width:66.6666667%;}
+	.col-PC-9{width:75%;}
+	.col-PC-10{width:83.3333333%;}
+	.col-PC-11{width:91.6666667%;}
+	.col-PC-12{width:100%;}
+
+
+}
+
+/* 1 - PC large 1200*/
+ /*@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)
+*/
+@media (max-width: 11px ){
+	.container {
+		margin:0 auto;
+		padding: 0;		
+		width: 960px
+	}
+    
+    /* Row to make separat continer cause jumb unnessery commponent up*/
+	/* Esssssssssential because of col %%%%%%% */
+	.row {
+	width: 960px;
+
+
+	}
+
+	/*When website at PC it will be with this width 60 & 20 */
+	.col-variable-1{width:8.333333%;}
+	.col-variable-2{width:16.66666667%;}
+	.col-variable-3{width:25%;}
+	.col-variable-4{width:33.3333333%;}
+	.col-variable-5{width:41.6666667%;}
+	.col-variable-6{width:50%;}
+	.col-variable-7{width:58.3333333%;}
+	.col-variable-8{width:66.6666667%;}
+	.col-variable-9{width:75%;}
+	.col-variable-10{width:83.3333333%;}
+	.col-variable-11{width:91.6666667%;}
+	.col-variable-12{width:100%;}
+
+/* NOTE combine row with col- [e.g .row.col-variable-2 ]is anather way but diffecult
+ because you use both different divs under each other*/
+
+	.col-PC-1{width:8.333333%;}
+	.col-PC-2{width:16.66666667%;}
+	.col-PC-3{width:25%;}
+	.col-PC-4{width:33.3333333%;}
+	.col-PC-5{width:41.6666667%;}
+	.col-PC-6{width:50%;}
+	.col-PC-7{width:58.3333333%;}
+	.col-PC-8{width:66.6666667%;}
+	.col-PC-9{width:75%;}
+	.col-PC-10{width:83.3333333%;}
+	.col-PC-11{width:91.6666667%;}
+	.col-PC-12{width:100%;}
+
+
+}
+/* 1 - PC large 1200*/
+ /*@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)
+*/
+@media (max-width: 11px ){
+	.container {
+		margin:0 auto;
+		padding: 0;		
+		width: 960px
+	}
+    
+    /* Row to make separat continer cause jumb unnessery commponent up*/
+	/* Esssssssssential because of col %%%%%%% */
+	.row {
+	width: 960px;
+
+
+	}
+
+	/*When website at PC it will be with this width 60 & 20 */
+	.col-variable-1{width:8.333333%;}
+	.col-variable-2{width:16.66666667%;}
+	.col-variable-3{width:25%;}
+	.col-variable-4{width:33.3333333%;}
+	.col-variable-5{width:41.6666667%;}
+	.col-variable-6{width:50%;}
+	.col-variable-7{width:58.3333333%;}
+	.col-variable-8{width:66.6666667%;}
+	.col-variable-9{width:75%;}
+	.col-variable-10{width:83.3333333%;}
+	.col-variable-11{width:91.6666667%;}
+	.col-variable-12{width:100%;}
+
+/* NOTE combine row with col- [e.g .row.col-variable-2 ]is anather way but diffecult
+ because you use both different divs under each other*/
+
+	.col-PC-1{width:8.333333%;}
+	.col-PC-2{width:16.66666667%;}
+	.col-PC-3{width:25%;}
+	.col-PC-4{width:33.3333333%;}
+	.col-PC-5{width:41.6666667%;}
+	.col-PC-6{width:50%;}
+	.col-PC-7{width:58.3333333%;}
+	.col-PC-8{width:66.6666667%;}
+	.col-PC-9{width:75%;}
+	.col-PC-10{width:83.3333333%;}
+	.col-PC-11{width:91.6666667%;}
+	.col-PC-12{width:100%;}
+
+
+}
+/* 1 - PC large 1200*/
+ /*@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)
+*/
+@media (max-width: 11px ){
+	.container {
+		margin:0 auto;
+		padding: 0;		
+		width: 960px
+	}
+    
+    /* Row to make separat continer cause jumb unnessery commponent up*/
+	/* Esssssssssential because of col %%%%%%% */
+	.row {
+	width: 960px;
+
+
+	}
+
+	/*When website at PC it will be with this width 60 & 20 */
+	.col-variable-1{width:8.333333%;}
+	.col-variable-2{width:16.66666667%;}
+	.col-variable-3{width:25%;}
+	.col-variable-4{width:33.3333333%;}
+	.col-variable-5{width:41.6666667%;}
+	.col-variable-6{width:50%;}
+	.col-variable-7{width:58.3333333%;}
+	.col-variable-8{width:66.6666667%;}
+	.col-variable-9{width:75%;}
+	.col-variable-10{width:83.3333333%;}
+	.col-variable-11{width:91.6666667%;}
+	.col-variable-12{width:100%;}
+
+/* NOTE combine row with col- [e.g .row.col-variable-2 ]is anather way but diffecult
+ because you use both different divs under each other*/
+
+	.col-PC-1{width:8.333333%;}
+	.col-PC-2{width:16.66666667%;}
+	.col-PC-3{width:25%;}
+	.col-PC-4{width:33.3333333%;}
+	.col-PC-5{width:41.6666667%;}
+	.col-PC-6{width:50%;}
+	.col-PC-7{width:58.3333333%;}
+	.col-PC-8{width:66.6666667%;}
+	.col-PC-9{width:75%;}
+	.col-PC-10{width:83.3333333%;}
+	.col-PC-11{width:91.6666667%;}
+	.col-PC-12{width:100%;}
+
+
+}
+/* 1 - PC large 1200*/
+ /*@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)
+*/
+@media (max-width: 11px ){
+	.container {
+		margin:0 auto;
+		padding: 0;		
+		width: 960px
+	}
+    
+    /* Row to make separat continer cause jumb unnessery commponent up*/
+	/* Esssssssssential because of col %%%%%%% */
+	.row {
+	width: 960px;
+
+
+	}
+
+	/*When website at PC it will be with this width 60 & 20 */
+	.col-variable-1{width:8.333333%;}
+	.col-variable-2{width:16.66666667%;}
+	.col-variable-3{width:25%;}
+	.col-variable-4{width:33.3333333%;}
+	.col-variable-5{width:41.6666667%;}
+	.col-variable-6{width:50%;}
+	.col-variable-7{width:58.3333333%;}
+	.col-variable-8{width:66.6666667%;}
+	.col-variable-9{width:75%;}
+	.col-variable-10{width:83.3333333%;}
+	.col-variable-11{width:91.6666667%;}
+	.col-variable-12{width:100%;}
+
+/* NOTE combine row with col- [e.g .row.col-variable-2 ]is anather way but diffecult
+ because you use both different divs under each other*/
+
+	.col-PC-1{width:8.333333%;}
+	.col-PC-2{width:16.66666667%;}
+	.col-PC-3{width:25%;}
+	.col-PC-4{width:33.3333333%;}
+	.col-PC-5{width:41.6666667%;}
+	.col-PC-6{width:50%;}
+	.col-PC-7{width:58.3333333%;}
+	.col-PC-8{width:66.6666667%;}
+	.col-PC-9{width:75%;}
+	.col-PC-10{width:83.3333333%;}
+	.col-PC-11{width:91.6666667%;}
+	.col-PC-12{width:100%;}
+
+
+}
+/* 1 - PC large 1200*/
+ /*@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)
+*/
+@media (max-width: 11px ){
+	.container {
+		margin:0 auto;
+		padding: 0;		
+		width: 960px
+	}
+    
+    /* Row to make separat continer cause jumb unnessery commponent up*/
+	/* Esssssssssential because of col %%%%%%% */
+	.row {
+	width: 960px;
+
+
+	}
+
+	/*When website at PC it will be with this width 60 & 20 */
+	.col-variable-1{width:8.333333%;}
+	.col-variable-2{width:16.66666667%;}
+	.col-variable-3{width:25%;}
+	.col-variable-4{width:33.3333333%;}
+	.col-variable-5{width:41.6666667%;}
+	.col-variable-6{width:50%;}
+	.col-variable-7{width:58.3333333%;}
+	.col-variable-8{width:66.6666667%;}
+	.col-variable-9{width:75%;}
+	.col-variable-10{width:83.3333333%;}
+	.col-variable-11{width:91.6666667%;}
+	.col-variable-12{width:100%;}
+
+/* NOTE combine row with col- [e.g .row.col-variable-2 ]is anather way but diffecult
+ because you use both different divs under each other*/
+
+	.col-PC-1{width:8.333333%;}
+	.col-PC-2{width:16.66666667%;}
+	.col-PC-3{width:25%;}
+	.col-PC-4{width:33.3333333%;}
+	.col-PC-5{width:41.6666667%;}
+	.col-PC-6{width:50%;}
+	.col-PC-7{width:58.3333333%;}
+	.col-PC-8{width:66.6666667%;}
+	.col-PC-9{width:75%;}
+	.col-PC-10{width:83.3333333%;}
+	.col-PC-11{width:91.6666667%;}
+	.col-PC-12{width:100%;}
+
+
+}
+/* 1 - PC large 1200*/
+ /*@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)
+*/
+@media (max-width: 11px ){
+	.container {
+		margin:0 auto;
+		padding: 0;		
+		width: 960px
+	}
+    
+    /* Row to make separat continer cause jumb unnessery commponent up*/
+	/* Esssssssssential because of col %%%%%%% */
+	.row {
+	width: 960px;
+
+
+	}
+
+	/*When website at PC it will be with this width 60 & 20 */
+	.col-variable-1{width:8.333333%;}
+	.col-variable-2{width:16.66666667%;}
+	.col-variable-3{width:25%;}
+	.col-variable-4{width:33.3333333%;}
+	.col-variable-5{width:41.6666667%;}
+	.col-variable-6{width:50%;}
+	.col-variable-7{width:58.3333333%;}
+	.col-variable-8{width:66.6666667%;}
+	.col-variable-9{width:75%;}
+	.col-variable-10{width:83.3333333%;}
+	.col-variable-11{width:91.6666667%;}
+	.col-variable-12{width:100%;}
+
+/* NOTE combine row with col- [e.g .row.col-variable-2 ]is anather way but diffecult
+ because you use both different divs under each other*/
+
+	.col-PC-1{width:8.333333%;}
+	.col-PC-2{width:16.66666667%;}
+	.col-PC-3{width:25%;}
+	.col-PC-4{width:33.3333333%;}
+	.col-PC-5{width:41.6666667%;}
+	.col-PC-6{width:50%;}
+	.col-PC-7{width:58.3333333%;}
+	.col-PC-8{width:66.6666667%;}
+	.col-PC-9{width:75%;}
+	.col-PC-10{width:83.3333333%;}
+	.col-PC-11{width:91.6666667%;}
+	.col-PC-12{width:100%;}
+
+
+}
+/* 1 - PC large 1200*/
+ /*@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)
+*/
+@media (max-width: 1200px ){
+	.container {
+		margin:0 auto;
+		padding: 0;		
+		width: 960px
+	}
+    
+    /* Row to make separat continer cause jumb unnessery commponent up*/
+	/* Esssssssssential because of col %%%%%%% */
+	.row {
+	width: 960px;
+
+
+	}
+
+	/*When website at PC it will be with this width 60 & 20 */
+	.col-variable-1{width:8.333333%;}
+	.col-variable-2{width:16.66666667%;}
+	.col-variable-3{width:25%;}
+	.col-variable-4{width:33.3333333%;}
+	.col-variable-5{width:41.6666667%;}
+	.col-variable-6{width:50%;}
+	.col-variable-7{width:58.3333333%;}
+	.col-variable-8{width:66.6666667%;}
+	.col-variable-9{width:75%;}
+	.col-variable-10{width:83.3333333%;}
+	.col-variable-11{width:91.6666667%;}
+	.col-variable-12{width:100%;}
+
+/* NOTE combine row with col- [e.g .row.col-variable-2 ]is anather way but diffecult
+ because you use both different divs under each other*/
+
+	.col-PC-1{width:8.333333%;}
+	.col-PC-2{width:16.66666667%;}
+	.col-PC-3{width:25%;}
+	.col-PC-4{width:33.3333333%;}
+	.col-PC-5{width:41.6666667%;}
+	.col-PC-6{width:50%;}
+	.col-PC-7{width:58.3333333%;}
+	.col-PC-8{width:66.6666667%;}
+	.col-PC-9{width:75%;}
+	.col-PC-10{width:83.3333333%;}
+	.col-PC-11{width:91.6666667%;}
+	.col-PC-12{width:100%;}
+
+
+}
+/* 1 - PC large 1200*/
+ /*@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)
+*/
+@media (max-width: 1200px ){
+	.container {
+		margin:0 auto;
+		padding: 0;		
+		width: 960px
+	}
+    
+    /* Row to make separat continer cause jumb unnessery commponent up*/
+	/* Esssssssssential because of col %%%%%%% */
+	.row {
+	width: 960px;
+
+
+	}
+
+	/*When website at PC it will be with this width 60 & 20 */
+	.col-variable-1{width:8.333333%;}
+	.col-variable-2{width:16.66666667%;}
+	.col-variable-3{width:25%;}
+	.col-variable-4{width:33.3333333%;}
+	.col-variable-5{width:41.6666667%;}
+	.col-variable-6{width:50%;}
+	.col-variable-7{width:58.3333333%;}
+	.col-variable-8{width:66.6666667%;}
+	.col-variable-9{width:75%;}
+	.col-variable-10{width:83.3333333%;}
+	.col-variable-11{width:91.6666667%;}
+	.col-variable-12{width:100%;}
+
+/* NOTE combine row with col- [e.g .row.col-variable-2 ]is anather way but diffecult
+ because you use both different divs under each other*/
+
+	.col-PC-1{width:8.333333%;}
+	.col-PC-2{width:16.66666667%;}
+	.col-PC-3{width:25%;}
+	.col-PC-4{width:33.3333333%;}
+	.col-PC-5{width:41.6666667%;}
+	.col-PC-6{width:50%;}
+	.col-PC-7{width:58.3333333%;}
+	.col-PC-8{width:66.6666667%;}
+	.col-PC-9{width:75%;}
+	.col-PC-10{width:83.3333333%;}
+	.col-PC-11{width:91.6666667%;}
+	.col-PC-12{width:100%;}
+
+
+}
+/* 1 - PC large 1200*/
+ /*@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)
+*/
+@media (max-width: 1200px ){
+	.container {
+		margin:0 auto;
+		padding: 0;		
+		width: 960px
+	}
+    
+    /* Row to make separat continer cause jumb unnessery commponent up*/
+	/* Esssssssssential because of col %%%%%%% */
+	.row {
+	width: 960px;
+
+
+	}
+
+	/*When website at PC it will be with this width 60 & 20 */
+	.col-variable-1{width:8.333333%;}
+	.col-variable-2{width:16.66666667%;}
+	.col-variable-3{width:25%;}
+	.col-variable-4{width:33.3333333%;}
+	.col-variable-5{width:41.6666667%;}
+	.col-variable-6{width:50%;}
+	.col-variable-7{width:58.3333333%;}
+	.col-variable-8{width:66.6666667%;}
+	.col-variable-9{width:75%;}
+	.col-variable-10{width:83.3333333%;}
+	.col-variable-11{width:91.6666667%;}
+	.col-variable-12{width:100%;}
+
+/* NOTE combine row with col- [e.g .row.col-variable-2 ]is anather way but diffecult
+ because you use both different divs under each other*/
+
+	.col-PC-1{width:8.333333%;}
+	.col-PC-2{width:16.66666667%;}
+	.col-PC-3{width:25%;}
+	.col-PC-4{width:33.3333333%;}
+	.col-PC-5{width:41.6666667%;}
+	.col-PC-6{width:50%;}
+	.col-PC-7{width:58.3333333%;}
+	.col-PC-8{width:66.6666667%;}
+	.col-PC-9{width:75%;}
+	.col-PC-10{width:83.3333333%;}
+	.col-PC-11{width:91.6666667%;}
+	.col-PC-12{width:100%;}
+
+
+}
+/* 1 - PC large 1200*/
+ /*@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)
+*/
+@media (max-width: 1200px ){
+	.container {
+		margin:0 auto;
+		padding: 0;		
+		width: 960px
+	}
+    
+    /* Row to make separat continer cause jumb unnessery commponent up*/
+	/* Esssssssssential because of col %%%%%%% */
+	.row {
+	width: 960px;
+
+
+	}
+
+	/*When website at PC it will be with this width 60 & 20 */
+	.col-variable-1{width:8.333333%;}
+	.col-variable-2{width:16.66666667%;}
+	.col-variable-3{width:25%;}
+	.col-variable-4{width:33.3333333%;}
+	.col-variable-5{width:41.6666667%;}
+	.col-variable-6{width:50%;}
+	.col-variable-7{width:58.3333333%;}
+	.col-variable-8{width:66.6666667%;}
+	.col-variable-9{width:75%;}
+	.col-variable-10{width:83.3333333%;}
+	.col-variable-11{width:91.6666667%;}
+	.col-variable-12{width:100%;}
+
+/* NOTE combine row with col- [e.g .row.col-variable-2 ]is anather way but diffecult
+ because you use both different divs under each other*/
+
+	.col-PC-1{width:8.333333%;}
+	.col-PC-2{width:16.66666667%;}
+	.col-PC-3{width:25%;}
+	.col-PC-4{width:33.3333333%;}
+	.col-PC-5{width:41.6666667%;}
+	.col-PC-6{width:50%;}
+	.col-PC-7{width:58.3333333%;}
+	.col-PC-8{width:66.6666667%;}
+	.col-PC-9{width:75%;}
+	.col-PC-10{width:83.3333333%;}
+	.col-PC-11{width:91.6666667%;}
+	.col-PC-12{width:100%;}
+
+
+}
+/* 1 - PC large 1200*/
+ /*@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)
+*/
+@media (max-width: 1200px ){
+	.container {
+		margin:0 auto;
+		padding: 0;		
+		width: 960px
+	}
+    
+    /* Row to make separat continer cause jumb unnessery commponent up*/
+	/* Esssssssssential because of col %%%%%%% */
+	.row {
+	width: 960px;
+
+
+	}
+
+	/*When website at PC it will be with this width 60 & 20 */
+	.col-variable-1{width:8.333333%;}
+	.col-variable-2{width:16.66666667%;}
+	.col-variable-3{width:25%;}
+	.col-variable-4{width:33.3333333%;}
+	.col-variable-5{width:41.6666667%;}
+	.col-variable-6{width:50%;}
+	.col-variable-7{width:58.3333333%;}
+	.col-variable-8{width:66.6666667%;}
+	.col-variable-9{width:75%;}
+	.col-variable-10{width:83.3333333%;}
+	.col-variable-11{width:91.6666667%;}
+	.col-variable-12{width:100%;}
+
+/* NOTE combine row with col- [e.g .row.col-variable-2 ]is anather way but diffecult
+ because you use both different divs under each other*/
+
+	.col-PC-1{width:8.333333%;}
+	.col-PC-2{width:16.66666667%;}
+	.col-PC-3{width:25%;}
+	.col-PC-4{width:33.3333333%;}
+	.col-PC-5{width:41.6666667%;}
+	.col-PC-6{width:50%;}
+	.col-PC-7{width:58.3333333%;}
+	.col-PC-8{width:66.6666667%;}
+	.col-PC-9{width:75%;}
+	.col-PC-10{width:83.3333333%;}
+	.col-PC-11{width:91.6666667%;}
+	.col-PC-12{width:100%;}
+
+
+}
+/* 1 - PC large 1200*/
+ /*@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)
+*/
+@media (max-width: 1200px ){
+	.container {
+		margin:0 auto;
+		padding: 0;		
+		width: 960px
+	}
+    
+    /* Row to make separat continer cause jumb unnessery commponent up*/
+	/* Esssssssssential because of col %%%%%%% */
+	.row {
+	width: 960px;
+
+
+	}
+
+	/*When website at PC it will be with this width 60 & 20 */
+	.col-variable-1{width:8.333333%;}
+	.col-variable-2{width:16.66666667%;}
+	.col-variable-3{width:25%;}
+	.col-variable-4{width:33.3333333%;}
+	.col-variable-5{width:41.6666667%;}
+	.col-variable-6{width:50%;}
+	.col-variable-7{width:58.3333333%;}
+	.col-variable-8{width:66.6666667%;}
+	.col-variable-9{width:75%;}
+	.col-variable-10{width:83.3333333%;}
+	.col-variable-11{width:91.6666667%;}
+	.col-variable-12{width:100%;}
+
+/* NOTE combine row with col- [e.g .row.col-variable-2 ]is anather way but diffecult
+ because you use both different divs under each other*/
+
+	.col-PC-1{width:8.333333%;}
+	.col-PC-2{width:16.66666667%;}
+	.col-PC-3{width:25%;}
+	.col-PC-4{width:33.3333333%;}
+	.col-PC-5{width:41.6666667%;}
+	.col-PC-6{width:50%;}
+	.col-PC-7{width:58.3333333%;}
+	.col-PC-8{width:66.6666667%;}
+	.col-PC-9{width:75%;}
+	.col-PC-10{width:83.3333333%;}
+	.col-PC-11{width:91.6666667%;}
+	.col-PC-12{width:100%;}
+
+
+}
+/* 1 - PC large 1200*/
+ /*@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)
+*/
+@media (max-width: 1200px ){
+	.container {
+		margin:0 auto;
+		padding: 0;		
+		width: 960px
+	}
+    
+    /* Row to make separat continer cause jumb unnessery commponent up*/
+	/* Esssssssssential because of col %%%%%%% */
+	.row {
+	width: 960px;
+
+
+	}
+
+	/*When website at PC it will be with this width 60 & 20 */
+	.col-variable-1{width:8.333333%;}
+	.col-variable-2{width:16.66666667%;}
+	.col-variable-3{width:25%;}
+	.col-variable-4{width:33.3333333%;}
+	.col-variable-5{width:41.6666667%;}
+	.col-variable-6{width:50%;}
+	.col-variable-7{width:58.3333333%;}
+	.col-variable-8{width:66.6666667%;}
+	.col-variable-9{width:75%;}
+	.col-variable-10{width:83.3333333%;}
+	.col-variable-11{width:91.6666667%;}
+	.col-variable-12{width:100%;}
+
+/* NOTE combine row with col- [e.g .row.col-variable-2 ]is anather way but diffecult
+ because you use both different divs under each other*/
+
+	.col-PC-1{width:8.333333%;}
+	.col-PC-2{width:16.66666667%;}
+	.col-PC-3{width:25%;}
+	.col-PC-4{width:33.3333333%;}
+	.col-PC-5{width:41.6666667%;}
+	.col-PC-6{width:50%;}
+	.col-PC-7{width:58.3333333%;}
+	.col-PC-8{width:66.6666667%;}
+	.col-PC-9{width:75%;}
+	.col-PC-10{width:83.3333333%;}
+	.col-PC-11{width:91.6666667%;}
+	.col-PC-12{width:100%;}
+
+
+}
+/* 1 - PC large 1200*/
+ /*@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)
+*/
+@media (max-width: 1200px ){
+	.container {
+		margin:0 auto;
+		padding: 0;		
+		width: 960px
+	}
+    
+    /* Row to make separat continer cause jumb unnessery commponent up*/
+	/* Esssssssssential because of col %%%%%%% */
+	.row {
+	width: 960px;
+
+
+	}
+
+	/*When website at PC it will be with this width 60 & 20 */
+	.col-variable-1{width:8.333333%;}
+	.col-variable-2{width:16.66666667%;}
+	.col-variable-3{width:25%;}
+	.col-variable-4{width:33.3333333%;}
+	.col-variable-5{width:41.6666667%;}
+	.col-variable-6{width:50%;}
+	.col-variable-7{width:58.3333333%;}
+	.col-variable-8{width:66.6666667%;}
+	.col-variable-9{width:75%;}
+	.col-variable-10{width:83.3333333%;}
+	.col-variable-11{width:91.6666667%;}
+	.col-variable-12{width:100%;}
+
+/* NOTE combine row with col- [e.g .row.col-variable-2 ]is anather way but diffecult
+ because you use both different divs under each other*/
+
+	.col-PC-1{width:8.333333%;}
+	.col-PC-2{width:16.66666667%;}
+	.col-PC-3{width:25%;}
+	.col-PC-4{width:33.3333333%;}
+	.col-PC-5{width:41.6666667%;}
+	.col-PC-6{width:50%;}
+	.col-PC-7{width:58.3333333%;}
+	.col-PC-8{width:66.6666667%;}
+	.col-PC-9{width:75%;}
+	.col-PC-10{width:83.3333333%;}
+	.col-PC-11{width:91.6666667%;}
+	.col-PC-12{width:100%;}
+
+
+}
+/* 1 - PC large 1200*/
+ /*@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)
+*/
+@media (max-width: 1200px ){
+	.container {
+		margin:0 auto;
+		padding: 0;		
+		width: 960px
+	}
+    
+    /* Row to make separat continer cause jumb unnessery commponent up*/
+	/* Esssssssssential because of col %%%%%%% */
+	.row {
+	width: 960px;
+
+
+	}
+
+	/*When website at PC it will be with this width 60 & 20 */
+	.col-variable-1{width:8.333333%;}
+	.col-variable-2{width:16.66666667%;}
+	.col-variable-3{width:25%;}
+	.col-variable-4{width:33.3333333%;}
+	.col-variable-5{width:41.6666667%;}
+	.col-variable-6{width:50%;}
+	.col-variable-7{width:58.3333333%;}
+	.col-variable-8{width:66.6666667%;}
+	.col-variable-9{width:75%;}
+	.col-variable-10{width:83.3333333%;}
+	.col-variable-11{width:91.6666667%;}
+	.col-variable-12{width:100%;}
+
+/* NOTE combine row with col- [e.g .row.col-variable-2 ]is anather way but diffecult
+ because you use both different divs under each other*/
+
+	.col-PC-1{width:8.333333%;}
+	.col-PC-2{width:16.66666667%;}
+	.col-PC-3{width:25%;}
+	.col-PC-4{width:33.3333333%;}
+	.col-PC-5{width:41.6666667%;}
+	.col-PC-6{width:50%;}
+	.col-PC-7{width:58.3333333%;}
+	.col-PC-8{width:66.6666667%;}
+	.col-PC-9{width:75%;}
+	.col-PC-10{width:83.3333333%;}
+	.col-PC-11{width:91.6666667%;}
+	.col-PC-12{width:100%;}
+
+
+}
+/* 1 - PC large 1200*/
+ /*@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)
+*/
+@media (max-width: 1200px ){
+	.container {
+		margin:0 auto;
+		padding: 0;		
+		width: 960px
+	}
+    
+    /* Row to make separat continer cause jumb unnessery commponent up*/
+	/* Esssssssssential because of col %%%%%%% */
+	.row {
+	width: 960px;
+
+
+	}
+
+	/*When website at PC it will be with this width 60 & 20 */
+	.col-variable-1{width:8.333333%;}
+	.col-variable-2{width:16.66666667%;}
+	.col-variable-3{width:25%;}
+	.col-variable-4{width:33.3333333%;}
+	.col-variable-5{width:41.6666667%;}
+	.col-variable-6{width:50%;}
+	.col-variable-7{width:58.3333333%;}
+	.col-variable-8{width:66.6666667%;}
+	.col-variable-9{width:75%;}
+	.col-variable-10{width:83.3333333%;}
+	.col-variable-11{width:91.6666667%;}
+	.col-variable-12{width:100%;}
+
+/* NOTE combine row with col- [e.g .row.col-variable-2 ]is anather way but diffecult
+ because you use both different divs under each other*/
+
+	.col-PC-1{width:8.333333%;}
+	.col-PC-2{width:16.66666667%;}
+	.col-PC-3{width:25%;}
+	.col-PC-4{width:33.3333333%;}
+	.col-PC-5{width:41.6666667%;}
+	.col-PC-6{width:50%;}
+	.col-PC-7{width:58.3333333%;}
+	.col-PC-8{width:66.6666667%;}
+	.col-PC-9{width:75%;}
+	.col-PC-10{width:83.3333333%;}
+	.col-PC-11{width:91.6666667%;}
+	.col-PC-12{width:100%;}
+
+
+}
+/* 1 - PC large 1200*/
+ /*@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)
+*/
+@media (max-width: 1200px ){
+	.container {
+		margin:0 auto;
+		padding: 0;		
+		width: 960px
+	}
+    
+    /* Row to make separat continer cause jumb unnessery commponent up*/
+	/* Esssssssssential because of col %%%%%%% */
+	.row {
+	width: 960px;
+
+
+	}
+
+	/*When website at PC it will be with this width 60 & 20 */
+	.col-variable-1{width:8.333333%;}
+	.col-variable-2{width:16.66666667%;}
+	.col-variable-3{width:25%;}
+	.col-variable-4{width:33.3333333%;}
+	.col-variable-5{width:41.6666667%;}
+	.col-variable-6{width:50%;}
+	.col-variable-7{width:58.3333333%;}
+	.col-variable-8{width:66.6666667%;}
+	.col-variable-9{width:75%;}
+	.col-variable-10{width:83.3333333%;}
+	.col-variable-11{width:91.6666667%;}
+	.col-variable-12{width:100%;}
+
+/* NOTE combine row with col- [e.g .row.col-variable-2 ]is anather way but diffecult
+ because you use both different divs under each other*/
+
+	.col-PC-1{width:8.333333%;}
+	.col-PC-2{width:16.66666667%;}
+	.col-PC-3{width:25%;}
+	.col-PC-4{width:33.3333333%;}
+	.col-PC-5{width:41.6666667%;}
+	.col-PC-6{width:50%;}
+	.col-PC-7{width:58.3333333%;}
+	.col-PC-8{width:66.6666667%;}
+	.col-PC-9{width:75%;}
+	.col-PC-10{width:83.3333333%;}
+	.col-PC-11{width:91.6666667%;}
+	.col-PC-12{width:100%;}
+
+
+}
+/* 1 - PC large 1200*/
+ /*@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)
+*/
+@media (max-width: 1200px ){
+	.container {
+		margin:0 auto;
+		padding: 0;		
+		width: 960px
+	}
+    
+    /* Row to make separat continer cause jumb unnessery commponent up*/
+	/* Esssssssssential because of col %%%%%%% */
+	.row {
+	width: 960px;
+
+
+	}
+
+	/*When website at PC it will be with this width 60 & 20 */
+	.col-variable-1{width:8.333333%;}
+	.col-variable-2{width:16.66666667%;}
+	.col-variable-3{width:25%;}
+	.col-variable-4{width:33.3333333%;}
+	.col-variable-5{width:41.6666667%;}
+	.col-variable-6{width:50%;}
+	.col-variable-7{width:58.3333333%;}
+	.col-variable-8{width:66.6666667%;}
+	.col-variable-9{width:75%;}
+	.col-variable-10{width:83.3333333%;}
+	.col-variable-11{width:91.6666667%;}
+	.col-variable-12{width:100%;}
+
+/* NOTE combine row with col- [e.g .row.col-variable-2 ]is anather way but diffecult
+ because you use both different divs under each other*/
+
+	.col-PC-1{width:8.333333%;}
+	.col-PC-2{width:16.66666667%;}
+	.col-PC-3{width:25%;}
+	.col-PC-4{width:33.3333333%;}
+	.col-PC-5{width:41.6666667%;}
+	.col-PC-6{width:50%;}
+	.col-PC-7{width:58.3333333%;}
+	.col-PC-8{width:66.6666667%;}
+	.col-PC-9{width:75%;}
+	.col-PC-10{width:83.3333333%;}
+	.col-PC-11{width:91.6666667%;}
+	.col-PC-12{width:100%;}
+
+
+}
+/* 1 - PC large 1200*/
+ /*@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)
+*/
+@media (max-width: 1200px ){
+	.container {
+		margin:0 auto;
+		padding: 0;		
+		width: 960px
+	}
+    
+    /* Row to make separat continer cause jumb unnessery commponent up*/
+	/* Esssssssssential because of col %%%%%%% */
+	.row {
+	width: 960px;
+
+
+	}
+
+	/*When website at PC it will be with this width 60 & 20 */
+	.col-variable-1{width:8.333333%;}
+	.col-variable-2{width:16.66666667%;}
+	.col-variable-3{width:25%;}
+	.col-variable-4{width:33.3333333%;}
+	.col-variable-5{width:41.6666667%;}
+	.col-variable-6{width:50%;}
+	.col-variable-7{width:58.3333333%;}
+	.col-variable-8{width:66.6666667%;}
+	.col-variable-9{width:75%;}
+	.col-variable-10{width:83.3333333%;}
+	.col-variable-11{width:91.6666667%;}
+	.col-variable-12{width:100%;}
+
+/* NOTE combine row with col- [e.g .row.col-variable-2 ]is anather way but diffecult
+ because you use both different divs under each other*/
+
+	.col-PC-1{width:8.333333%;}
+	.col-PC-2{width:16.66666667%;}
+	.col-PC-3{width:25%;}
+	.col-PC-4{width:33.3333333%;}
+	.col-PC-5{width:41.6666667%;}
+	.col-PC-6{width:50%;}
+	.col-PC-7{width:58.3333333%;}
+	.col-PC-8{width:66.6666667%;}
+	.col-PC-9{width:75%;}
+	.col-PC-10{width:83.3333333%;}
+	.col-PC-11{width:91.6666667%;}
+	.col-PC-12{width:100%;}
+
+
+}
+/* 1 - PC large 1200*/
+ /*@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)
+*/
+@media (max-width: 1200px ){
+	.container {
+		margin:0 auto;
+		padding: 0;		
+		width: 960px
+	}
+    
+    /* Row to make separat continer cause jumb unnessery commponent up*/
+	/* Esssssssssential because of col %%%%%%% */
+	.row {
+	width: 960px;
+
+
+	}
+
+	/*When website at PC it will be with this width 60 & 20 */
+	.col-variable-1{width:8.333333%;}
+	.col-variable-2{width:16.66666667%;}
+	.col-variable-3{width:25%;}
+	.col-variable-4{width:33.3333333%;}
+	.col-variable-5{width:41.6666667%;}
+	.col-variable-6{width:50%;}
+	.col-variable-7{width:58.3333333%;}
+	.col-variable-8{width:66.6666667%;}
+	.col-variable-9{width:75%;}
+	.col-variable-10{width:83.3333333%;}
+	.col-variable-11{width:91.6666667%;}
+	.col-variable-12{width:100%;}
+
+/* NOTE combine row with col- [e.g .row.col-variable-2 ]is anather way but diffecult
+ because you use both different divs under each other*/
+
+	.col-PC-1{width:8.333333%;}
+	.col-PC-2{width:16.66666667%;}
+	.col-PC-3{width:25%;}
+	.col-PC-4{width:33.3333333%;}
+	.col-PC-5{width:41.6666667%;}
+	.col-PC-6{width:50%;}
+	.col-PC-7{width:58.3333333%;}
+	.col-PC-8{width:66.6666667%;}
+	.col-PC-9{width:75%;}
+	.col-PC-10{width:83.3333333%;}
+	.col-PC-11{width:91.6666667%;}
+	.col-PC-12{width:100%;}
+
+
+}
+/* 1 - PC large 1200*/
+ /*@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)
+*/
+@media (max-width: 1200px ){
+	.container {
+		margin:0 auto;
+		padding: 0;		
+		width: 960px
+	}
+    
+    /* Row to make separat continer cause jumb unnessery commponent up*/
+	/* Esssssssssential because of col %%%%%%% */
+	.row {
+	width: 960px;
+
+
+	}
+
+	/*When website at PC it will be with this width 60 & 20 */
+	.col-variable-1{width:8.333333%;}
+	.col-variable-2{width:16.66666667%;}
+	.col-variable-3{width:25%;}
+	.col-variable-4{width:33.3333333%;}
+	.col-variable-5{width:41.6666667%;}
+	.col-variable-6{width:50%;}
+	.col-variable-7{width:58.3333333%;}
+	.col-variable-8{width:66.6666667%;}
+	.col-variable-9{width:75%;}
+	.col-variable-10{width:83.3333333%;}
+	.col-variable-11{width:91.6666667%;}
+	.col-variable-12{width:100%;}
+
+/* NOTE combine row with col- [e.g .row.col-variable-2 ]is anather way but diffecult
+ because you use both different divs under each other*/
+
+	.col-PC-1{width:8.333333%;}
+	.col-PC-2{width:16.66666667%;}
+	.col-PC-3{width:25%;}
+	.col-PC-4{width:33.3333333%;}
+	.col-PC-5{width:41.6666667%;}
+	.col-PC-6{width:50%;}
+	.col-PC-7{width:58.3333333%;}
+	.col-PC-8{width:66.6666667%;}
+	.col-PC-9{width:75%;}
+	.col-PC-10{width:83.3333333%;}
+	.col-PC-11{width:91.6666667%;}
+	.col-PC-12{width:100%;}
+
+
+}
+
+/* PC smaller */
+@media (max-width: 992px ) {
+	.container {
+		margin:0 auto;
+		padding: 0;
+width: 768px;
+
+	}
+    /*row to make separat continer cause jumb unnessery commponent up*/
+	.row {
+width: 768px;
+
+	}
+
+
+	.col-variable-1{width:8.333333%;}
+	.col-variable-2{width:16.66666667%;}
+	.col-variable-3{width:25%;}
+	.col-variable-4{width:33.3333333%;}
+	.col-variable-5{width:41.6666667%;}
+	.col-variable-6{width:50%;}
+	.col-variable-7{width:58.3333333%;}
+	.col-variable-8{width:66.6666667%;}
+	.col-variable-9{width:75%;}
+	.col-variable-10{width:83.3333333%;}
+	.col-variable-11{width:91.6666667%;}
+	.col-variable-12{width:100%;}
+
+
+	/*When website at Tablet it will be with this width*/
+	/* Why we use tablet-lg insted of PC-lg ? to 
+	change width of column in different devices
+	e.g <div class="col-PC-lg-10 col-Tablet-lg-5 ">
+	that may use to get 2 articles down each other
+	rather than make them small in one row row*/
+	.col-PC-1{width:8.333333%;}
+	.col-PC-2{width:16.66666667%;}
+	.col-PC-3{width:25%;}
+	.col-PC-4{width:33.3333333%;}
+	.col-PC-5{width:41.6666667%;}
+	.col-PC-6{width:50%;}
+	.col-PC-7{width:58.3333333%;}
+	.col-PC-8{width:66.6666667%;}
+	.col-PC-9{width:75%;}
+	.col-PC-10{width:83.3333333%;}
+	.col-PC-11{width:91.6666667%;}
+	.col-PC-12{width:100%;}
+
+}
+
+/*Tablet large */
+/* Tablet modify than bootstrap min-width: 992px to min 768 and max 992 observe container old width 970px*/
+@media (max-width: 768px ) {
+	.container {
+				margin:0 auto;
+		padding: 0;
+		width: 480px;
+	}
+    /*row to make separat continer cause jumb unnessery commponent up*/
+	.row {
+		width:480px;
+
+	}
+
+	.col-variable-1{width:8.333333%;}
+	.col-variable-2{width:16.66666667%;}
+	.col-variable-3{width:25%;}
+	.col-variable-4{width:33.3333333%;}
+	.col-variable-5{width:41.6666667%;}
+	.col-variable-6{width:50%;}
+	.col-variable-7{width:58.3333333%;}
+	.col-variable-8{width:66.6666667%;}
+	.col-variable-9{width:75%;}
+	.col-variable-10{width:83.3333333%;}
+	.col-variable-11{width:91.6666667%;}
+	.col-variable-12{width:100%;}
+
+
+	/*When website at Tablet it will be with this width*/
+	/* Why we use tablet-lg insted of PC-lg ? to 
+	change width of column in different devices
+	e.g <div class="col-PC-lg-10 col-Tablet-lg-5 ">
+	that may use to get 2 articles down each other
+	rather than make them small in one row row*/
+	.col-Tablet-1{width:8.333333%;}
+	.col-Tablet-2{width:16.66666667%;}
+	.col-Tablet-3{width:25%;}
+	.col-Tablet-4{width:33.3333333%;}
+	.col-Tablet-5{width:41.6666667%;}
+	.col-Tablet-6{width:50%;}
+	.col-Tablet-7{width:58.3333333%;}
+	.col-Tablet-8{width:66.6666667%;}
+	.col-Tablet-9{width:75%;}
+	.col-Tablet-10{width:83.3333333%;}
+	.col-Tablet-11{width:91.6666667%;}
+	.col-Tablet-12{width:100%;}
+
+
+}
+
+/*Tablet smaller or Mobile large*/
+/* Tablet modify than bootstrap min-width: 992px to min 768 and max 992 observe container old width 970px*/
+@media (max-width: 480px ) {
+	.container {
+				margin:0 auto;
+		padding: 0;
+		width: 310px;
+	}
+    /*row to make separat continer cause jumb unnessery commponent up*/
+	.row {
+		width:310px;
+
+	}
+
+	.col-variable-1{width:8.333333%;}
+	.col-variable-2{width:16.66666667%;}
+	.col-variable-3{width:25%;}
+	.col-variable-4{width:33.3333333%;}
+	.col-variable-5{width:41.6666667%;}
+	.col-variable-6{width:50%;}
+	.col-variable-7{width:58.3333333%;}
+	.col-variable-8{width:66.6666667%;}
+	.col-variable-9{width:75%;}
+	.col-variable-10{width:83.3333333%;}
+	.col-variable-11{width:91.6666667%;}
+	.col-variable-12{width:100%;}
+
+
+	/*When website at Tablet it will be with this width*/
+	/* Why we use tablet-lg insted of PC-lg ? to 
+	change width of column in different devices
+	e.g <div class="col-PC-lg-10 col-Tablet-lg-5 ">
+	that may use to get 2 articles down each other
+	rather than make them small in one row row*/
+	.col-Tablet-1{width:8.333333%;}
+	.col-Tablet-2{width:16.66666667%;}
+	.col-Tablet-3{width:25%;}
+	.col-Tablet-4{width:33.3333333%;}
+	.col-Tablet-5{width:41.6666667%;}
+	.col-Tablet-6{width:50%;}
+	.col-Tablet-7{width:58.3333333%;}
+	.col-Tablet-8{width:66.6666667%;}
+	.col-Tablet-9{width:75%;}
+	.col-Tablet-10{width:83.3333333%;}
+	.col-Tablet-11{width:91.6666667%;}
+	.col-Tablet-12{width:100%;}
+
+
+}
+
+
+/* Mobile modify from boot strap min 768 to min mobile ~480wronge 7inch and max 768 ~10inch*/
+@media (max-width: 310px) {
+	.container {
+				margin:0 auto;
+		padding: 0;
+		width: 300px;
+	}
+	
+    /*row to make separat continer cause jumb unnessery commponent up*/
+	.row {
+		width:300px;
+
+	}
+
+	.col-variable-1{width:8.333333%;}
+	.col-variable-2{width:16.66666667%;}
+	.col-variable-3{width:25%;}
+	.col-variable-4{width:33.3333333%;}
+	.col-variable-5{width:41.6666667%;}
+	.col-variable-6{width:50%;}
+	.col-variable-7{width:58.3333333%;}
+	.col-variable-8{width:66.6666667%;}
+	.col-variable-9{width:75%;}
+	.col-variable-10{width:83.3333333%;}
+	.col-variable-11{width:91.6666667%;}
+	.col-variable-12{width:100%;}
+
+
+
+	.col-Mobile-1{width:8.333333%;}
+	.col-Mobile-2{width:16.66666667%;}
+	.col-Mobile-3{width:25%;}
+	.col-Mobile-4{width:33.3333333%;}
+	.col-Mobile-5{width:41.6666667%;}
+	.col-Mobile-6{width:50%;}
+	.col-Mobile-7{width:58.3333333%;}
+	.col-Mobile-8{width:66.6666667%;}
+	.col-Mobile-9{width:75%;}
+	.col-Mobile-10{width:83.3333333%;}
+	.col-Mobile-11{width:91.6666667%;}
+	.col-Mobile-12{width:100%;}
+
+}
+
+/* Custom Media Query
+@media (min-width:  px ) {
+	.container {
+		width: px;
+	}
+
+	.col-custom-1 {width: ;}
+	.col-custom-2 {width: ;}
+	.col-custom-3 {width: ;}
+	.col-custom-4 {width: ;}
+	.col-custom-5 {width: ;}
+	.col-custom-6 {width: ;}
+	.col-custom-7 {width: ;}
+	.col-custom-8 {width: ;}
+	.col-custom-9 {width: ;}
+	.col-custom-10 {width: ;}
+	.col-custom-11 {width: ;}
+	.col-custom-12 {width: ;}
+
+}
+*/

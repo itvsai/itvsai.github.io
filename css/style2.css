@@ -4,8 +4,11 @@ float: left;
 box-shadow: inset 4px 4px 5px #999; 
 
 }
-
-
+/* Essential Start*/
+body , div , h1 , h2 h3 , h4 ,h5 ,h6 ,header,footer{
+	margin:0;
+	padding: 0;
+}
 
 .clear-fix:after {
 	clear:both;
@@ -14,4 +17,28 @@ box-shadow: inset 4px 4px 5px #999;
 	height: 0;
 	display: block;
 }
+
+#row-1 ,#row-2 {}
+/* Essential END*/
+
+/* Heder start*/
+.navbar {
+	background-color: #222;
+}
+.navbar ul ,.navbar li {
+	list-style: none;
+	float: left;
+}
+
+.navbar a:link ,.navbar a:visited {
+	color:#000;
+	text-decoration: none;
+}
+
+
+/* Header END*/
+
+
+
+
 
