@@ -1,0 +1,17 @@
+.color-and-float{
+color: #666611;
+float: left;
+box-shadow: inset 4px 4px 5px #999; 
+
+}
+
+
+
+.clear-fix:after {
+	clear:both;
+	content: ".";
+	visibility: hidden;
+	height: 0;
+	display: block;
+}
+
