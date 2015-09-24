@@ -1,2765 +1,5 @@
 /*PC*/
-@media (max-width:1200px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:1200px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:1200px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:100px;}
-.col-variable-2 {width:200px;}
-.col-variable-3 {width:300px;}
-.col-variable-4 {width:400px;}
-.col-variable-5 {width:500px;}
-.col-variable-6 {width:600px;}
-.col-variable-7 {width:700px;}
-.col-variable-8 {width:800px;}
-.col-variable-9 {width:900px;}
-.col-variable-10 {width:1000px;}
-.col-variable-11 {width:1100px;}
-.col-variable-12 {width:1200px;}
-
-
-.col-PC-1 {width:100px;}
-.col-PC-2 {width:200px;}
-.col-PC-3 {width:300px;}
-.col-PC-4 {width:400px;}
-.col-PC-5 {width:500px;}
-.col-PC-6 {width:600px;}
-.col-PC-7 {width:700px;}
-.col-PC-8 {width:800px;}
-.col-PC-9 {width:900px;}
-.col-PC-10 {width:1000px;}
-.col-PC-11 {width:1100px;}
-.col-PC-12 {width:1200px;}
-}
-
-@media (max-width:1196px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:1196px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:1196px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:99.666666666667px;}
-.col-variable-2 {width:199.33333333333px;}
-.col-variable-3 {width:299px;}
-.col-variable-4 {width:398.66666666667px;}
-.col-variable-5 {width:498.33333333333px;}
-.col-variable-6 {width:598px;}
-.col-variable-7 {width:697.66666666667px;}
-.col-variable-8 {width:797.33333333333px;}
-.col-variable-9 {width:897px;}
-.col-variable-10 {width:996.66666666667px;}
-.col-variable-11 {width:1096.3333333333px;}
-.col-variable-12 {width:1196px;}
-
-
-.col-PC-1 {width:99.666666666667px;}
-.col-PC-2 {width:199.33333333333px;}
-.col-PC-3 {width:299px;}
-.col-PC-4 {width:398.66666666667px;}
-.col-PC-5 {width:498.33333333333px;}
-.col-PC-6 {width:598px;}
-.col-PC-7 {width:697.66666666667px;}
-.col-PC-8 {width:797.33333333333px;}
-.col-PC-9 {width:897px;}
-.col-PC-10 {width:996.66666666667px;}
-.col-PC-11 {width:1096.3333333333px;}
-.col-PC-12 {width:1196px;}
-}
-
-@media (max-width:1192px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:1192px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:1192px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:99.333333333333px;}
-.col-variable-2 {width:198.66666666667px;}
-.col-variable-3 {width:298px;}
-.col-variable-4 {width:397.33333333333px;}
-.col-variable-5 {width:496.66666666667px;}
-.col-variable-6 {width:596px;}
-.col-variable-7 {width:695.33333333333px;}
-.col-variable-8 {width:794.66666666667px;}
-.col-variable-9 {width:894px;}
-.col-variable-10 {width:993.33333333333px;}
-.col-variable-11 {width:1092.6666666667px;}
-.col-variable-12 {width:1192px;}
-
-
-.col-PC-1 {width:99.333333333333px;}
-.col-PC-2 {width:198.66666666667px;}
-.col-PC-3 {width:298px;}
-.col-PC-4 {width:397.33333333333px;}
-.col-PC-5 {width:496.66666666667px;}
-.col-PC-6 {width:596px;}
-.col-PC-7 {width:695.33333333333px;}
-.col-PC-8 {width:794.66666666667px;}
-.col-PC-9 {width:894px;}
-.col-PC-10 {width:993.33333333333px;}
-.col-PC-11 {width:1092.6666666667px;}
-.col-PC-12 {width:1192px;}
-}
-
-@media (max-width:1188px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:1188px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:1188px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:99px;}
-.col-variable-2 {width:198px;}
-.col-variable-3 {width:297px;}
-.col-variable-4 {width:396px;}
-.col-variable-5 {width:495px;}
-.col-variable-6 {width:594px;}
-.col-variable-7 {width:693px;}
-.col-variable-8 {width:792px;}
-.col-variable-9 {width:891px;}
-.col-variable-10 {width:990px;}
-.col-variable-11 {width:1089px;}
-.col-variable-12 {width:1188px;}
-
-
-.col-PC-1 {width:99px;}
-.col-PC-2 {width:198px;}
-.col-PC-3 {width:297px;}
-.col-PC-4 {width:396px;}
-.col-PC-5 {width:495px;}
-.col-PC-6 {width:594px;}
-.col-PC-7 {width:693px;}
-.col-PC-8 {width:792px;}
-.col-PC-9 {width:891px;}
-.col-PC-10 {width:990px;}
-.col-PC-11 {width:1089px;}
-.col-PC-12 {width:1188px;}
-}
-
-@media (max-width:1184px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:1184px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:1184px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:98.666666666667px;}
-.col-variable-2 {width:197.33333333333px;}
-.col-variable-3 {width:296px;}
-.col-variable-4 {width:394.66666666667px;}
-.col-variable-5 {width:493.33333333333px;}
-.col-variable-6 {width:592px;}
-.col-variable-7 {width:690.66666666667px;}
-.col-variable-8 {width:789.33333333333px;}
-.col-variable-9 {width:888px;}
-.col-variable-10 {width:986.66666666667px;}
-.col-variable-11 {width:1085.3333333333px;}
-.col-variable-12 {width:1184px;}
-
-
-.col-PC-1 {width:98.666666666667px;}
-.col-PC-2 {width:197.33333333333px;}
-.col-PC-3 {width:296px;}
-.col-PC-4 {width:394.66666666667px;}
-.col-PC-5 {width:493.33333333333px;}
-.col-PC-6 {width:592px;}
-.col-PC-7 {width:690.66666666667px;}
-.col-PC-8 {width:789.33333333333px;}
-.col-PC-9 {width:888px;}
-.col-PC-10 {width:986.66666666667px;}
-.col-PC-11 {width:1085.3333333333px;}
-.col-PC-12 {width:1184px;}
-}
-
-@media (max-width:1180px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:1180px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:1180px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:98.333333333333px;}
-.col-variable-2 {width:196.66666666667px;}
-.col-variable-3 {width:295px;}
-.col-variable-4 {width:393.33333333333px;}
-.col-variable-5 {width:491.66666666667px;}
-.col-variable-6 {width:590px;}
-.col-variable-7 {width:688.33333333333px;}
-.col-variable-8 {width:786.66666666667px;}
-.col-variable-9 {width:885px;}
-.col-variable-10 {width:983.33333333333px;}
-.col-variable-11 {width:1081.6666666667px;}
-.col-variable-12 {width:1180px;}
-
-
-.col-PC-1 {width:98.333333333333px;}
-.col-PC-2 {width:196.66666666667px;}
-.col-PC-3 {width:295px;}
-.col-PC-4 {width:393.33333333333px;}
-.col-PC-5 {width:491.66666666667px;}
-.col-PC-6 {width:590px;}
-.col-PC-7 {width:688.33333333333px;}
-.col-PC-8 {width:786.66666666667px;}
-.col-PC-9 {width:885px;}
-.col-PC-10 {width:983.33333333333px;}
-.col-PC-11 {width:1081.6666666667px;}
-.col-PC-12 {width:1180px;}
-}
-
-@media (max-width:1176px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:1176px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:1176px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:98px;}
-.col-variable-2 {width:196px;}
-.col-variable-3 {width:294px;}
-.col-variable-4 {width:392px;}
-.col-variable-5 {width:490px;}
-.col-variable-6 {width:588px;}
-.col-variable-7 {width:686px;}
-.col-variable-8 {width:784px;}
-.col-variable-9 {width:882px;}
-.col-variable-10 {width:980px;}
-.col-variable-11 {width:1078px;}
-.col-variable-12 {width:1176px;}
-
-
-.col-PC-1 {width:98px;}
-.col-PC-2 {width:196px;}
-.col-PC-3 {width:294px;}
-.col-PC-4 {width:392px;}
-.col-PC-5 {width:490px;}
-.col-PC-6 {width:588px;}
-.col-PC-7 {width:686px;}
-.col-PC-8 {width:784px;}
-.col-PC-9 {width:882px;}
-.col-PC-10 {width:980px;}
-.col-PC-11 {width:1078px;}
-.col-PC-12 {width:1176px;}
-}
-
-@media (max-width:1172px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:1172px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:1172px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:97.666666666667px;}
-.col-variable-2 {width:195.33333333333px;}
-.col-variable-3 {width:293px;}
-.col-variable-4 {width:390.66666666667px;}
-.col-variable-5 {width:488.33333333333px;}
-.col-variable-6 {width:586px;}
-.col-variable-7 {width:683.66666666667px;}
-.col-variable-8 {width:781.33333333333px;}
-.col-variable-9 {width:879px;}
-.col-variable-10 {width:976.66666666667px;}
-.col-variable-11 {width:1074.3333333333px;}
-.col-variable-12 {width:1172px;}
-
-
-.col-PC-1 {width:97.666666666667px;}
-.col-PC-2 {width:195.33333333333px;}
-.col-PC-3 {width:293px;}
-.col-PC-4 {width:390.66666666667px;}
-.col-PC-5 {width:488.33333333333px;}
-.col-PC-6 {width:586px;}
-.col-PC-7 {width:683.66666666667px;}
-.col-PC-8 {width:781.33333333333px;}
-.col-PC-9 {width:879px;}
-.col-PC-10 {width:976.66666666667px;}
-.col-PC-11 {width:1074.3333333333px;}
-.col-PC-12 {width:1172px;}
-}
-
-@media (max-width:1168px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:1168px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:1168px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:97.333333333333px;}
-.col-variable-2 {width:194.66666666667px;}
-.col-variable-3 {width:292px;}
-.col-variable-4 {width:389.33333333333px;}
-.col-variable-5 {width:486.66666666667px;}
-.col-variable-6 {width:584px;}
-.col-variable-7 {width:681.33333333333px;}
-.col-variable-8 {width:778.66666666667px;}
-.col-variable-9 {width:876px;}
-.col-variable-10 {width:973.33333333333px;}
-.col-variable-11 {width:1070.6666666667px;}
-.col-variable-12 {width:1168px;}
-
-
-.col-PC-1 {width:97.333333333333px;}
-.col-PC-2 {width:194.66666666667px;}
-.col-PC-3 {width:292px;}
-.col-PC-4 {width:389.33333333333px;}
-.col-PC-5 {width:486.66666666667px;}
-.col-PC-6 {width:584px;}
-.col-PC-7 {width:681.33333333333px;}
-.col-PC-8 {width:778.66666666667px;}
-.col-PC-9 {width:876px;}
-.col-PC-10 {width:973.33333333333px;}
-.col-PC-11 {width:1070.6666666667px;}
-.col-PC-12 {width:1168px;}
-}
-
-@media (max-width:1164px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:1164px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:1164px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:97px;}
-.col-variable-2 {width:194px;}
-.col-variable-3 {width:291px;}
-.col-variable-4 {width:388px;}
-.col-variable-5 {width:485px;}
-.col-variable-6 {width:582px;}
-.col-variable-7 {width:679px;}
-.col-variable-8 {width:776px;}
-.col-variable-9 {width:873px;}
-.col-variable-10 {width:970px;}
-.col-variable-11 {width:1067px;}
-.col-variable-12 {width:1164px;}
-
-
-.col-PC-1 {width:97px;}
-.col-PC-2 {width:194px;}
-.col-PC-3 {width:291px;}
-.col-PC-4 {width:388px;}
-.col-PC-5 {width:485px;}
-.col-PC-6 {width:582px;}
-.col-PC-7 {width:679px;}
-.col-PC-8 {width:776px;}
-.col-PC-9 {width:873px;}
-.col-PC-10 {width:970px;}
-.col-PC-11 {width:1067px;}
-.col-PC-12 {width:1164px;}
-}
-
-@media (max-width:1160px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:1160px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:1160px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:96.666666666667px;}
-.col-variable-2 {width:193.33333333333px;}
-.col-variable-3 {width:290px;}
-.col-variable-4 {width:386.66666666667px;}
-.col-variable-5 {width:483.33333333333px;}
-.col-variable-6 {width:580px;}
-.col-variable-7 {width:676.66666666667px;}
-.col-variable-8 {width:773.33333333333px;}
-.col-variable-9 {width:870px;}
-.col-variable-10 {width:966.66666666667px;}
-.col-variable-11 {width:1063.3333333333px;}
-.col-variable-12 {width:1160px;}
-
-
-.col-PC-1 {width:96.666666666667px;}
-.col-PC-2 {width:193.33333333333px;}
-.col-PC-3 {width:290px;}
-.col-PC-4 {width:386.66666666667px;}
-.col-PC-5 {width:483.33333333333px;}
-.col-PC-6 {width:580px;}
-.col-PC-7 {width:676.66666666667px;}
-.col-PC-8 {width:773.33333333333px;}
-.col-PC-9 {width:870px;}
-.col-PC-10 {width:966.66666666667px;}
-.col-PC-11 {width:1063.3333333333px;}
-.col-PC-12 {width:1160px;}
-}
-
-@media (max-width:1156px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:1156px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:1156px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:96.333333333333px;}
-.col-variable-2 {width:192.66666666667px;}
-.col-variable-3 {width:289px;}
-.col-variable-4 {width:385.33333333333px;}
-.col-variable-5 {width:481.66666666667px;}
-.col-variable-6 {width:578px;}
-.col-variable-7 {width:674.33333333333px;}
-.col-variable-8 {width:770.66666666667px;}
-.col-variable-9 {width:867px;}
-.col-variable-10 {width:963.33333333333px;}
-.col-variable-11 {width:1059.6666666667px;}
-.col-variable-12 {width:1156px;}
-
-
-.col-PC-1 {width:96.333333333333px;}
-.col-PC-2 {width:192.66666666667px;}
-.col-PC-3 {width:289px;}
-.col-PC-4 {width:385.33333333333px;}
-.col-PC-5 {width:481.66666666667px;}
-.col-PC-6 {width:578px;}
-.col-PC-7 {width:674.33333333333px;}
-.col-PC-8 {width:770.66666666667px;}
-.col-PC-9 {width:867px;}
-.col-PC-10 {width:963.33333333333px;}
-.col-PC-11 {width:1059.6666666667px;}
-.col-PC-12 {width:1156px;}
-}
-
-@media (max-width:1152px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:1152px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:1152px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:96px;}
-.col-variable-2 {width:192px;}
-.col-variable-3 {width:288px;}
-.col-variable-4 {width:384px;}
-.col-variable-5 {width:480px;}
-.col-variable-6 {width:576px;}
-.col-variable-7 {width:672px;}
-.col-variable-8 {width:768px;}
-.col-variable-9 {width:864px;}
-.col-variable-10 {width:960px;}
-.col-variable-11 {width:1056px;}
-.col-variable-12 {width:1152px;}
-
-
-.col-PC-1 {width:96px;}
-.col-PC-2 {width:192px;}
-.col-PC-3 {width:288px;}
-.col-PC-4 {width:384px;}
-.col-PC-5 {width:480px;}
-.col-PC-6 {width:576px;}
-.col-PC-7 {width:672px;}
-.col-PC-8 {width:768px;}
-.col-PC-9 {width:864px;}
-.col-PC-10 {width:960px;}
-.col-PC-11 {width:1056px;}
-.col-PC-12 {width:1152px;}
-}
-
-@media (max-width:1148px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:1148px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:1148px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:95.666666666667px;}
-.col-variable-2 {width:191.33333333333px;}
-.col-variable-3 {width:287px;}
-.col-variable-4 {width:382.66666666667px;}
-.col-variable-5 {width:478.33333333333px;}
-.col-variable-6 {width:574px;}
-.col-variable-7 {width:669.66666666667px;}
-.col-variable-8 {width:765.33333333333px;}
-.col-variable-9 {width:861px;}
-.col-variable-10 {width:956.66666666667px;}
-.col-variable-11 {width:1052.3333333333px;}
-.col-variable-12 {width:1148px;}
-
-
-.col-PC-1 {width:95.666666666667px;}
-.col-PC-2 {width:191.33333333333px;}
-.col-PC-3 {width:287px;}
-.col-PC-4 {width:382.66666666667px;}
-.col-PC-5 {width:478.33333333333px;}
-.col-PC-6 {width:574px;}
-.col-PC-7 {width:669.66666666667px;}
-.col-PC-8 {width:765.33333333333px;}
-.col-PC-9 {width:861px;}
-.col-PC-10 {width:956.66666666667px;}
-.col-PC-11 {width:1052.3333333333px;}
-.col-PC-12 {width:1148px;}
-}
-
-@media (max-width:1144px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:1144px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:1144px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:95.333333333333px;}
-.col-variable-2 {width:190.66666666667px;}
-.col-variable-3 {width:286px;}
-.col-variable-4 {width:381.33333333333px;}
-.col-variable-5 {width:476.66666666667px;}
-.col-variable-6 {width:572px;}
-.col-variable-7 {width:667.33333333333px;}
-.col-variable-8 {width:762.66666666667px;}
-.col-variable-9 {width:858px;}
-.col-variable-10 {width:953.33333333333px;}
-.col-variable-11 {width:1048.6666666667px;}
-.col-variable-12 {width:1144px;}
-
-
-.col-PC-1 {width:95.333333333333px;}
-.col-PC-2 {width:190.66666666667px;}
-.col-PC-3 {width:286px;}
-.col-PC-4 {width:381.33333333333px;}
-.col-PC-5 {width:476.66666666667px;}
-.col-PC-6 {width:572px;}
-.col-PC-7 {width:667.33333333333px;}
-.col-PC-8 {width:762.66666666667px;}
-.col-PC-9 {width:858px;}
-.col-PC-10 {width:953.33333333333px;}
-.col-PC-11 {width:1048.6666666667px;}
-.col-PC-12 {width:1144px;}
-}
-
-@media (max-width:1140px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:1140px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:1140px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:95px;}
-.col-variable-2 {width:190px;}
-.col-variable-3 {width:285px;}
-.col-variable-4 {width:380px;}
-.col-variable-5 {width:475px;}
-.col-variable-6 {width:570px;}
-.col-variable-7 {width:665px;}
-.col-variable-8 {width:760px;}
-.col-variable-9 {width:855px;}
-.col-variable-10 {width:950px;}
-.col-variable-11 {width:1045px;}
-.col-variable-12 {width:1140px;}
-
-
-.col-PC-1 {width:95px;}
-.col-PC-2 {width:190px;}
-.col-PC-3 {width:285px;}
-.col-PC-4 {width:380px;}
-.col-PC-5 {width:475px;}
-.col-PC-6 {width:570px;}
-.col-PC-7 {width:665px;}
-.col-PC-8 {width:760px;}
-.col-PC-9 {width:855px;}
-.col-PC-10 {width:950px;}
-.col-PC-11 {width:1045px;}
-.col-PC-12 {width:1140px;}
-}
-
-@media (max-width:1136px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:1136px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:1136px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:94.666666666667px;}
-.col-variable-2 {width:189.33333333333px;}
-.col-variable-3 {width:284px;}
-.col-variable-4 {width:378.66666666667px;}
-.col-variable-5 {width:473.33333333333px;}
-.col-variable-6 {width:568px;}
-.col-variable-7 {width:662.66666666667px;}
-.col-variable-8 {width:757.33333333333px;}
-.col-variable-9 {width:852px;}
-.col-variable-10 {width:946.66666666667px;}
-.col-variable-11 {width:1041.3333333333px;}
-.col-variable-12 {width:1136px;}
-
-
-.col-PC-1 {width:94.666666666667px;}
-.col-PC-2 {width:189.33333333333px;}
-.col-PC-3 {width:284px;}
-.col-PC-4 {width:378.66666666667px;}
-.col-PC-5 {width:473.33333333333px;}
-.col-PC-6 {width:568px;}
-.col-PC-7 {width:662.66666666667px;}
-.col-PC-8 {width:757.33333333333px;}
-.col-PC-9 {width:852px;}
-.col-PC-10 {width:946.66666666667px;}
-.col-PC-11 {width:1041.3333333333px;}
-.col-PC-12 {width:1136px;}
-}
-
-@media (max-width:1132px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:1132px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:1132px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:94.333333333333px;}
-.col-variable-2 {width:188.66666666667px;}
-.col-variable-3 {width:283px;}
-.col-variable-4 {width:377.33333333333px;}
-.col-variable-5 {width:471.66666666667px;}
-.col-variable-6 {width:566px;}
-.col-variable-7 {width:660.33333333333px;}
-.col-variable-8 {width:754.66666666667px;}
-.col-variable-9 {width:849px;}
-.col-variable-10 {width:943.33333333333px;}
-.col-variable-11 {width:1037.6666666667px;}
-.col-variable-12 {width:1132px;}
-
-
-.col-PC-1 {width:94.333333333333px;}
-.col-PC-2 {width:188.66666666667px;}
-.col-PC-3 {width:283px;}
-.col-PC-4 {width:377.33333333333px;}
-.col-PC-5 {width:471.66666666667px;}
-.col-PC-6 {width:566px;}
-.col-PC-7 {width:660.33333333333px;}
-.col-PC-8 {width:754.66666666667px;}
-.col-PC-9 {width:849px;}
-.col-PC-10 {width:943.33333333333px;}
-.col-PC-11 {width:1037.6666666667px;}
-.col-PC-12 {width:1132px;}
-}
-
-@media (max-width:1128px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:1128px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:1128px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:94px;}
-.col-variable-2 {width:188px;}
-.col-variable-3 {width:282px;}
-.col-variable-4 {width:376px;}
-.col-variable-5 {width:470px;}
-.col-variable-6 {width:564px;}
-.col-variable-7 {width:658px;}
-.col-variable-8 {width:752px;}
-.col-variable-9 {width:846px;}
-.col-variable-10 {width:940px;}
-.col-variable-11 {width:1034px;}
-.col-variable-12 {width:1128px;}
-
-
-.col-PC-1 {width:94px;}
-.col-PC-2 {width:188px;}
-.col-PC-3 {width:282px;}
-.col-PC-4 {width:376px;}
-.col-PC-5 {width:470px;}
-.col-PC-6 {width:564px;}
-.col-PC-7 {width:658px;}
-.col-PC-8 {width:752px;}
-.col-PC-9 {width:846px;}
-.col-PC-10 {width:940px;}
-.col-PC-11 {width:1034px;}
-.col-PC-12 {width:1128px;}
-}
-
-@media (max-width:1124px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:1124px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:1124px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:93.666666666667px;}
-.col-variable-2 {width:187.33333333333px;}
-.col-variable-3 {width:281px;}
-.col-variable-4 {width:374.66666666667px;}
-.col-variable-5 {width:468.33333333333px;}
-.col-variable-6 {width:562px;}
-.col-variable-7 {width:655.66666666667px;}
-.col-variable-8 {width:749.33333333333px;}
-.col-variable-9 {width:843px;}
-.col-variable-10 {width:936.66666666667px;}
-.col-variable-11 {width:1030.3333333333px;}
-.col-variable-12 {width:1124px;}
-
-
-.col-PC-1 {width:93.666666666667px;}
-.col-PC-2 {width:187.33333333333px;}
-.col-PC-3 {width:281px;}
-.col-PC-4 {width:374.66666666667px;}
-.col-PC-5 {width:468.33333333333px;}
-.col-PC-6 {width:562px;}
-.col-PC-7 {width:655.66666666667px;}
-.col-PC-8 {width:749.33333333333px;}
-.col-PC-9 {width:843px;}
-.col-PC-10 {width:936.66666666667px;}
-.col-PC-11 {width:1030.3333333333px;}
-.col-PC-12 {width:1124px;}
-}
-
-@media (max-width:1120px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:1120px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:1120px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:93.333333333333px;}
-.col-variable-2 {width:186.66666666667px;}
-.col-variable-3 {width:280px;}
-.col-variable-4 {width:373.33333333333px;}
-.col-variable-5 {width:466.66666666667px;}
-.col-variable-6 {width:560px;}
-.col-variable-7 {width:653.33333333333px;}
-.col-variable-8 {width:746.66666666667px;}
-.col-variable-9 {width:840px;}
-.col-variable-10 {width:933.33333333333px;}
-.col-variable-11 {width:1026.6666666667px;}
-.col-variable-12 {width:1120px;}
-
-
-.col-PC-1 {width:93.333333333333px;}
-.col-PC-2 {width:186.66666666667px;}
-.col-PC-3 {width:280px;}
-.col-PC-4 {width:373.33333333333px;}
-.col-PC-5 {width:466.66666666667px;}
-.col-PC-6 {width:560px;}
-.col-PC-7 {width:653.33333333333px;}
-.col-PC-8 {width:746.66666666667px;}
-.col-PC-9 {width:840px;}
-.col-PC-10 {width:933.33333333333px;}
-.col-PC-11 {width:1026.6666666667px;}
-.col-PC-12 {width:1120px;}
-}
-
-@media (max-width:1116px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:1116px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:1116px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:93px;}
-.col-variable-2 {width:186px;}
-.col-variable-3 {width:279px;}
-.col-variable-4 {width:372px;}
-.col-variable-5 {width:465px;}
-.col-variable-6 {width:558px;}
-.col-variable-7 {width:651px;}
-.col-variable-8 {width:744px;}
-.col-variable-9 {width:837px;}
-.col-variable-10 {width:930px;}
-.col-variable-11 {width:1023px;}
-.col-variable-12 {width:1116px;}
-
-
-.col-PC-1 {width:93px;}
-.col-PC-2 {width:186px;}
-.col-PC-3 {width:279px;}
-.col-PC-4 {width:372px;}
-.col-PC-5 {width:465px;}
-.col-PC-6 {width:558px;}
-.col-PC-7 {width:651px;}
-.col-PC-8 {width:744px;}
-.col-PC-9 {width:837px;}
-.col-PC-10 {width:930px;}
-.col-PC-11 {width:1023px;}
-.col-PC-12 {width:1116px;}
-}
-
-@media (max-width:1112px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:1112px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:1112px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:92.666666666667px;}
-.col-variable-2 {width:185.33333333333px;}
-.col-variable-3 {width:278px;}
-.col-variable-4 {width:370.66666666667px;}
-.col-variable-5 {width:463.33333333333px;}
-.col-variable-6 {width:556px;}
-.col-variable-7 {width:648.66666666667px;}
-.col-variable-8 {width:741.33333333333px;}
-.col-variable-9 {width:834px;}
-.col-variable-10 {width:926.66666666667px;}
-.col-variable-11 {width:1019.3333333333px;}
-.col-variable-12 {width:1112px;}
-
-
-.col-PC-1 {width:92.666666666667px;}
-.col-PC-2 {width:185.33333333333px;}
-.col-PC-3 {width:278px;}
-.col-PC-4 {width:370.66666666667px;}
-.col-PC-5 {width:463.33333333333px;}
-.col-PC-6 {width:556px;}
-.col-PC-7 {width:648.66666666667px;}
-.col-PC-8 {width:741.33333333333px;}
-.col-PC-9 {width:834px;}
-.col-PC-10 {width:926.66666666667px;}
-.col-PC-11 {width:1019.3333333333px;}
-.col-PC-12 {width:1112px;}
-}
-
-@media (max-width:1108px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:1108px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:1108px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:92.333333333333px;}
-.col-variable-2 {width:184.66666666667px;}
-.col-variable-3 {width:277px;}
-.col-variable-4 {width:369.33333333333px;}
-.col-variable-5 {width:461.66666666667px;}
-.col-variable-6 {width:554px;}
-.col-variable-7 {width:646.33333333333px;}
-.col-variable-8 {width:738.66666666667px;}
-.col-variable-9 {width:831px;}
-.col-variable-10 {width:923.33333333333px;}
-.col-variable-11 {width:1015.6666666667px;}
-.col-variable-12 {width:1108px;}
-
-
-.col-PC-1 {width:92.333333333333px;}
-.col-PC-2 {width:184.66666666667px;}
-.col-PC-3 {width:277px;}
-.col-PC-4 {width:369.33333333333px;}
-.col-PC-5 {width:461.66666666667px;}
-.col-PC-6 {width:554px;}
-.col-PC-7 {width:646.33333333333px;}
-.col-PC-8 {width:738.66666666667px;}
-.col-PC-9 {width:831px;}
-.col-PC-10 {width:923.33333333333px;}
-.col-PC-11 {width:1015.6666666667px;}
-.col-PC-12 {width:1108px;}
-}
-
-@media (max-width:1104px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:1104px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:1104px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:92px;}
-.col-variable-2 {width:184px;}
-.col-variable-3 {width:276px;}
-.col-variable-4 {width:368px;}
-.col-variable-5 {width:460px;}
-.col-variable-6 {width:552px;}
-.col-variable-7 {width:644px;}
-.col-variable-8 {width:736px;}
-.col-variable-9 {width:828px;}
-.col-variable-10 {width:920px;}
-.col-variable-11 {width:1012px;}
-.col-variable-12 {width:1104px;}
-
-
-.col-PC-1 {width:92px;}
-.col-PC-2 {width:184px;}
-.col-PC-3 {width:276px;}
-.col-PC-4 {width:368px;}
-.col-PC-5 {width:460px;}
-.col-PC-6 {width:552px;}
-.col-PC-7 {width:644px;}
-.col-PC-8 {width:736px;}
-.col-PC-9 {width:828px;}
-.col-PC-10 {width:920px;}
-.col-PC-11 {width:1012px;}
-.col-PC-12 {width:1104px;}
-}
-
-@media (max-width:1100px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:1100px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:1100px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:91.666666666667px;}
-.col-variable-2 {width:183.33333333333px;}
-.col-variable-3 {width:275px;}
-.col-variable-4 {width:366.66666666667px;}
-.col-variable-5 {width:458.33333333333px;}
-.col-variable-6 {width:550px;}
-.col-variable-7 {width:641.66666666667px;}
-.col-variable-8 {width:733.33333333333px;}
-.col-variable-9 {width:825px;}
-.col-variable-10 {width:916.66666666667px;}
-.col-variable-11 {width:1008.3333333333px;}
-.col-variable-12 {width:1100px;}
-
-
-.col-PC-1 {width:91.666666666667px;}
-.col-PC-2 {width:183.33333333333px;}
-.col-PC-3 {width:275px;}
-.col-PC-4 {width:366.66666666667px;}
-.col-PC-5 {width:458.33333333333px;}
-.col-PC-6 {width:550px;}
-.col-PC-7 {width:641.66666666667px;}
-.col-PC-8 {width:733.33333333333px;}
-.col-PC-9 {width:825px;}
-.col-PC-10 {width:916.66666666667px;}
-.col-PC-11 {width:1008.3333333333px;}
-.col-PC-12 {width:1100px;}
-}
-
-@media (max-width:1096px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:1096px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:1096px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:91.333333333333px;}
-.col-variable-2 {width:182.66666666667px;}
-.col-variable-3 {width:274px;}
-.col-variable-4 {width:365.33333333333px;}
-.col-variable-5 {width:456.66666666667px;}
-.col-variable-6 {width:548px;}
-.col-variable-7 {width:639.33333333333px;}
-.col-variable-8 {width:730.66666666667px;}
-.col-variable-9 {width:822px;}
-.col-variable-10 {width:913.33333333333px;}
-.col-variable-11 {width:1004.6666666667px;}
-.col-variable-12 {width:1096px;}
-
-
-.col-PC-1 {width:91.333333333333px;}
-.col-PC-2 {width:182.66666666667px;}
-.col-PC-3 {width:274px;}
-.col-PC-4 {width:365.33333333333px;}
-.col-PC-5 {width:456.66666666667px;}
-.col-PC-6 {width:548px;}
-.col-PC-7 {width:639.33333333333px;}
-.col-PC-8 {width:730.66666666667px;}
-.col-PC-9 {width:822px;}
-.col-PC-10 {width:913.33333333333px;}
-.col-PC-11 {width:1004.6666666667px;}
-.col-PC-12 {width:1096px;}
-}
-
-@media (max-width:1092px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:1092px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:1092px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:91px;}
-.col-variable-2 {width:182px;}
-.col-variable-3 {width:273px;}
-.col-variable-4 {width:364px;}
-.col-variable-5 {width:455px;}
-.col-variable-6 {width:546px;}
-.col-variable-7 {width:637px;}
-.col-variable-8 {width:728px;}
-.col-variable-9 {width:819px;}
-.col-variable-10 {width:910px;}
-.col-variable-11 {width:1001px;}
-.col-variable-12 {width:1092px;}
-
-
-.col-PC-1 {width:91px;}
-.col-PC-2 {width:182px;}
-.col-PC-3 {width:273px;}
-.col-PC-4 {width:364px;}
-.col-PC-5 {width:455px;}
-.col-PC-6 {width:546px;}
-.col-PC-7 {width:637px;}
-.col-PC-8 {width:728px;}
-.col-PC-9 {width:819px;}
-.col-PC-10 {width:910px;}
-.col-PC-11 {width:1001px;}
-.col-PC-12 {width:1092px;}
-}
-
-@media (max-width:1088px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:1088px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:1088px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:90.666666666667px;}
-.col-variable-2 {width:181.33333333333px;}
-.col-variable-3 {width:272px;}
-.col-variable-4 {width:362.66666666667px;}
-.col-variable-5 {width:453.33333333333px;}
-.col-variable-6 {width:544px;}
-.col-variable-7 {width:634.66666666667px;}
-.col-variable-8 {width:725.33333333333px;}
-.col-variable-9 {width:816px;}
-.col-variable-10 {width:906.66666666667px;}
-.col-variable-11 {width:997.33333333333px;}
-.col-variable-12 {width:1088px;}
-
-
-.col-PC-1 {width:90.666666666667px;}
-.col-PC-2 {width:181.33333333333px;}
-.col-PC-3 {width:272px;}
-.col-PC-4 {width:362.66666666667px;}
-.col-PC-5 {width:453.33333333333px;}
-.col-PC-6 {width:544px;}
-.col-PC-7 {width:634.66666666667px;}
-.col-PC-8 {width:725.33333333333px;}
-.col-PC-9 {width:816px;}
-.col-PC-10 {width:906.66666666667px;}
-.col-PC-11 {width:997.33333333333px;}
-.col-PC-12 {width:1088px;}
-}
-
-@media (max-width:1084px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:1084px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:1084px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:90.333333333333px;}
-.col-variable-2 {width:180.66666666667px;}
-.col-variable-3 {width:271px;}
-.col-variable-4 {width:361.33333333333px;}
-.col-variable-5 {width:451.66666666667px;}
-.col-variable-6 {width:542px;}
-.col-variable-7 {width:632.33333333333px;}
-.col-variable-8 {width:722.66666666667px;}
-.col-variable-9 {width:813px;}
-.col-variable-10 {width:903.33333333333px;}
-.col-variable-11 {width:993.66666666667px;}
-.col-variable-12 {width:1084px;}
-
-
-.col-PC-1 {width:90.333333333333px;}
-.col-PC-2 {width:180.66666666667px;}
-.col-PC-3 {width:271px;}
-.col-PC-4 {width:361.33333333333px;}
-.col-PC-5 {width:451.66666666667px;}
-.col-PC-6 {width:542px;}
-.col-PC-7 {width:632.33333333333px;}
-.col-PC-8 {width:722.66666666667px;}
-.col-PC-9 {width:813px;}
-.col-PC-10 {width:903.33333333333px;}
-.col-PC-11 {width:993.66666666667px;}
-.col-PC-12 {width:1084px;}
-}
-
-@media (max-width:1080px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:1080px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:1080px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:90px;}
-.col-variable-2 {width:180px;}
-.col-variable-3 {width:270px;}
-.col-variable-4 {width:360px;}
-.col-variable-5 {width:450px;}
-.col-variable-6 {width:540px;}
-.col-variable-7 {width:630px;}
-.col-variable-8 {width:720px;}
-.col-variable-9 {width:810px;}
-.col-variable-10 {width:900px;}
-.col-variable-11 {width:990px;}
-.col-variable-12 {width:1080px;}
-
-
-.col-PC-1 {width:90px;}
-.col-PC-2 {width:180px;}
-.col-PC-3 {width:270px;}
-.col-PC-4 {width:360px;}
-.col-PC-5 {width:450px;}
-.col-PC-6 {width:540px;}
-.col-PC-7 {width:630px;}
-.col-PC-8 {width:720px;}
-.col-PC-9 {width:810px;}
-.col-PC-10 {width:900px;}
-.col-PC-11 {width:990px;}
-.col-PC-12 {width:1080px;}
-}
-
-@media (max-width:1076px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:1076px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:1076px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:89.666666666667px;}
-.col-variable-2 {width:179.33333333333px;}
-.col-variable-3 {width:269px;}
-.col-variable-4 {width:358.66666666667px;}
-.col-variable-5 {width:448.33333333333px;}
-.col-variable-6 {width:538px;}
-.col-variable-7 {width:627.66666666667px;}
-.col-variable-8 {width:717.33333333333px;}
-.col-variable-9 {width:807px;}
-.col-variable-10 {width:896.66666666667px;}
-.col-variable-11 {width:986.33333333333px;}
-.col-variable-12 {width:1076px;}
-
-
-.col-PC-1 {width:89.666666666667px;}
-.col-PC-2 {width:179.33333333333px;}
-.col-PC-3 {width:269px;}
-.col-PC-4 {width:358.66666666667px;}
-.col-PC-5 {width:448.33333333333px;}
-.col-PC-6 {width:538px;}
-.col-PC-7 {width:627.66666666667px;}
-.col-PC-8 {width:717.33333333333px;}
-.col-PC-9 {width:807px;}
-.col-PC-10 {width:896.66666666667px;}
-.col-PC-11 {width:986.33333333333px;}
-.col-PC-12 {width:1076px;}
-}
-
-@media (max-width:1072px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:1072px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:1072px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:89.333333333333px;}
-.col-variable-2 {width:178.66666666667px;}
-.col-variable-3 {width:268px;}
-.col-variable-4 {width:357.33333333333px;}
-.col-variable-5 {width:446.66666666667px;}
-.col-variable-6 {width:536px;}
-.col-variable-7 {width:625.33333333333px;}
-.col-variable-8 {width:714.66666666667px;}
-.col-variable-9 {width:804px;}
-.col-variable-10 {width:893.33333333333px;}
-.col-variable-11 {width:982.66666666667px;}
-.col-variable-12 {width:1072px;}
-
-
-.col-PC-1 {width:89.333333333333px;}
-.col-PC-2 {width:178.66666666667px;}
-.col-PC-3 {width:268px;}
-.col-PC-4 {width:357.33333333333px;}
-.col-PC-5 {width:446.66666666667px;}
-.col-PC-6 {width:536px;}
-.col-PC-7 {width:625.33333333333px;}
-.col-PC-8 {width:714.66666666667px;}
-.col-PC-9 {width:804px;}
-.col-PC-10 {width:893.33333333333px;}
-.col-PC-11 {width:982.66666666667px;}
-.col-PC-12 {width:1072px;}
-}
-
-@media (max-width:1068px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:1068px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:1068px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:89px;}
-.col-variable-2 {width:178px;}
-.col-variable-3 {width:267px;}
-.col-variable-4 {width:356px;}
-.col-variable-5 {width:445px;}
-.col-variable-6 {width:534px;}
-.col-variable-7 {width:623px;}
-.col-variable-8 {width:712px;}
-.col-variable-9 {width:801px;}
-.col-variable-10 {width:890px;}
-.col-variable-11 {width:979px;}
-.col-variable-12 {width:1068px;}
-
-
-.col-PC-1 {width:89px;}
-.col-PC-2 {width:178px;}
-.col-PC-3 {width:267px;}
-.col-PC-4 {width:356px;}
-.col-PC-5 {width:445px;}
-.col-PC-6 {width:534px;}
-.col-PC-7 {width:623px;}
-.col-PC-8 {width:712px;}
-.col-PC-9 {width:801px;}
-.col-PC-10 {width:890px;}
-.col-PC-11 {width:979px;}
-.col-PC-12 {width:1068px;}
-}
-
-@media (max-width:1064px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:1064px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:1064px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:88.666666666667px;}
-.col-variable-2 {width:177.33333333333px;}
-.col-variable-3 {width:266px;}
-.col-variable-4 {width:354.66666666667px;}
-.col-variable-5 {width:443.33333333333px;}
-.col-variable-6 {width:532px;}
-.col-variable-7 {width:620.66666666667px;}
-.col-variable-8 {width:709.33333333333px;}
-.col-variable-9 {width:798px;}
-.col-variable-10 {width:886.66666666667px;}
-.col-variable-11 {width:975.33333333333px;}
-.col-variable-12 {width:1064px;}
-
-
-.col-PC-1 {width:88.666666666667px;}
-.col-PC-2 {width:177.33333333333px;}
-.col-PC-3 {width:266px;}
-.col-PC-4 {width:354.66666666667px;}
-.col-PC-5 {width:443.33333333333px;}
-.col-PC-6 {width:532px;}
-.col-PC-7 {width:620.66666666667px;}
-.col-PC-8 {width:709.33333333333px;}
-.col-PC-9 {width:798px;}
-.col-PC-10 {width:886.66666666667px;}
-.col-PC-11 {width:975.33333333333px;}
-.col-PC-12 {width:1064px;}
-}
-
-@media (max-width:1060px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:1060px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:1060px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:88.333333333333px;}
-.col-variable-2 {width:176.66666666667px;}
-.col-variable-3 {width:265px;}
-.col-variable-4 {width:353.33333333333px;}
-.col-variable-5 {width:441.66666666667px;}
-.col-variable-6 {width:530px;}
-.col-variable-7 {width:618.33333333333px;}
-.col-variable-8 {width:706.66666666667px;}
-.col-variable-9 {width:795px;}
-.col-variable-10 {width:883.33333333333px;}
-.col-variable-11 {width:971.66666666667px;}
-.col-variable-12 {width:1060px;}
-
-
-.col-PC-1 {width:88.333333333333px;}
-.col-PC-2 {width:176.66666666667px;}
-.col-PC-3 {width:265px;}
-.col-PC-4 {width:353.33333333333px;}
-.col-PC-5 {width:441.66666666667px;}
-.col-PC-6 {width:530px;}
-.col-PC-7 {width:618.33333333333px;}
-.col-PC-8 {width:706.66666666667px;}
-.col-PC-9 {width:795px;}
-.col-PC-10 {width:883.33333333333px;}
-.col-PC-11 {width:971.66666666667px;}
-.col-PC-12 {width:1060px;}
-}
-
-@media (max-width:1056px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:1056px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:1056px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:88px;}
-.col-variable-2 {width:176px;}
-.col-variable-3 {width:264px;}
-.col-variable-4 {width:352px;}
-.col-variable-5 {width:440px;}
-.col-variable-6 {width:528px;}
-.col-variable-7 {width:616px;}
-.col-variable-8 {width:704px;}
-.col-variable-9 {width:792px;}
-.col-variable-10 {width:880px;}
-.col-variable-11 {width:968px;}
-.col-variable-12 {width:1056px;}
-
-
-.col-PC-1 {width:88px;}
-.col-PC-2 {width:176px;}
-.col-PC-3 {width:264px;}
-.col-PC-4 {width:352px;}
-.col-PC-5 {width:440px;}
-.col-PC-6 {width:528px;}
-.col-PC-7 {width:616px;}
-.col-PC-8 {width:704px;}
-.col-PC-9 {width:792px;}
-.col-PC-10 {width:880px;}
-.col-PC-11 {width:968px;}
-.col-PC-12 {width:1056px;}
-}
-
-@media (max-width:1052px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:1052px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:1052px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:87.666666666667px;}
-.col-variable-2 {width:175.33333333333px;}
-.col-variable-3 {width:263px;}
-.col-variable-4 {width:350.66666666667px;}
-.col-variable-5 {width:438.33333333333px;}
-.col-variable-6 {width:526px;}
-.col-variable-7 {width:613.66666666667px;}
-.col-variable-8 {width:701.33333333333px;}
-.col-variable-9 {width:789px;}
-.col-variable-10 {width:876.66666666667px;}
-.col-variable-11 {width:964.33333333333px;}
-.col-variable-12 {width:1052px;}
-
-
-.col-PC-1 {width:87.666666666667px;}
-.col-PC-2 {width:175.33333333333px;}
-.col-PC-3 {width:263px;}
-.col-PC-4 {width:350.66666666667px;}
-.col-PC-5 {width:438.33333333333px;}
-.col-PC-6 {width:526px;}
-.col-PC-7 {width:613.66666666667px;}
-.col-PC-8 {width:701.33333333333px;}
-.col-PC-9 {width:789px;}
-.col-PC-10 {width:876.66666666667px;}
-.col-PC-11 {width:964.33333333333px;}
-.col-PC-12 {width:1052px;}
-}
-
-@media (max-width:1048px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:1048px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:1048px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:87.333333333333px;}
-.col-variable-2 {width:174.66666666667px;}
-.col-variable-3 {width:262px;}
-.col-variable-4 {width:349.33333333333px;}
-.col-variable-5 {width:436.66666666667px;}
-.col-variable-6 {width:524px;}
-.col-variable-7 {width:611.33333333333px;}
-.col-variable-8 {width:698.66666666667px;}
-.col-variable-9 {width:786px;}
-.col-variable-10 {width:873.33333333333px;}
-.col-variable-11 {width:960.66666666667px;}
-.col-variable-12 {width:1048px;}
-
-
-.col-PC-1 {width:87.333333333333px;}
-.col-PC-2 {width:174.66666666667px;}
-.col-PC-3 {width:262px;}
-.col-PC-4 {width:349.33333333333px;}
-.col-PC-5 {width:436.66666666667px;}
-.col-PC-6 {width:524px;}
-.col-PC-7 {width:611.33333333333px;}
-.col-PC-8 {width:698.66666666667px;}
-.col-PC-9 {width:786px;}
-.col-PC-10 {width:873.33333333333px;}
-.col-PC-11 {width:960.66666666667px;}
-.col-PC-12 {width:1048px;}
-}
-
-@media (max-width:1044px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:1044px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:1044px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:87px;}
-.col-variable-2 {width:174px;}
-.col-variable-3 {width:261px;}
-.col-variable-4 {width:348px;}
-.col-variable-5 {width:435px;}
-.col-variable-6 {width:522px;}
-.col-variable-7 {width:609px;}
-.col-variable-8 {width:696px;}
-.col-variable-9 {width:783px;}
-.col-variable-10 {width:870px;}
-.col-variable-11 {width:957px;}
-.col-variable-12 {width:1044px;}
-
-
-.col-PC-1 {width:87px;}
-.col-PC-2 {width:174px;}
-.col-PC-3 {width:261px;}
-.col-PC-4 {width:348px;}
-.col-PC-5 {width:435px;}
-.col-PC-6 {width:522px;}
-.col-PC-7 {width:609px;}
-.col-PC-8 {width:696px;}
-.col-PC-9 {width:783px;}
-.col-PC-10 {width:870px;}
-.col-PC-11 {width:957px;}
-.col-PC-12 {width:1044px;}
-}
-
-@media (max-width:1040px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:1040px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:1040px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:86.666666666667px;}
-.col-variable-2 {width:173.33333333333px;}
-.col-variable-3 {width:260px;}
-.col-variable-4 {width:346.66666666667px;}
-.col-variable-5 {width:433.33333333333px;}
-.col-variable-6 {width:520px;}
-.col-variable-7 {width:606.66666666667px;}
-.col-variable-8 {width:693.33333333333px;}
-.col-variable-9 {width:780px;}
-.col-variable-10 {width:866.66666666667px;}
-.col-variable-11 {width:953.33333333333px;}
-.col-variable-12 {width:1040px;}
-
-
-.col-PC-1 {width:86.666666666667px;}
-.col-PC-2 {width:173.33333333333px;}
-.col-PC-3 {width:260px;}
-.col-PC-4 {width:346.66666666667px;}
-.col-PC-5 {width:433.33333333333px;}
-.col-PC-6 {width:520px;}
-.col-PC-7 {width:606.66666666667px;}
-.col-PC-8 {width:693.33333333333px;}
-.col-PC-9 {width:780px;}
-.col-PC-10 {width:866.66666666667px;}
-.col-PC-11 {width:953.33333333333px;}
-.col-PC-12 {width:1040px;}
-}
-
-@media (max-width:1036px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:1036px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:1036px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:86.333333333333px;}
-.col-variable-2 {width:172.66666666667px;}
-.col-variable-3 {width:259px;}
-.col-variable-4 {width:345.33333333333px;}
-.col-variable-5 {width:431.66666666667px;}
-.col-variable-6 {width:518px;}
-.col-variable-7 {width:604.33333333333px;}
-.col-variable-8 {width:690.66666666667px;}
-.col-variable-9 {width:777px;}
-.col-variable-10 {width:863.33333333333px;}
-.col-variable-11 {width:949.66666666667px;}
-.col-variable-12 {width:1036px;}
-
-
-.col-PC-1 {width:86.333333333333px;}
-.col-PC-2 {width:172.66666666667px;}
-.col-PC-3 {width:259px;}
-.col-PC-4 {width:345.33333333333px;}
-.col-PC-5 {width:431.66666666667px;}
-.col-PC-6 {width:518px;}
-.col-PC-7 {width:604.33333333333px;}
-.col-PC-8 {width:690.66666666667px;}
-.col-PC-9 {width:777px;}
-.col-PC-10 {width:863.33333333333px;}
-.col-PC-11 {width:949.66666666667px;}
-.col-PC-12 {width:1036px;}
-}
-
-@media (max-width:1032px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:1032px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:1032px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:86px;}
-.col-variable-2 {width:172px;}
-.col-variable-3 {width:258px;}
-.col-variable-4 {width:344px;}
-.col-variable-5 {width:430px;}
-.col-variable-6 {width:516px;}
-.col-variable-7 {width:602px;}
-.col-variable-8 {width:688px;}
-.col-variable-9 {width:774px;}
-.col-variable-10 {width:860px;}
-.col-variable-11 {width:946px;}
-.col-variable-12 {width:1032px;}
-
-
-.col-PC-1 {width:86px;}
-.col-PC-2 {width:172px;}
-.col-PC-3 {width:258px;}
-.col-PC-4 {width:344px;}
-.col-PC-5 {width:430px;}
-.col-PC-6 {width:516px;}
-.col-PC-7 {width:602px;}
-.col-PC-8 {width:688px;}
-.col-PC-9 {width:774px;}
-.col-PC-10 {width:860px;}
-.col-PC-11 {width:946px;}
-.col-PC-12 {width:1032px;}
-}
-
-@media (max-width:1028px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:1028px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:1028px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:85.666666666667px;}
-.col-variable-2 {width:171.33333333333px;}
-.col-variable-3 {width:257px;}
-.col-variable-4 {width:342.66666666667px;}
-.col-variable-5 {width:428.33333333333px;}
-.col-variable-6 {width:514px;}
-.col-variable-7 {width:599.66666666667px;}
-.col-variable-8 {width:685.33333333333px;}
-.col-variable-9 {width:771px;}
-.col-variable-10 {width:856.66666666667px;}
-.col-variable-11 {width:942.33333333333px;}
-.col-variable-12 {width:1028px;}
-
-
-.col-PC-1 {width:85.666666666667px;}
-.col-PC-2 {width:171.33333333333px;}
-.col-PC-3 {width:257px;}
-.col-PC-4 {width:342.66666666667px;}
-.col-PC-5 {width:428.33333333333px;}
-.col-PC-6 {width:514px;}
-.col-PC-7 {width:599.66666666667px;}
-.col-PC-8 {width:685.33333333333px;}
-.col-PC-9 {width:771px;}
-.col-PC-10 {width:856.66666666667px;}
-.col-PC-11 {width:942.33333333333px;}
-.col-PC-12 {width:1028px;}
-}
-
-@media (max-width:1024px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:1024px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:1024px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:85.333333333333px;}
-.col-variable-2 {width:170.66666666667px;}
-.col-variable-3 {width:256px;}
-.col-variable-4 {width:341.33333333333px;}
-.col-variable-5 {width:426.66666666667px;}
-.col-variable-6 {width:512px;}
-.col-variable-7 {width:597.33333333333px;}
-.col-variable-8 {width:682.66666666667px;}
-.col-variable-9 {width:768px;}
-.col-variable-10 {width:853.33333333333px;}
-.col-variable-11 {width:938.66666666667px;}
-.col-variable-12 {width:1024px;}
-
-
-.col-PC-1 {width:85.333333333333px;}
-.col-PC-2 {width:170.66666666667px;}
-.col-PC-3 {width:256px;}
-.col-PC-4 {width:341.33333333333px;}
-.col-PC-5 {width:426.66666666667px;}
-.col-PC-6 {width:512px;}
-.col-PC-7 {width:597.33333333333px;}
-.col-PC-8 {width:682.66666666667px;}
-.col-PC-9 {width:768px;}
-.col-PC-10 {width:853.33333333333px;}
-.col-PC-11 {width:938.66666666667px;}
-.col-PC-12 {width:1024px;}
-}
-
-@media (max-width:1020px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:1020px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:1020px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:85px;}
-.col-variable-2 {width:170px;}
-.col-variable-3 {width:255px;}
-.col-variable-4 {width:340px;}
-.col-variable-5 {width:425px;}
-.col-variable-6 {width:510px;}
-.col-variable-7 {width:595px;}
-.col-variable-8 {width:680px;}
-.col-variable-9 {width:765px;}
-.col-variable-10 {width:850px;}
-.col-variable-11 {width:935px;}
-.col-variable-12 {width:1020px;}
-
-
-.col-PC-1 {width:85px;}
-.col-PC-2 {width:170px;}
-.col-PC-3 {width:255px;}
-.col-PC-4 {width:340px;}
-.col-PC-5 {width:425px;}
-.col-PC-6 {width:510px;}
-.col-PC-7 {width:595px;}
-.col-PC-8 {width:680px;}
-.col-PC-9 {width:765px;}
-.col-PC-10 {width:850px;}
-.col-PC-11 {width:935px;}
-.col-PC-12 {width:1020px;}
-}
-
-@media (max-width:1016px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:1016px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:1016px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:84.666666666667px;}
-.col-variable-2 {width:169.33333333333px;}
-.col-variable-3 {width:254px;}
-.col-variable-4 {width:338.66666666667px;}
-.col-variable-5 {width:423.33333333333px;}
-.col-variable-6 {width:508px;}
-.col-variable-7 {width:592.66666666667px;}
-.col-variable-8 {width:677.33333333333px;}
-.col-variable-9 {width:762px;}
-.col-variable-10 {width:846.66666666667px;}
-.col-variable-11 {width:931.33333333333px;}
-.col-variable-12 {width:1016px;}
-
-
-.col-PC-1 {width:84.666666666667px;}
-.col-PC-2 {width:169.33333333333px;}
-.col-PC-3 {width:254px;}
-.col-PC-4 {width:338.66666666667px;}
-.col-PC-5 {width:423.33333333333px;}
-.col-PC-6 {width:508px;}
-.col-PC-7 {width:592.66666666667px;}
-.col-PC-8 {width:677.33333333333px;}
-.col-PC-9 {width:762px;}
-.col-PC-10 {width:846.66666666667px;}
-.col-PC-11 {width:931.33333333333px;}
-.col-PC-12 {width:1016px;}
-}
-
-@media (max-width:1012px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:1012px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:1012px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:84.333333333333px;}
-.col-variable-2 {width:168.66666666667px;}
-.col-variable-3 {width:253px;}
-.col-variable-4 {width:337.33333333333px;}
-.col-variable-5 {width:421.66666666667px;}
-.col-variable-6 {width:506px;}
-.col-variable-7 {width:590.33333333333px;}
-.col-variable-8 {width:674.66666666667px;}
-.col-variable-9 {width:759px;}
-.col-variable-10 {width:843.33333333333px;}
-.col-variable-11 {width:927.66666666667px;}
-.col-variable-12 {width:1012px;}
-
-
-.col-PC-1 {width:84.333333333333px;}
-.col-PC-2 {width:168.66666666667px;}
-.col-PC-3 {width:253px;}
-.col-PC-4 {width:337.33333333333px;}
-.col-PC-5 {width:421.66666666667px;}
-.col-PC-6 {width:506px;}
-.col-PC-7 {width:590.33333333333px;}
-.col-PC-8 {width:674.66666666667px;}
-.col-PC-9 {width:759px;}
-.col-PC-10 {width:843.33333333333px;}
-.col-PC-11 {width:927.66666666667px;}
-.col-PC-12 {width:1012px;}
-}
-
-@media (max-width:1008px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:1008px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:1008px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:84px;}
-.col-variable-2 {width:168px;}
-.col-variable-3 {width:252px;}
-.col-variable-4 {width:336px;}
-.col-variable-5 {width:420px;}
-.col-variable-6 {width:504px;}
-.col-variable-7 {width:588px;}
-.col-variable-8 {width:672px;}
-.col-variable-9 {width:756px;}
-.col-variable-10 {width:840px;}
-.col-variable-11 {width:924px;}
-.col-variable-12 {width:1008px;}
-
-
-.col-PC-1 {width:84px;}
-.col-PC-2 {width:168px;}
-.col-PC-3 {width:252px;}
-.col-PC-4 {width:336px;}
-.col-PC-5 {width:420px;}
-.col-PC-6 {width:504px;}
-.col-PC-7 {width:588px;}
-.col-PC-8 {width:672px;}
-.col-PC-9 {width:756px;}
-.col-PC-10 {width:840px;}
-.col-PC-11 {width:924px;}
-.col-PC-12 {width:1008px;}
-}
-
-@media (max-width:1004px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:1004px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:1004px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:83.666666666667px;}
-.col-variable-2 {width:167.33333333333px;}
-.col-variable-3 {width:251px;}
-.col-variable-4 {width:334.66666666667px;}
-.col-variable-5 {width:418.33333333333px;}
-.col-variable-6 {width:502px;}
-.col-variable-7 {width:585.66666666667px;}
-.col-variable-8 {width:669.33333333333px;}
-.col-variable-9 {width:753px;}
-.col-variable-10 {width:836.66666666667px;}
-.col-variable-11 {width:920.33333333333px;}
-.col-variable-12 {width:1004px;}
-
-
-.col-PC-1 {width:83.666666666667px;}
-.col-PC-2 {width:167.33333333333px;}
-.col-PC-3 {width:251px;}
-.col-PC-4 {width:334.66666666667px;}
-.col-PC-5 {width:418.33333333333px;}
-.col-PC-6 {width:502px;}
-.col-PC-7 {width:585.66666666667px;}
-.col-PC-8 {width:669.33333333333px;}
-.col-PC-9 {width:753px;}
-.col-PC-10 {width:836.66666666667px;}
-.col-PC-11 {width:920.33333333333px;}
-.col-PC-12 {width:1004px;}
-}
-
-@media (max-width:1000px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:1000px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:1000px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:83.333333333333px;}
-.col-variable-2 {width:166.66666666667px;}
-.col-variable-3 {width:250px;}
-.col-variable-4 {width:333.33333333333px;}
-.col-variable-5 {width:416.66666666667px;}
-.col-variable-6 {width:500px;}
-.col-variable-7 {width:583.33333333333px;}
-.col-variable-8 {width:666.66666666667px;}
-.col-variable-9 {width:750px;}
-.col-variable-10 {width:833.33333333333px;}
-.col-variable-11 {width:916.66666666667px;}
-.col-variable-12 {width:1000px;}
-
-
-.col-PC-1 {width:83.333333333333px;}
-.col-PC-2 {width:166.66666666667px;}
-.col-PC-3 {width:250px;}
-.col-PC-4 {width:333.33333333333px;}
-.col-PC-5 {width:416.66666666667px;}
-.col-PC-6 {width:500px;}
-.col-PC-7 {width:583.33333333333px;}
-.col-PC-8 {width:666.66666666667px;}
-.col-PC-9 {width:750px;}
-.col-PC-10 {width:833.33333333333px;}
-.col-PC-11 {width:916.66666666667px;}
-.col-PC-12 {width:1000px;}
-}
-
-@media (max-width:996px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:996px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:996px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:83px;}
-.col-variable-2 {width:166px;}
-.col-variable-3 {width:249px;}
-.col-variable-4 {width:332px;}
-.col-variable-5 {width:415px;}
-.col-variable-6 {width:498px;}
-.col-variable-7 {width:581px;}
-.col-variable-8 {width:664px;}
-.col-variable-9 {width:747px;}
-.col-variable-10 {width:830px;}
-.col-variable-11 {width:913px;}
-.col-variable-12 {width:996px;}
-
-
-.col-PC-1 {width:83px;}
-.col-PC-2 {width:166px;}
-.col-PC-3 {width:249px;}
-.col-PC-4 {width:332px;}
-.col-PC-5 {width:415px;}
-.col-PC-6 {width:498px;}
-.col-PC-7 {width:581px;}
-.col-PC-8 {width:664px;}
-.col-PC-9 {width:747px;}
-.col-PC-10 {width:830px;}
-.col-PC-11 {width:913px;}
-.col-PC-12 {width:996px;}
-}
-
-@media (max-width:992px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:992px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:992px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:82.666666666667px;}
-.col-variable-2 {width:165.33333333333px;}
-.col-variable-3 {width:248px;}
-.col-variable-4 {width:330.66666666667px;}
-.col-variable-5 {width:413.33333333333px;}
-.col-variable-6 {width:496px;}
-.col-variable-7 {width:578.66666666667px;}
-.col-variable-8 {width:661.33333333333px;}
-.col-variable-9 {width:744px;}
-.col-variable-10 {width:826.66666666667px;}
-.col-variable-11 {width:909.33333333333px;}
-.col-variable-12 {width:992px;}
-
-
-.col-PC-1 {width:82.666666666667px;}
-.col-PC-2 {width:165.33333333333px;}
-.col-PC-3 {width:248px;}
-.col-PC-4 {width:330.66666666667px;}
-.col-PC-5 {width:413.33333333333px;}
-.col-PC-6 {width:496px;}
-.col-PC-7 {width:578.66666666667px;}
-.col-PC-8 {width:661.33333333333px;}
-.col-PC-9 {width:744px;}
-.col-PC-10 {width:826.66666666667px;}
-.col-PC-11 {width:909.33333333333px;}
-.col-PC-12 {width:992px;}
-}
-
-@media (max-width:988px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:988px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:988px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:82.333333333333px;}
-.col-variable-2 {width:164.66666666667px;}
-.col-variable-3 {width:247px;}
-.col-variable-4 {width:329.33333333333px;}
-.col-variable-5 {width:411.66666666667px;}
-.col-variable-6 {width:494px;}
-.col-variable-7 {width:576.33333333333px;}
-.col-variable-8 {width:658.66666666667px;}
-.col-variable-9 {width:741px;}
-.col-variable-10 {width:823.33333333333px;}
-.col-variable-11 {width:905.66666666667px;}
-.col-variable-12 {width:988px;}
-
-
-.col-PC-1 {width:82.333333333333px;}
-.col-PC-2 {width:164.66666666667px;}
-.col-PC-3 {width:247px;}
-.col-PC-4 {width:329.33333333333px;}
-.col-PC-5 {width:411.66666666667px;}
-.col-PC-6 {width:494px;}
-.col-PC-7 {width:576.33333333333px;}
-.col-PC-8 {width:658.66666666667px;}
-.col-PC-9 {width:741px;}
-.col-PC-10 {width:823.33333333333px;}
-.col-PC-11 {width:905.66666666667px;}
-.col-PC-12 {width:988px;}
-}
-
-@media (max-width:984px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:984px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:984px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:82px;}
-.col-variable-2 {width:164px;}
-.col-variable-3 {width:246px;}
-.col-variable-4 {width:328px;}
-.col-variable-5 {width:410px;}
-.col-variable-6 {width:492px;}
-.col-variable-7 {width:574px;}
-.col-variable-8 {width:656px;}
-.col-variable-9 {width:738px;}
-.col-variable-10 {width:820px;}
-.col-variable-11 {width:902px;}
-.col-variable-12 {width:984px;}
-
-
-.col-PC-1 {width:82px;}
-.col-PC-2 {width:164px;}
-.col-PC-3 {width:246px;}
-.col-PC-4 {width:328px;}
-.col-PC-5 {width:410px;}
-.col-PC-6 {width:492px;}
-.col-PC-7 {width:574px;}
-.col-PC-8 {width:656px;}
-.col-PC-9 {width:738px;}
-.col-PC-10 {width:820px;}
-.col-PC-11 {width:902px;}
-.col-PC-12 {width:984px;}
-}
-
-@media (max-width:980px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:980px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:980px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:81.666666666667px;}
-.col-variable-2 {width:163.33333333333px;}
-.col-variable-3 {width:245px;}
-.col-variable-4 {width:326.66666666667px;}
-.col-variable-5 {width:408.33333333333px;}
-.col-variable-6 {width:490px;}
-.col-variable-7 {width:571.66666666667px;}
-.col-variable-8 {width:653.33333333333px;}
-.col-variable-9 {width:735px;}
-.col-variable-10 {width:816.66666666667px;}
-.col-variable-11 {width:898.33333333333px;}
-.col-variable-12 {width:980px;}
-
-
-.col-PC-1 {width:81.666666666667px;}
-.col-PC-2 {width:163.33333333333px;}
-.col-PC-3 {width:245px;}
-.col-PC-4 {width:326.66666666667px;}
-.col-PC-5 {width:408.33333333333px;}
-.col-PC-6 {width:490px;}
-.col-PC-7 {width:571.66666666667px;}
-.col-PC-8 {width:653.33333333333px;}
-.col-PC-9 {width:735px;}
-.col-PC-10 {width:816.66666666667px;}
-.col-PC-11 {width:898.33333333333px;}
-.col-PC-12 {width:980px;}
-}
-
-@media (max-width:976px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:976px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:976px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:81.333333333333px;}
-.col-variable-2 {width:162.66666666667px;}
-.col-variable-3 {width:244px;}
-.col-variable-4 {width:325.33333333333px;}
-.col-variable-5 {width:406.66666666667px;}
-.col-variable-6 {width:488px;}
-.col-variable-7 {width:569.33333333333px;}
-.col-variable-8 {width:650.66666666667px;}
-.col-variable-9 {width:732px;}
-.col-variable-10 {width:813.33333333333px;}
-.col-variable-11 {width:894.66666666667px;}
-.col-variable-12 {width:976px;}
-
-
-.col-PC-1 {width:81.333333333333px;}
-.col-PC-2 {width:162.66666666667px;}
-.col-PC-3 {width:244px;}
-.col-PC-4 {width:325.33333333333px;}
-.col-PC-5 {width:406.66666666667px;}
-.col-PC-6 {width:488px;}
-.col-PC-7 {width:569.33333333333px;}
-.col-PC-8 {width:650.66666666667px;}
-.col-PC-9 {width:732px;}
-.col-PC-10 {width:813.33333333333px;}
-.col-PC-11 {width:894.66666666667px;}
-.col-PC-12 {width:976px;}
-}
-
-@media (max-width:972px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:972px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:972px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:81px;}
-.col-variable-2 {width:162px;}
-.col-variable-3 {width:243px;}
-.col-variable-4 {width:324px;}
-.col-variable-5 {width:405px;}
-.col-variable-6 {width:486px;}
-.col-variable-7 {width:567px;}
-.col-variable-8 {width:648px;}
-.col-variable-9 {width:729px;}
-.col-variable-10 {width:810px;}
-.col-variable-11 {width:891px;}
-.col-variable-12 {width:972px;}
-
-
-.col-PC-1 {width:81px;}
-.col-PC-2 {width:162px;}
-.col-PC-3 {width:243px;}
-.col-PC-4 {width:324px;}
-.col-PC-5 {width:405px;}
-.col-PC-6 {width:486px;}
-.col-PC-7 {width:567px;}
-.col-PC-8 {width:648px;}
-.col-PC-9 {width:729px;}
-.col-PC-10 {width:810px;}
-.col-PC-11 {width:891px;}
-.col-PC-12 {width:972px;}
-}
-
-@media (max-width:968px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:968px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:968px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:80.666666666667px;}
-.col-variable-2 {width:161.33333333333px;}
-.col-variable-3 {width:242px;}
-.col-variable-4 {width:322.66666666667px;}
-.col-variable-5 {width:403.33333333333px;}
-.col-variable-6 {width:484px;}
-.col-variable-7 {width:564.66666666667px;}
-.col-variable-8 {width:645.33333333333px;}
-.col-variable-9 {width:726px;}
-.col-variable-10 {width:806.66666666667px;}
-.col-variable-11 {width:887.33333333333px;}
-.col-variable-12 {width:968px;}
-
-
-.col-PC-1 {width:80.666666666667px;}
-.col-PC-2 {width:161.33333333333px;}
-.col-PC-3 {width:242px;}
-.col-PC-4 {width:322.66666666667px;}
-.col-PC-5 {width:403.33333333333px;}
-.col-PC-6 {width:484px;}
-.col-PC-7 {width:564.66666666667px;}
-.col-PC-8 {width:645.33333333333px;}
-.col-PC-9 {width:726px;}
-.col-PC-10 {width:806.66666666667px;}
-.col-PC-11 {width:887.33333333333px;}
-.col-PC-12 {width:968px;}
-}
-
-@media (max-width:964px){
-
-.container {
-margin:0 auto;
-padding: 0;
-width:964px;
-}
-
-/* Row to make separat continer cause jumb unnessery commponent up*/
-/* Esssssssssential because of col %%%%%%% */
-.row {
-width:964px;
-margin:0 auto;
-padding: 0;
-float: left;
-}
-
-
-.col-variable-1 {width:80.333333333333px;}
-.col-variable-2 {width:160.66666666667px;}
-.col-variable-3 {width:241px;}
-.col-variable-4 {width:321.33333333333px;}
-.col-variable-5 {width:401.66666666667px;}
-.col-variable-6 {width:482px;}
-.col-variable-7 {width:562.33333333333px;}
-.col-variable-8 {width:642.66666666667px;}
-.col-variable-9 {width:723px;}
-.col-variable-10 {width:803.33333333333px;}
-.col-variable-11 {width:883.66666666667px;}
-.col-variable-12 {width:964px;}
-
-
-.col-PC-1 {width:80.333333333333px;}
-.col-PC-2 {width:160.66666666667px;}
-.col-PC-3 {width:241px;}
-.col-PC-4 {width:321.33333333333px;}
-.col-PC-5 {width:401.66666666667px;}
-.col-PC-6 {width:482px;}
-.col-PC-7 {width:562.33333333333px;}
-.col-PC-8 {width:642.66666666667px;}
-.col-PC-9 {width:723px;}
-.col-PC-10 {width:803.33333333333px;}
-.col-PC-11 {width:883.66666666667px;}
-.col-PC-12 {width:964px;}
-}
-
-@media (max-width:960px){
+@media (max-width:1600px){
 
 .container {
 margin:0 auto;
@@ -2805,7 +45,8 @@ float: left;
 .col-PC-12 {width:960px;}
 }
 
-@media (max-width:956px){
+/*PC*/
+@media (max-width:960px){
 
 .container {
 margin:0 auto;
@@ -2851,7 +92,7 @@ float: left;
 .col-PC-12 {width:956px;}
 }
 
-@media (max-width:952px){
+@media (max-width:956px){
 
 .container {
 margin:0 auto;
@@ -2897,7 +138,7 @@ float: left;
 .col-PC-12 {width:952px;}
 }
 
-@media (max-width:948px){
+@media (max-width:952px){
 
 .container {
 margin:0 auto;
@@ -2943,7 +184,7 @@ float: left;
 .col-PC-12 {width:948px;}
 }
 
-@media (max-width:944px){
+@media (max-width:948px){
 
 .container {
 margin:0 auto;
@@ -2989,7 +230,7 @@ float: left;
 .col-PC-12 {width:944px;}
 }
 
-@media (max-width:940px){
+@media (max-width:944px){
 
 .container {
 margin:0 auto;
@@ -3035,7 +276,7 @@ float: left;
 .col-PC-12 {width:940px;}
 }
 
-@media (max-width:936px){
+@media (max-width:940px){
 
 .container {
 margin:0 auto;
@@ -3081,7 +322,7 @@ float: left;
 .col-PC-12 {width:936px;}
 }
 
-@media (max-width:932px){
+@media (max-width:936px){
 
 .container {
 margin:0 auto;
@@ -3127,7 +368,7 @@ float: left;
 .col-PC-12 {width:932px;}
 }
 
-@media (max-width:928px){
+@media (max-width:932px){
 
 .container {
 margin:0 auto;
@@ -3173,7 +414,7 @@ float: left;
 .col-PC-12 {width:928px;}
 }
 
-@media (max-width:924px){
+@media (max-width:928px){
 
 .container {
 margin:0 auto;
@@ -3219,7 +460,7 @@ float: left;
 .col-PC-12 {width:924px;}
 }
 
-@media (max-width:920px){
+@media (max-width:924px){
 
 .container {
 margin:0 auto;
@@ -3265,7 +506,7 @@ float: left;
 .col-PC-12 {width:920px;}
 }
 
-@media (max-width:916px){
+@media (max-width:920px){
 
 .container {
 margin:0 auto;
@@ -3311,7 +552,7 @@ float: left;
 .col-PC-12 {width:916px;}
 }
 
-@media (max-width:912px){
+@media (max-width:916px){
 
 .container {
 margin:0 auto;
@@ -3357,7 +598,7 @@ float: left;
 .col-PC-12 {width:912px;}
 }
 
-@media (max-width:908px){
+@media (max-width:912px){
 
 .container {
 margin:0 auto;
@@ -3403,7 +644,7 @@ float: left;
 .col-PC-12 {width:908px;}
 }
 
-@media (max-width:904px){
+@media (max-width:908px){
 
 .container {
 margin:0 auto;
@@ -3449,7 +690,7 @@ float: left;
 .col-PC-12 {width:904px;}
 }
 
-@media (max-width:900px){
+@media (max-width:904px){
 
 .container {
 margin:0 auto;
@@ -3495,7 +736,7 @@ float: left;
 .col-PC-12 {width:900px;}
 }
 
-@media (max-width:896px){
+@media (max-width:900px){
 
 .container {
 margin:0 auto;
@@ -3541,7 +782,7 @@ float: left;
 .col-PC-12 {width:896px;}
 }
 
-@media (max-width:892px){
+@media (max-width:896px){
 
 .container {
 margin:0 auto;
@@ -3587,7 +828,7 @@ float: left;
 .col-PC-12 {width:892px;}
 }
 
-@media (max-width:888px){
+@media (max-width:892px){
 
 .container {
 margin:0 auto;
@@ -3633,7 +874,7 @@ float: left;
 .col-PC-12 {width:888px;}
 }
 
-@media (max-width:884px){
+@media (max-width:888px){
 
 .container {
 margin:0 auto;
@@ -3679,7 +920,7 @@ float: left;
 .col-PC-12 {width:884px;}
 }
 
-@media (max-width:880px){
+@media (max-width:884px){
 
 .container {
 margin:0 auto;
@@ -3725,7 +966,7 @@ float: left;
 .col-PC-12 {width:880px;}
 }
 
-@media (max-width:876px){
+@media (max-width:880px){
 
 .container {
 margin:0 auto;
@@ -3771,7 +1012,7 @@ float: left;
 .col-PC-12 {width:876px;}
 }
 
-@media (max-width:872px){
+@media (max-width:876px){
 
 .container {
 margin:0 auto;
@@ -3817,7 +1058,7 @@ float: left;
 .col-PC-12 {width:872px;}
 }
 
-@media (max-width:868px){
+@media (max-width:872px){
 
 .container {
 margin:0 auto;
@@ -3863,7 +1104,7 @@ float: left;
 .col-PC-12 {width:868px;}
 }
 
-@media (max-width:864px){
+@media (max-width:868px){
 
 .container {
 margin:0 auto;
@@ -3909,7 +1150,7 @@ float: left;
 .col-PC-12 {width:864px;}
 }
 
-@media (max-width:860px){
+@media (max-width:864px){
 
 .container {
 margin:0 auto;
@@ -3955,7 +1196,7 @@ float: left;
 .col-PC-12 {width:860px;}
 }
 
-@media (max-width:856px){
+@media (max-width:860px){
 
 .container {
 margin:0 auto;
@@ -4001,7 +1242,7 @@ float: left;
 .col-PC-12 {width:856px;}
 }
 
-@media (max-width:852px){
+@media (max-width:856px){
 
 .container {
 margin:0 auto;
@@ -4047,7 +1288,7 @@ float: left;
 .col-PC-12 {width:852px;}
 }
 
-@media (max-width:848px){
+@media (max-width:852px){
 
 .container {
 margin:0 auto;
@@ -4093,7 +1334,7 @@ float: left;
 .col-PC-12 {width:848px;}
 }
 
-@media (max-width:844px){
+@media (max-width:848px){
 
 .container {
 margin:0 auto;
@@ -4139,7 +1380,7 @@ float: left;
 .col-PC-12 {width:844px;}
 }
 
-@media (max-width:840px){
+@media (max-width:844px){
 
 .container {
 margin:0 auto;
@@ -4185,7 +1426,7 @@ float: left;
 .col-PC-12 {width:840px;}
 }
 
-@media (max-width:836px){
+@media (max-width:840px){
 
 .container {
 margin:0 auto;
@@ -4231,7 +1472,7 @@ float: left;
 .col-PC-12 {width:836px;}
 }
 
-@media (max-width:832px){
+@media (max-width:836px){
 
 .container {
 margin:0 auto;
@@ -4277,7 +1518,7 @@ float: left;
 .col-PC-12 {width:832px;}
 }
 
-@media (max-width:828px){
+@media (max-width:832px){
 
 .container {
 margin:0 auto;
@@ -4323,7 +1564,7 @@ float: left;
 .col-PC-12 {width:828px;}
 }
 
-@media (max-width:824px){
+@media (max-width:828px){
 
 .container {
 margin:0 auto;
@@ -4369,7 +1610,7 @@ float: left;
 .col-PC-12 {width:824px;}
 }
 
-@media (max-width:820px){
+@media (max-width:824px){
 
 .container {
 margin:0 auto;
@@ -4415,7 +1656,7 @@ float: left;
 .col-PC-12 {width:820px;}
 }
 
-@media (max-width:816px){
+@media (max-width:820px){
 
 .container {
 margin:0 auto;
@@ -4461,7 +1702,7 @@ float: left;
 .col-PC-12 {width:816px;}
 }
 
-@media (max-width:812px){
+@media (max-width:816px){
 
 .container {
 margin:0 auto;
@@ -4507,7 +1748,7 @@ float: left;
 .col-PC-12 {width:812px;}
 }
 
-@media (max-width:808px){
+@media (max-width:812px){
 
 .container {
 margin:0 auto;
@@ -4553,7 +1794,7 @@ float: left;
 .col-PC-12 {width:808px;}
 }
 
-@media (max-width:804px){
+@media (max-width:808px){
 
 .container {
 margin:0 auto;
@@ -4599,7 +1840,7 @@ float: left;
 .col-PC-12 {width:804px;}
 }
 
-@media (max-width:800px){
+@media (max-width:804px){
 
 .container {
 margin:0 auto;
@@ -4645,7 +1886,7 @@ float: left;
 .col-PC-12 {width:800px;}
 }
 
-@media (max-width:796px){
+@media (max-width:800px){
 
 .container {
 margin:0 auto;
@@ -4691,7 +1932,7 @@ float: left;
 .col-PC-12 {width:796px;}
 }
 
-@media (max-width:792px){
+@media (max-width:796px){
 
 .container {
 margin:0 auto;
@@ -4737,7 +1978,7 @@ float: left;
 .col-PC-12 {width:792px;}
 }
 
-@media (max-width:788px){
+@media (max-width:792px){
 
 .container {
 margin:0 auto;
@@ -4783,7 +2024,7 @@ float: left;
 .col-PC-12 {width:788px;}
 }
 
-@media (max-width:784px){
+@media (max-width:788px){
 
 .container {
 margin:0 auto;
@@ -4829,7 +2070,7 @@ float: left;
 .col-PC-12 {width:784px;}
 }
 
-@media (max-width:780px){
+@media (max-width:784px){
 
 .container {
 margin:0 auto;
@@ -4875,7 +2116,7 @@ float: left;
 .col-PC-12 {width:780px;}
 }
 
-@media (max-width:776px){
+@media (max-width:780px){
 
 .container {
 margin:0 auto;
@@ -4921,7 +2162,7 @@ float: left;
 .col-PC-12 {width:776px;}
 }
 
-@media (max-width:772px){
+@media (max-width:776px){
 
 .container {
 margin:0 auto;
@@ -4967,8 +2208,7 @@ float: left;
 .col-PC-12 {width:772px;}
 }
 
-/*Tablet*/
-@media (max-width:768px){
+@media (max-width:772px){
 
 .container {
 margin:0 auto;
@@ -4999,22 +2239,23 @@ float: left;
 .col-variable-11 {width:704px;}
 .col-variable-12 {width:768px;}
 
-/*Tablet*/
-.col-Tablet-1 {width:64px;}
-.col-Tablet-2 {width:128px;}
-.col-Tablet-3 {width:192px;}
-.col-Tablet-4 {width:256px;}
-.col-Tablet-5 {width:320px;}
-.col-Tablet-6 {width:384px;}
-.col-Tablet-7 {width:448px;}
-.col-Tablet-8 {width:512px;}
-.col-Tablet-9 {width:576px;}
-.col-Tablet-10 {width:640px;}
-.col-Tablet-11 {width:704px;}
-.col-Tablet-12 {width:768px;}
+
+.col-PC-1 {width:64px;}
+.col-PC-2 {width:128px;}
+.col-PC-3 {width:192px;}
+.col-PC-4 {width:256px;}
+.col-PC-5 {width:320px;}
+.col-PC-6 {width:384px;}
+.col-PC-7 {width:448px;}
+.col-PC-8 {width:512px;}
+.col-PC-9 {width:576px;}
+.col-PC-10 {width:640px;}
+.col-PC-11 {width:704px;}
+.col-PC-12 {width:768px;}
 }
 
-@media (max-width:764px){
+/*Tablet*/
+@media (max-width:768px){
 
 .container {
 margin:0 auto;
@@ -5060,7 +2301,7 @@ float: left;
 .col-Tablet-12 {width:764px;}
 }
 
-@media (max-width:760px){
+@media (max-width:764px){
 
 .container {
 margin:0 auto;
@@ -5106,7 +2347,7 @@ float: left;
 .col-Tablet-12 {width:760px;}
 }
 
-@media (max-width:756px){
+@media (max-width:760px){
 
 .container {
 margin:0 auto;
@@ -5152,7 +2393,7 @@ float: left;
 .col-Tablet-12 {width:756px;}
 }
 
-@media (max-width:752px){
+@media (max-width:756px){
 
 .container {
 margin:0 auto;
@@ -5198,7 +2439,7 @@ float: left;
 .col-Tablet-12 {width:752px;}
 }
 
-@media (max-width:748px){
+@media (max-width:752px){
 
 .container {
 margin:0 auto;
@@ -5244,7 +2485,7 @@ float: left;
 .col-Tablet-12 {width:748px;}
 }
 
-@media (max-width:744px){
+@media (max-width:748px){
 
 .container {
 margin:0 auto;
@@ -5290,7 +2531,7 @@ float: left;
 .col-Tablet-12 {width:744px;}
 }
 
-@media (max-width:740px){
+@media (max-width:744px){
 
 .container {
 margin:0 auto;
@@ -5336,7 +2577,7 @@ float: left;
 .col-Tablet-12 {width:740px;}
 }
 
-@media (max-width:736px){
+@media (max-width:740px){
 
 .container {
 margin:0 auto;
@@ -5382,7 +2623,7 @@ float: left;
 .col-Tablet-12 {width:736px;}
 }
 
-@media (max-width:732px){
+@media (max-width:736px){
 
 .container {
 margin:0 auto;
@@ -5428,7 +2669,7 @@ float: left;
 .col-Tablet-12 {width:732px;}
 }
 
-@media (max-width:728px){
+@media (max-width:732px){
 
 .container {
 margin:0 auto;
@@ -5474,7 +2715,7 @@ float: left;
 .col-Tablet-12 {width:728px;}
 }
 
-@media (max-width:724px){
+@media (max-width:728px){
 
 .container {
 margin:0 auto;
@@ -5520,7 +2761,7 @@ float: left;
 .col-Tablet-12 {width:724px;}
 }
 
-@media (max-width:720px){
+@media (max-width:724px){
 
 .container {
 margin:0 auto;
@@ -5566,7 +2807,7 @@ float: left;
 .col-Tablet-12 {width:720px;}
 }
 
-@media (max-width:716px){
+@media (max-width:720px){
 
 .container {
 margin:0 auto;
@@ -5612,7 +2853,7 @@ float: left;
 .col-Tablet-12 {width:716px;}
 }
 
-@media (max-width:712px){
+@media (max-width:716px){
 
 .container {
 margin:0 auto;
@@ -5658,7 +2899,7 @@ float: left;
 .col-Tablet-12 {width:712px;}
 }
 
-@media (max-width:708px){
+@media (max-width:712px){
 
 .container {
 margin:0 auto;
@@ -5704,7 +2945,7 @@ float: left;
 .col-Tablet-12 {width:708px;}
 }
 
-@media (max-width:704px){
+@media (max-width:708px){
 
 .container {
 margin:0 auto;
@@ -5750,7 +2991,7 @@ float: left;
 .col-Tablet-12 {width:704px;}
 }
 
-@media (max-width:700px){
+@media (max-width:704px){
 
 .container {
 margin:0 auto;
@@ -5796,7 +3037,7 @@ float: left;
 .col-Tablet-12 {width:700px;}
 }
 
-@media (max-width:696px){
+@media (max-width:700px){
 
 .container {
 margin:0 auto;
@@ -5842,7 +3083,7 @@ float: left;
 .col-Tablet-12 {width:696px;}
 }
 
-@media (max-width:692px){
+@media (max-width:696px){
 
 .container {
 margin:0 auto;
@@ -5888,7 +3129,7 @@ float: left;
 .col-Tablet-12 {width:692px;}
 }
 
-@media (max-width:688px){
+@media (max-width:692px){
 
 .container {
 margin:0 auto;
@@ -5934,7 +3175,7 @@ float: left;
 .col-Tablet-12 {width:688px;}
 }
 
-@media (max-width:684px){
+@media (max-width:688px){
 
 .container {
 margin:0 auto;
@@ -5980,7 +3221,7 @@ float: left;
 .col-Tablet-12 {width:684px;}
 }
 
-@media (max-width:680px){
+@media (max-width:684px){
 
 .container {
 margin:0 auto;
@@ -6026,7 +3267,7 @@ float: left;
 .col-Tablet-12 {width:680px;}
 }
 
-@media (max-width:676px){
+@media (max-width:680px){
 
 .container {
 margin:0 auto;
@@ -6072,7 +3313,7 @@ float: left;
 .col-Tablet-12 {width:676px;}
 }
 
-@media (max-width:672px){
+@media (max-width:676px){
 
 .container {
 margin:0 auto;
@@ -6118,7 +3359,7 @@ float: left;
 .col-Tablet-12 {width:672px;}
 }
 
-@media (max-width:668px){
+@media (max-width:672px){
 
 .container {
 margin:0 auto;
@@ -6164,7 +3405,7 @@ float: left;
 .col-Tablet-12 {width:668px;}
 }
 
-@media (max-width:664px){
+@media (max-width:668px){
 
 .container {
 margin:0 auto;
@@ -6210,7 +3451,7 @@ float: left;
 .col-Tablet-12 {width:664px;}
 }
 
-@media (max-width:660px){
+@media (max-width:664px){
 
 .container {
 margin:0 auto;
@@ -6256,7 +3497,7 @@ float: left;
 .col-Tablet-12 {width:660px;}
 }
 
-@media (max-width:656px){
+@media (max-width:660px){
 
 .container {
 margin:0 auto;
@@ -6302,7 +3543,7 @@ float: left;
 .col-Tablet-12 {width:656px;}
 }
 
-@media (max-width:652px){
+@media (max-width:656px){
 
 .container {
 margin:0 auto;
@@ -6348,7 +3589,7 @@ float: left;
 .col-Tablet-12 {width:652px;}
 }
 
-@media (max-width:648px){
+@media (max-width:652px){
 
 .container {
 margin:0 auto;
@@ -6394,7 +3635,7 @@ float: left;
 .col-Tablet-12 {width:648px;}
 }
 
-@media (max-width:644px){
+@media (max-width:648px){
 
 .container {
 margin:0 auto;
@@ -6440,7 +3681,7 @@ float: left;
 .col-Tablet-12 {width:644px;}
 }
 
-@media (max-width:640px){
+@media (max-width:644px){
 
 .container {
 margin:0 auto;
@@ -6486,7 +3727,7 @@ float: left;
 .col-Tablet-12 {width:640px;}
 }
 
-@media (max-width:636px){
+@media (max-width:640px){
 
 .container {
 margin:0 auto;
@@ -6532,7 +3773,7 @@ float: left;
 .col-Tablet-12 {width:636px;}
 }
 
-@media (max-width:632px){
+@media (max-width:636px){
 
 .container {
 margin:0 auto;
@@ -6578,7 +3819,7 @@ float: left;
 .col-Tablet-12 {width:632px;}
 }
 
-@media (max-width:628px){
+@media (max-width:632px){
 
 .container {
 margin:0 auto;
@@ -6624,7 +3865,7 @@ float: left;
 .col-Tablet-12 {width:628px;}
 }
 
-@media (max-width:624px){
+@media (max-width:628px){
 
 .container {
 margin:0 auto;
@@ -6670,7 +3911,7 @@ float: left;
 .col-Tablet-12 {width:624px;}
 }
 
-@media (max-width:620px){
+@media (max-width:624px){
 
 .container {
 margin:0 auto;
@@ -6716,7 +3957,7 @@ float: left;
 .col-Tablet-12 {width:620px;}
 }
 
-@media (max-width:616px){
+@media (max-width:620px){
 
 .container {
 margin:0 auto;
@@ -6762,7 +4003,7 @@ float: left;
 .col-Tablet-12 {width:616px;}
 }
 
-@media (max-width:612px){
+@media (max-width:616px){
 
 .container {
 margin:0 auto;
@@ -6808,7 +4049,7 @@ float: left;
 .col-Tablet-12 {width:612px;}
 }
 
-@media (max-width:608px){
+@media (max-width:612px){
 
 .container {
 margin:0 auto;
@@ -6854,7 +4095,7 @@ float: left;
 .col-Tablet-12 {width:608px;}
 }
 
-@media (max-width:604px){
+@media (max-width:608px){
 
 .container {
 margin:0 auto;
@@ -6900,7 +4141,7 @@ float: left;
 .col-Tablet-12 {width:604px;}
 }
 
-@media (max-width:600px){
+@media (max-width:604px){
 
 .container {
 margin:0 auto;
@@ -6946,7 +4187,7 @@ float: left;
 .col-Tablet-12 {width:600px;}
 }
 
-@media (max-width:596px){
+@media (max-width:600px){
 
 .container {
 margin:0 auto;
@@ -6992,7 +4233,7 @@ float: left;
 .col-Tablet-12 {width:596px;}
 }
 
-@media (max-width:592px){
+@media (max-width:596px){
 
 .container {
 margin:0 auto;
@@ -7038,7 +4279,7 @@ float: left;
 .col-Tablet-12 {width:592px;}
 }
 
-@media (max-width:588px){
+@media (max-width:592px){
 
 .container {
 margin:0 auto;
@@ -7084,7 +4325,7 @@ float: left;
 .col-Tablet-12 {width:588px;}
 }
 
-@media (max-width:584px){
+@media (max-width:588px){
 
 .container {
 margin:0 auto;
@@ -7130,7 +4371,7 @@ float: left;
 .col-Tablet-12 {width:584px;}
 }
 
-@media (max-width:580px){
+@media (max-width:584px){
 
 .container {
 margin:0 auto;
@@ -7176,7 +4417,7 @@ float: left;
 .col-Tablet-12 {width:580px;}
 }
 
-@media (max-width:576px){
+@media (max-width:580px){
 
 .container {
 margin:0 auto;
@@ -7222,7 +4463,7 @@ float: left;
 .col-Tablet-12 {width:576px;}
 }
 
-@media (max-width:572px){
+@media (max-width:576px){
 
 .container {
 margin:0 auto;
@@ -7268,7 +4509,7 @@ float: left;
 .col-Tablet-12 {width:572px;}
 }
 
-@media (max-width:568px){
+@media (max-width:572px){
 
 .container {
 margin:0 auto;
@@ -7314,7 +4555,7 @@ float: left;
 .col-Tablet-12 {width:568px;}
 }
 
-@media (max-width:564px){
+@media (max-width:568px){
 
 .container {
 margin:0 auto;
@@ -7360,7 +4601,7 @@ float: left;
 .col-Tablet-12 {width:564px;}
 }
 
-@media (max-width:560px){
+@media (max-width:564px){
 
 .container {
 margin:0 auto;
@@ -7406,7 +4647,7 @@ float: left;
 .col-Tablet-12 {width:560px;}
 }
 
-@media (max-width:556px){
+@media (max-width:560px){
 
 .container {
 margin:0 auto;
@@ -7452,7 +4693,7 @@ float: left;
 .col-Tablet-12 {width:556px;}
 }
 
-@media (max-width:552px){
+@media (max-width:556px){
 
 .container {
 margin:0 auto;
@@ -7498,7 +4739,7 @@ float: left;
 .col-Tablet-12 {width:552px;}
 }
 
-@media (max-width:548px){
+@media (max-width:552px){
 
 .container {
 margin:0 auto;
@@ -7544,7 +4785,7 @@ float: left;
 .col-Tablet-12 {width:548px;}
 }
 
-@media (max-width:544px){
+@media (max-width:548px){
 
 .container {
 margin:0 auto;
@@ -7590,7 +4831,7 @@ float: left;
 .col-Tablet-12 {width:544px;}
 }
 
-@media (max-width:540px){
+@media (max-width:544px){
 
 .container {
 margin:0 auto;
@@ -7636,7 +4877,7 @@ float: left;
 .col-Tablet-12 {width:540px;}
 }
 
-@media (max-width:536px){
+@media (max-width:540px){
 
 .container {
 margin:0 auto;
@@ -7682,7 +4923,7 @@ float: left;
 .col-Tablet-12 {width:536px;}
 }
 
-@media (max-width:532px){
+@media (max-width:536px){
 
 .container {
 margin:0 auto;
@@ -7728,7 +4969,7 @@ float: left;
 .col-Tablet-12 {width:532px;}
 }
 
-@media (max-width:528px){
+@media (max-width:532px){
 
 .container {
 margin:0 auto;
@@ -7774,7 +5015,7 @@ float: left;
 .col-Tablet-12 {width:528px;}
 }
 
-@media (max-width:524px){
+@media (max-width:528px){
 
 .container {
 margin:0 auto;
@@ -7820,7 +5061,7 @@ float: left;
 .col-Tablet-12 {width:524px;}
 }
 
-@media (max-width:520px){
+@media (max-width:524px){
 
 .container {
 margin:0 auto;
@@ -7866,7 +5107,7 @@ float: left;
 .col-Tablet-12 {width:520px;}
 }
 
-@media (max-width:516px){
+@media (max-width:520px){
 
 .container {
 margin:0 auto;
@@ -7912,7 +5153,7 @@ float: left;
 .col-Tablet-12 {width:516px;}
 }
 
-@media (max-width:512px){
+@media (max-width:516px){
 
 .container {
 margin:0 auto;
@@ -7958,7 +5199,7 @@ float: left;
 .col-Tablet-12 {width:512px;}
 }
 
-@media (max-width:508px){
+@media (max-width:512px){
 
 .container {
 margin:0 auto;
@@ -8004,7 +5245,7 @@ float: left;
 .col-Tablet-12 {width:508px;}
 }
 
-@media (max-width:504px){
+@media (max-width:508px){
 
 .container {
 margin:0 auto;
@@ -8050,7 +5291,7 @@ float: left;
 .col-Tablet-12 {width:504px;}
 }
 
-@media (max-width:500px){
+@media (max-width:504px){
 
 .container {
 margin:0 auto;
@@ -8096,7 +5337,7 @@ float: left;
 .col-Tablet-12 {width:500px;}
 }
 
-@media (max-width:496px){
+@media (max-width:500px){
 
 .container {
 margin:0 auto;
@@ -8142,7 +5383,7 @@ float: left;
 .col-Tablet-12 {width:496px;}
 }
 
-@media (max-width:492px){
+@media (max-width:496px){
 
 .container {
 margin:0 auto;
@@ -8188,7 +5429,7 @@ float: left;
 .col-Tablet-12 {width:492px;}
 }
 
-@media (max-width:488px){
+@media (max-width:492px){
 
 .container {
 margin:0 auto;
@@ -8234,7 +5475,7 @@ float: left;
 .col-Tablet-12 {width:488px;}
 }
 
-@media (max-width:484px){
+@media (max-width:488px){
 
 .container {
 margin:0 auto;
@@ -8280,3 +5521,48 @@ float: left;
 .col-Tablet-12 {width:484px;}
 }
 
+@media (max-width:484px){
+
+.container {
+margin:0 auto;
+padding: 0;
+width:480px;
+}
+
+/* Row to make separat continer cause jumb unnessery commponent up*/
+/* Esssssssssential because of col %%%%%%% */
+.row {
+width:480px;
+margin:0 auto;
+padding: 0;
+float: left;
+}
+
+
+.col-variable-1 {width:40px;}
+.col-variable-2 {width:80px;}
+.col-variable-3 {width:120px;}
+.col-variable-4 {width:160px;}
+.col-variable-5 {width:200px;}
+.col-variable-6 {width:240px;}
+.col-variable-7 {width:280px;}
+.col-variable-8 {width:320px;}
+.col-variable-9 {width:360px;}
+.col-variable-10 {width:400px;}
+.col-variable-11 {width:440px;}
+.col-variable-12 {width:480px;}
+
+/*Tablet*/
+.col-Tablet-1 {width:40px;}
+.col-Tablet-2 {width:80px;}
+.col-Tablet-3 {width:120px;}
+.col-Tablet-4 {width:160px;}
+.col-Tablet-5 {width:200px;}
+.col-Tablet-6 {width:240px;}
+.col-Tablet-7 {width:280px;}
+.col-Tablet-8 {width:320px;}
+.col-Tablet-9 {width:360px;}
+.col-Tablet-10 {width:400px;}
+.col-Tablet-11 {width:440px;}
+.col-Tablet-12 {width:480px;}
+}
