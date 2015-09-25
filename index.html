@@ -354,7 +354,7 @@ jQuery(document).ready
 		(
 			function() 
 			{
-				$(":button").hide();
+				$(":button").hide(1000 ,"fast");
 			}
 			);		
 	}
@@ -386,7 +386,39 @@ jQuery(document).ready
 			}
 			);		
 	}
-	);					
+	);
+//function 10
+$(document).ready(function(){
+    $("tr:odd").css("background-color", "yellow");
+});			
+
+//function 11
+$(document).ready(function(){
+    $("button").click(function(){
+        $("a[target='_blank']").hide();
+    });
+});
+
+//function 12
+$(document).ready(function(){
+    $("button").click(function(){
+        $("a[target!='_blank']").hide();
+    });
+});
+
+//function 13
+$(document).ready(function(){
+    $("button").click(function(){
+        $("p").toggle();
+    });
+});
+//function 14 
+$("#flip").click(function(){
+    $("#panel").slideDown();
+});
+
+//function
+//function			
 </script>
 </body>
 </html>	
