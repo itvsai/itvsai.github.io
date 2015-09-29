@@ -1,1 +1,0 @@
-cd C:/xampp/htdocs/dashboard/www/wordpress-4.3/wp-content/themes/_3CMSwingit/itvsai.github.io

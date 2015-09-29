@@ -1,0 +1,345 @@
+html ,body{
+  font-family: sans-serif;
+}
+body {
+	margin: 0;
+	padding: 0;
+}
+article,aside,details,figcaption,figure,footer,header,hgroup,
+main,menu,nav,section,summary {
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+/***********************/
+/*inline level elements*/
+/***********************/
+
+b, big, i, small, tt,
+abbr, acronym, cite, code, dfn, em, kbd, strong, samp, var,
+a, bdo, br, img, map, object, q, script, span, sub, sup,
+button, input, label, select, textarea {
+	margin: 0;
+	padding: 0;
+}
+
+/************************/
+/* Block Level Elements */
+/************************/
+address,article,aside,blockquote,canvas,dd,div,dl
+fieldset,figcaption ,figure ,footer,form,h1, h2, h3, h4, h5, h6,header,hgroup 
+hr,main,nav,noscript,ol,output ,p,pre,section,table,tfoot,ul,video {
+	margin: 0;
+	padding: 0;
+}
+
+li{
+  margin: 0;
+  padding: 0;
+}
+
+    a:link , a:visited  {
+      color:#fff;
+      text-decoration: none;
+      text-align: center;
+      font-size: 20px;
+      font-family: fantasy;
+
+    }
+    a:active {
+      color: #000;
+    }
+    a:hover{
+      color: #FB6648;
+    }
+/************************/
+/* Clear Classes */
+/************************/
+
+/*clear the float used to mak gap if no container row used */
+.clear{
+  clear: both;
+  /*    clear: right;
+      clear: left;
+    */  }
+    .clear-fix:after  {
+      clear:both;/* clear and push down*/
+      content: ".";/* put period dot */
+      visibility: hidden;/*hide period . dot and any thing inside class start & end tags */
+      height: 0;
+      display: block;
+    }
+    .clear-fix{display: inline-block;}
+    /*Hide from IE-mac\*/
+    *html .clear-fix{height: 1%;}
+    .clear-fix{display: block;}
+    /*End Hide from IE-mac*/
+    /* @end */
+
+    /************************/
+    /* END Clear Classes */
+    /************************/
+
+    /************************/
+    /* Gap Class */
+    /************************/
+.Gap{
+
+}
+.Gap-v{
+
+}
+    /************************/
+    /* END Gap Class */
+    /************************/
+
+    /************************/
+    /* Hide Class */
+    /************************/
+    .hide{/*Standerd way*/
+      position: absolute;
+      left:-999em;
+    }
+    .cancel-hide{
+      left:auto;
+    }
+
+
+
+
+    /************************/
+    /* Table CLasses */
+    /************************/
+
+    .table- {
+      border-collapse: collapse !important;
+    }
+    .table-tl td,
+    .table-tl th {
+      background-color: #fff !important;
+    }
+    .table-tl thead {
+     background-color: #FB6648;
+
+   }
+   .table-tl td:nth-child(1) {
+     background-color: #FB6648;
+
+   }
+
+   /* table-90*/
+   .table-90 table{
+    border-collapse: collapse !important;
+    /*border-radius: 20px;*/
+    border: 1px dashed #fff;
+    width:90%;
+    text-align: center;
+    font-family: serif;
+
+  }
+  .table-90 td,
+  .table-90 th {
+
+  }
+  .table-90 thead th {
+   background-color: #FB6648;
+
+ }
+ .table-90 td:nth-child(1) {
+   background-color: #FB6648;
+
+ }
+ .table-bordered th,
+ .table-bordered td {
+  border: 1px solid #ddd !important;
+}
+.table-hover > tbody > tr > td:hover,
+.table-hover > tbody > tr > th:hover,
+.table-hover > tbody > tr:hover > td,
+.table-hover > tbody > tr:hover > .danger,
+.table-hover > tbody > tr:hover > th {
+  background-color: #ebcccc;
+}
+.table-responsive {
+  min-height: .01%;
+  overflow-x: auto;
+}
+
+
+/************************/
+/* Navigation Classes*/
+/************************/
+
+/*Navbar menu default*/
+.nav-default{
+  width: 90%;
+  display: block;
+  background-color:;
+  float: left;
+  margin: 3px 1% 3px 1%;
+  padding: 0;
+  
+
+}
+.nav-default a{
+ font-family: inherit;
+ font-size: 20px;
+ text-decoration: none;
+ /*border-right: 1px solid #fff;*/
+ padding: 5% 16%;/* use 5px 10px*/
+ display: block;
+/* box-shadow: inset 0 0 5px #000;/*putiful strange*/
+}
+
+.nav-default a:hover {}
+.nav-default a:before{
+  content: "|";
+}
+.nav-default ul li{
+  list-style: none;
+  float: left;
+}
+.nav-default ul li a {
+
+}
+
+
+.nav-default ul ul {
+  position: absolute;
+  left: -999em;/*another way display:none;*/
+}
+.nav-default ul li:hover > ul {
+  left:auto;
+  background-color: #222;
+  padding: 0 1%;
+  box-shadow: 0 0 4px #000;
+}
+
+.nav-default ul li ul li {
+  float: none;
+}
+
+/*Navbar menu shadow*/
+.nav-shadow-gray {
+  width: 90%;
+  display: block;
+  background-color: #333;
+  float: left;
+  margin: 10px 1% 3px 1%;
+  padding: 0;
+  box-shadow: inset 0 0 8px #000;
+
+}
+.nav-shadow-gray a{
+ font-family: inherit;
+ font-size: 20px;
+ text-decoration: none;
+ /*border-right: 1px solid #fff;*/
+ padding: 5% 16%;/* use 5px 10px*/
+ display: block;
+/* box-shadow: inset 0 0 5px #000;/*putiful strange*/
+}
+
+.nav-shadow-gray a:hover {
+  box-shadow:  0 0 5px #000;
+}
+.nav-shadow-gray a:before{
+  content: "|";
+  display: none;/*Not work now*/
+}
+.nav-shadow-gray ul li{
+  list-style: none;
+  float: left;
+}
+.nav-shadow-gray ul li a {
+
+}
+
+.nav-shadow-gray ul ul{
+  display: none;
+}
+.nav-shadow-gray ul ul li{
+  position: relative;
+}
+.nav-shadow-gray ul ul ul{
+  display: none;
+}
+
+.nav-shadow-gray ul li:hover > ul.level1  {
+  display: block;
+  position: absolute;
+  background-color: #222;
+  padding: 0;
+ 
+  box-shadow: 0 0 4px #000;
+}
+
+.nav-shadow-gray ul ul li:hover > ul.level2  {
+  display: block;
+ position: absolute;
+  left: 100%;
+  top:0%;
+  width: 150%;
+  padding: 0;
+  background-color: #333;
+  box-shadow: 0 0 4px #000;
+}
+.nav-shadow-gray ul li ul li {
+  float: none;
+}
+
+/*Navbar menu with | boarder left*/
+.nav-boarder-left ul li a {
+  border-right: 1px solid #777;
+} 
+.nav-boarder-left ul ul li a , .nav-boarder ul ul ul li a {
+  border-right: none;
+} 
+
+/*Navbar menu with tabs */
+.nav-tabs { }
+.nav-tabs ul { 
+float: left;
+list-style: none;
+}
+.nav-tabs ul li { 
+float: left;
+list-style: none;
+}
+.nav-tabs ul li a { 
+border: 1px solid ;
+  border-radius: 6px 6px 0 0;
+    line-height: 1.42857143;
+border-color: #7fff00 #ff7f99 #8888ff;
+padding: 0 20%;
+display: block;
+}
+
+
+
+.nav-tabs ul li ul {
+  position: absolute;
+  left: -999em;/*another way display:none;*/
+}
+.nav-tabs ul li:hover ul {
+  left:auto;
+  background-color: #222;
+  box-shadow: 0 0 6px #000;
+display: block;
+
+}
+
+.nav-tabs ul li ul li ,.nav-tabs ul li ul  {
+float:none;
+
+ }
+.nav-tabs ul li ul li a { 
+
+  border-radius: 0px 0px 0 0;
+
+border-color: #7fff00 #ff7f99 #8888ff;
+display: block;
+}
+/************************/
+/* End Navigation Classes*/
+/************************/
