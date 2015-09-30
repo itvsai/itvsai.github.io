@@ -1,0 +1,336 @@
+
+		/***************************/
+		/* Essntial Elements Start */
+		/***************************/
+		body{
+			background-color: #222;
+			color: white;
+		}
+		#container{
+
+		}
+		header{
+			width: 100%;
+			float: left;
+		}
+		nav{
+			width: 100%;
+			float: left;
+			margin:  0 0 2% 0;
+			padding: 0;
+		}
+		.main{
+			width: 74%;
+			float: left;
+		}
+		section{
+			width: 90%;
+			float: left;
+			padding: 0 5%;
+			text-align: center;
+	/*		color:#FB6648;
+			text-decoration: underline;
+			*/
+		}
+		article{
+			width: 90%;
+			float: left;
+			margin: 0 5%;
+
+		}
+		aside{
+			width: 20%;
+			float: left;
+			padding: 0 3%;			
+			box-shadow: inset 0 0 20px #000;
+			height: 500px;
+		}
+		footer{
+			width: 100%;
+			float: left;
+		}
+		/***************************/
+		/* Essntial Elements END */
+		/***************************/
+
+		/***************************/
+		/* Essntial Elements SUB Start */
+		/***************************/		
+		nav ul  {
+
+			display: inline;
+		}
+		nav ul li {
+			display: block;
+			float: left;
+			width:100px;
+			text-align: center;
+			background-color:#3B3A35;
+
+		}
+	
+		nav ul li a {
+			
+
+		}		
+		header img{
+			box-shadow: 1px 1px 5px 3px #000;
+
+		}
+		/*****************************/
+		/* Essntial Elements END SUB */
+		/*****************************/
+
+		/*****************************/
+		/* CUSTOME CLASSes START     */
+		/*****************************/		
+
+
+
+		.banner img {
+			width: 100%;
+			height: 300px;
+	
+		}
+
+
+/*		.ground ,.ground ul,.ground li,.ground ul li a{
+			background-color: #222;
+			text-decoration: none;
+			color:#fff;	
+		}
+		*/
+		.color{
+			color:#FB6648;
+			display: none;
+		}	
+		.choose ul li a{
+			
+		}	
+		.choose ul li:first-child {
+			color:red;
+		}	
+
+		.logo img{
+			width:100%;
+			height: 5px;
+		}
+		.title{
+			text-shadow:6px 6px 4px  #000;/* verticla horizantal blure*/
+		}
+		.btn{
+			position: absolute;
+			top:300px;
+			left: 100px;
+			z-index: 1;
+			color:; 
+			width:100px;
+			background-color: #FEA85B;
+			text-align: center;
+
+		}
+		.btn{
+
+			text-shadow:0px 0px 4px  #000;/* verticla horizantal blure*/
+			box-shadow:6px 6px 4px  #000;/* verticla horizantal blure*/
+}
+.btn:hover{
+box-shadow:0px 0px 4px  #000;
+text-shadow:0px 0px 4px  #000;
+}
+		button{
+
+		}
+
+/* nav dropdown*/
+.dropdown {
+	width: 90%;
+		background-color: #aaa;
+}
+.dropdown ul {
+		background-color: #aaa;
+
+}
+
+.dropdown ul {
+	float: left;
+	list-style:none;
+	display: inline;
+	margin: 0;
+	padding: 0;
+}
+.dropdown li {
+	float: left;
+	list-style:none;
+	display: inline;	
+	margin: 0;
+	padding: 0;
+}
+.dropdown a{
+	display: block;
+	padding: 5px 10px;
+}
+.dropdown a:hover {
+	background-color: #555;
+}
+.dropdown ul ul{
+	position: absolute;
+	left: -999em;
+
+}
+.dropdown ul li:hover ul {
+	left: auto;
+}
+.dropdown ul {
+	padding: 0;
+	margin: 0;
+}
+.dropdown ul li ul li {
+	float: none;
+}
+
+
+		/*********/
+		/* table */
+		/*********/	
+		.table table {
+			width:90%;
+			border-collapse: collapse;/* very important to remove in between gaps*/
+			/*border: 1px solid #fff;*/
+
+			
+		}
+		.table thead th {
+			background-color: #20457C;
+			padding: 0 10px;
+
+		}
+		.table a:link , .table a:visited  {
+			color:#fff;
+			text-decoration: none;
+			text-align: center;
+			font-size: 20px;
+			font-family: serif;
+
+		}
+		.table a:active {
+			color: #000;
+		}
+		.table a:hover  {
+			color: #FB6648;
+		}
+/* table-tl*/
+  .table-90 table{
+    border-collapse: collapse !important;
+    /*border-radius: 20px;*/
+    border: 1px dashed #fff;
+    width:90%;
+	text-align: center;
+	font-family: serif;
+
+  }
+  .table-90 td,
+  .table-90 th {
+
+  }
+.table-90 thead th {
+	background-color: #FB6648;
+
+}
+.table-90 td:nth-child(1) {
+	background-color: #FB6648;
+
+}
+
+  .table-bordered th,
+  .table-bordered td {
+    border: 1px solid #ddd !important;
+  }
+
+.table-hover > tbody > tr > td:hover,
+.table-hover > tbody > tr > th:hover,
+.table-hover > tbody > tr:hover > td,
+.table-hover > tbody > tr:hover > .danger,
+.table-hover > tbody > tr:hover > th {
+  background-color: #ebcccc;
+  color: #ebcccc;
+
+}
+.table-responsive {
+  min-height: .01%;
+  overflow-x: auto;
+}
+  .table-responsive {
+    width: 100%;
+    margin-bottom: 15px;
+    overflow-y: hidden;
+    -ms-overflow-style: -ms-autohiding-scrollbar;
+    border: 1px solid #ddd;
+  }
+		/* gap*/
+		.clear-gap-buttom{
+			margin-bottom: 0;
+			padding: 0;
+		}
+		.clear-gap-top{
+			margin-top: 0;
+			padding-left: 0;
+		}
+		.fix li{
+			
+			height: 5px;
+			
+		}
+		.mk-gap {
+			margin-bottom: 20px;
+		}
+
+		/*custome nav class*/
+		.nav{
+			width: 100%;
+			float: left;
+			margin: 2% 0 0 0;
+			padding: 0;
+		}
+		.nav ul  {
+	/*		float: left;
+			list-style: none;
+			display: block;
+			padding: 5px 10px;*
+			*//*Problems all the above to li show and display*/
+			display: inline;
+		}
+		.nav ul li {
+			display: block;
+			float: left;
+			width:100px;
+			text-align: center;
+		}
+		.nav ul li:first-child {
+			background-color:#3B3A35;
+
+		}
+
+		.nav ul li:nth-child(2) {
+			background-color:#20457C;
+
+		}
+
+		.nav ul li:nth-child(3) {
+			background-color:#5E3448;
+
+		}
+		.nav ul li:nth-child(4) {
+			background-color:#FB6648;
+
+		}
+		.nav ul li:nth-child(5) {
+			background-color:#ECDFBD;
+		}
+		.nav ul li a {
+			
+
+		}		
+		/*****************************/
+		/* CUSTOME CLASSes END       */
+		/*****************************/

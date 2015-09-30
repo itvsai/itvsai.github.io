@@ -1,0 +1,375 @@
+<!Doctype html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8"><!---->
+	<meta name="viewport" content="width=device-width,initial-scale=1"><!--mobil first media query to work at mobile good -->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" ><!--for bootstrap to work good at IE-->
+	<title></title>
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+
+	<!-- IE 9 use different method than IE 7 & 8 to start good -->		
+		<!--[if It IE 9]>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+		<![endif]-->
+
+		<!--search difference between wordpress html5.js vs html5shiv.js by cdn-->
+		<style type="text/css">
+		body ,h1,h2,h3,h4,h5,h6,p{
+			margin: 0;
+			padding: 0;
+		}
+		body { background-color: #3B3A35;
+
+		}
+		table {
+			border-collapse: collapse;
+			border: 1px solid #fff;
+		}
+		table thead th {
+			background-color: #FB6648;
+			color: #fff;
+			padding: 10px;
+
+		}
+		table tbody tr:nth-child(odd) td {background-color: #444444;}
+		table thead td {}
+		table tbody tr {}
+		table tbody td {text-align: center;}
+
+		/* new */
+		div.center {
+			text-align: center;
+		}
+		div h1 {
+			color: #ff7f00;
+			font-size: 200%;
+		}
+
+		.center-margin-text{
+
+		}
+
+		#gray-box p {
+			color:#fff;
+			line-height: 25px;
+
+		}
+
+		.padding {
+			padding: 5px;
+		}
+
+		.clear-fix{
+			content: ".";
+			display: block;
+			height: 0;
+			clear: both;
+			visibility: hidden;
+		}
+
+/*Templat column
+
+.container{}
+
+.col-1{}
+.col-2{}
+.col-3{}
+.col-4{}
+.col-5{}
+.col-6{}
+.col-7{}
+.col-8{}
+.col-9{}
+.col-10{}
+.col-11{}
+.col-12{}
+*/
+.container{
+	width: 1170px;
+}
+
+
+.navbare{
+	background-color: #00ff00;
+	margin: 10px 20px;
+}
+
+.navbare ul {
+	display: inline-block;
+}
+.navbare li {
+	display: inline-block;
+}
+.navbare a{}
+
+
+.navbare ul {
+	list-style: none;
+}
+.navbare li {
+	padding: 0 10px;
+	list-style: none;
+}
+.navbare a{}
+.footer{}
+
+/* media query */
+@media (min-width : 760px ) {
+	.container {
+		margin: 0 auto;
+		width:960px;
+		background-color: #444;
+	}
+
+	.wrapper{width:960px;}
+	.half{width:480px;float: left;}
+	.half-minus{width:460px;float: left;margin: 10px 10px 10px 10px;}
+	.tlt{width:360px;float: left;margin: 10px 10px 10px 10px;}
+	.quarter{width:240px;float: left;margin: 10px 10px 10px 10px;}
+	.wrapper.quarter{width:265px;}
+	.col-1{width:8.333%;float: left;}
+	.col-2{width: 16.666%;float: left;}
+	.col-3{width: 25%;float: left;}
+	.col-4{width: 33.333%;float: left;}
+	.col-5{}
+	.col-6{width: 50%;float: left;}
+	.col-7{}
+	.col-8{}
+	.col-9{width: 75%;float: left;}
+	.col-10{}
+	.col-11{}
+	.col-12{width: 100%;}
+
+}
+
+/* media query */
+@media (max-width : 760px) {
+	.container {
+		margin: 0 auto;
+		width:600px;
+		background-color: #666;
+	}
+
+}
+
+</style>
+</head>
+<body>
+
+	<div class="container">
+
+		<!--header-->
+		<div class="center">
+			<h1>Learn CSS</h1>
+			<a href="https://97b66902aecee1f2c02ec48ef06cede5b2bda6e3.googledrive.com/host/0ByAtt-u9ddI8d3RSbEtLWllsUWc/?lang=ja2"> putiful app</a>
+			<div class="navbare clear-fix">
+				<ul>
+					<li><a href="#"></a>Home</li>
+					<li><a href="#"></a>about</li>
+					<li><a href="#"></a>Contact</li>
+					<li><a href="#"></a>BLOG</li>
+					<li><a href="#"></a>NEWS</li>
+				</ul>
+
+			</div><!-- END navabar -->
+		</div><!-- END center-->
+
+		<div class="wrapper col-12" id="gray-box">
+			<div class="half" style="background:#222;">
+				<p class="half-minus">Lorem Ipsum is simply you are fumy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard you are mmy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+				</p>
+				<!-- END Pragraph -->
+			</div>
+			<!-- END half -->
+			<div class="half" style="background:#222;">				
+				<p class="half-minus">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+				</p>
+			</div>
+			<!-- END half -->
+		</div>
+		<!-- END wrapper -->
+		<div class="clear-fix">
+		</div>
+
+		<!--page-->
+		<div class="wrapper">
+			<div class="half">
+				<div class="ghi">	
+					<p>
+						Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+					</p>
+				</div>
+				<!--end gfi-->
+
+				<div class="def">
+					<p>
+						The standard chunk of Lo
+						rem Ipsum used since the 1500s is 
+						reproduced below for those interested. Section
+						s 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum"
+						by Cicero are also reproduced in their exact original form, accompan
+						ied by English versions from the 1914 translation by H. Rackham.
+					</p>
+				</div>
+				<!--end def-->
+
+				<div class="abc">
+					<p>
+						There are many variations of passages 
+						of Lorem Ipsum available, but the majority have 
+						suffered alteration in some form, by injected humour, o
+						r randomised words which don't look even slightly believable
+						. If you are going to use a passage of Lorem Ipsum, you need to 
+						be sure there isn't anything embarrassing hidden in the middle of tex
+						t. All the Lorem Ipsum generators on the Internet tend to repeat predef
+						ined chunks as necessary, making this the first true generator on the 
+						of model sentence structures, to generate Lorem Ipsum which looks reasonab
+						le. The generated Lorem Ipsum is therefore always free from repetition, in
+						jected humour, or non-characteristic words etc.
+					</p>
+				</div>
+				<!-- end abc -->
+
+				<div class="tableeer">
+					<table>
+						<thead>
+							<tr>
+								<th>Title</th>
+								<th>Description</th>
+								<th>Date</th>
+								<th>Catagory</th>
+							</tr>
+						</thead>
+						<tr>
+							<td>1</td>
+							<td>2</td>
+							<td>3</td>
+							<td>4</td>
+						</tr>
+						<tr>
+							<td>1</td>
+							<td>2</td>
+							<td>3</td>
+							<td>4</td>
+						</tr>
+						<tr>
+							<td>1</td>
+							<td>2</td>
+							<td>3</td>
+							<td>4</td>
+						</tr>
+						<tr>
+							<td>1</td>
+							<td>2</td>
+							<td>3</td>
+							<td>4</td>
+						</tr>
+						<tr>
+							<td>1</td>
+							<td>2</td>
+							<td>3</td>
+							<td>4</td>
+						</tr>
+						<tr>
+							<td>1</td>
+							<td>2</td>
+							<td>3</td>
+							<td>4</td>
+						</tr>
+						<tr>
+							<td>1</td>
+							<td>2</td>
+							<td>3</td>
+							<td>4</td>
+						</tr>
+						<tr>
+							<td>1</td>
+							<td>2</td>
+							<td>3</td>
+							<td>4</td>
+						</tr>
+						<tr>
+							<td>1</td>
+							<td>2</td>
+							<td>3</td>
+							<td>4</td>
+						</tr>
+						<tr>
+							<td>1</td>
+							<td>2</td>
+							<td>3</td>
+							<td>4</td>
+						</tr>
+						<tr>
+							<td>1</td>
+							<td>2</td>
+							<td>3</td>
+							<td>4</td>
+						</tr>
+						<tr>
+							<td>1</td>
+							<td>2</td>
+							<td>3</td>
+							<td>4</td>
+						</tr>
+						<tr>
+							<td>1</td>
+							<td>2</td>
+							<td>3</td>
+							<td>4</td>
+						</tr>
+						<tr>
+							<td>1</td>
+							<td>2</td>
+							<td>3</td>
+							<td>4</td>
+						</tr>
+						<tr>
+							<td>1</td>
+							<td>2</td>
+							<td>3</td>
+							<td>4</td>
+						</tr>
+						<tr>
+							<td>1</td>
+							<td>2</td>
+							<td>3</td>
+							<td>4</td>
+						</tr>
+
+						<tbody>
+
+						</tbody>
+					</table>
+					<!-- end table -->
+				</div>
+				<!-- END tableeer -->
+			</div>
+			<!--end half-->
+
+			<!-- sidebar if you want -->
+			<div class="tlt">
+				<ul>
+					<li><a href=""></a>aaa</li>
+					<li><a href=""></a>aaa</li>
+					<li><a href=""></a>aaa</li>
+					<li><a href=""></a>aaa</li>
+					<li><a href=""></a>aaa</li>
+				</ul>
+			</div><!-- END tlt-->
+		</div>
+		<!-- end wrapper -->
+
+		<!--footer-->
+		<div class="footer wrapper">
+			<h5>@copyright</h5>
+		</div>
+		<!-- end footer -->
+
+	</div>
+	<!-- end container -->
+
+</body>
+</html>	
